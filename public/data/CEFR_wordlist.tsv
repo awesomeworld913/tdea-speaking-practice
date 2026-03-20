@@ -1,0 +1,1391 @@
+CEFR	No.	단어		PoS
+A1	1	above		preposition
+A1	2	address		noun
+A1	3	afraid		adjective
+A1	4	after (preposition)		preposition
+A1	5	age		noun
+A1	6	all		adjective + adverb + determiner + pronoun
+A1	7	all right		adjective + adverb
+A1	8	along		preposition
+A1	9	always		adverb
+A1	10	another		determiner + pronoun
+A1	11	any		determiner + pronoun
+A1	12	app		noun
+A1	13	around		preposition
+A1	14	asleep		adjective
+A1	15	at (preposition of time)		preposition of time
+A1	16	aunt		noun
+A1	17	awake		adjective
+A1	18	back		adjective + adverb + noun
+A1	19	bad		adjective
+A1	20	badly		adverb
+A1	21	balcony		noun
+A1	22	band	(music)	noun
+A1	23	basement		noun
+A1	24	bat		noun
+A1	25	be called		verb
+A1	26	beard		noun
+A1	27	because		conjunction
+A1	28	before (preposition)		preposition
+A1	29	below		preposition
+A1	30	best		adjective + adverb
+A1	31	better		adjective + adverb
+A1	32	blanket		noun
+A1	33	blond	(e)	adjective
+A1	34	boring		adjective
+A1	35	both		determiner + pronoun
+A1	36	bottle		noun
+A1	37	bottom		adjective + noun
+A1	38	bowl		noun
+A1	39	brave		adjective
+A1	40	break (noun)		noun
+A1	41	brilliant		adjective + exclamation
+A1	42	bring		verb
+A1	43	build		verb
+A1	44	building		noun
+A1	45	bus station		noun
+A1	46	bus stop		noun
+A1	47	busy		adjective
+A1	48	buy		verb
+A1	49	by (preposition of place)		preposition
+A1	49.1	by (preposition of time)		preposition
+A1	50	café		noun
+A1	51	cage		noun
+A1	52	call		verb
+A1	53	car park		noun
+A1	54	careful		adjective
+A1	55	carefully		adverb
+A1	56	carry		verb
+A1	57	catch (e.g. a bus)	(e.g. a bus)	verb
+A1	58	CD		noun
+A1	59	center		noun
+A1	60	change		verb
+A1	61	Charlie	사람 이름	noun
+A1	62	cheese		noun
+A1	63	cinema		noun
+A1	64	circle		noun
+A1	65	circus		noun
+A1	66	city		noun
+A1	67	city center		noun
+A1	68	Clare	사람 이름	noun
+A1	69	clever		adjective
+A1	70	climb		verb
+A1	71	cloud		noun
+A1	72	cloudy		adjective
+A1	73	clown		noun
+A1	74	coat		noun
+A1	75	coffee		noun
+A1	76	cold		adjective + noun
+A1	77	come on		exclamation
+A1	78	comic		noun
+A1	79	comic book		noun
+A1	80	cook		noun + verb
+A1	81	cough		noun
+A1	82	could (as in past of can for ability)	(as in past of can for ability)	verb
+A1	83	country		noun
+A1	84	countryside		noun
+A1	85	cry		verb
+A1	86	cup		noun
+A1	87	curly		adjective
+A1	88	Daisy	사람 이름	noun
+A1	89	dance		noun + verb
+A1	90	dangerous		adjective
+A1	91	daughter		noun
+A1	92	dentist		noun
+A1	93	difference		noun
+A1	94	different		adjective
+A1	95	difficult		adjective
+A1	96	doctor		noun
+A1	97	dolphin		noun
+A1	98	down		adverb + preposition
+A1	99	downstairs		adverb + noun
+A1	100	dream		noun + verb
+A1	101	dress up		verb
+A1	102	drive (noun)		noun
+A1	103	driver		noun
+A1	104	drop		verb
+A1	105	dry		adjective + verb
+A1	106	DVD		noun
+A1	107	earache		noun
+A1	108	easy		adjective
+A1	109	e-book		noun
+A1	110	elevator		noun
+A1	111	email		noun + verb
+A1	112	every		determiner
+A1	113	everyone		pronoun
+A1	114	everything		pronoun
+A1	115	exciting		adjective
+A1	116	excuse me		discourse marker
+A1	117	fair		adjective
+A1	118	fall (verb)		verb
+A1	119	famous		adjective
+A1	120	farm		noun
+A1	121	farmer		noun
+A1	122	fat		adjective
+A1	123	feed		verb
+A1	124	field		noun
+A1	125	fine		adjective + exclamation
+A1	126	first		adjective + adverb
+A1	127	fish (verb)		verb
+A1	128	fix		verb
+A1	129	floor (e.g. ground, 1st, etc.)	(e.g. ground, 1st, etc.)	noun
+A1	130	fly (noun)		noun
+A1	131	forest		noun
+A1	132	Fred	사람 이름	noun
+A1	133	Friday		noun
+A1	134	frightened		adjective
+A1	135	funfair		noun
+A1	136	get dressed		verb
+A1	137	get off		verb
+A1	138	get on		verb
+A1	139	get undressed		verb
+A1	140	get up		verb
+A1	141	glass (noun)		noun
+A1	142	go shopping		verb
+A1	143	goal		noun
+A1	144	granddaughter		noun
+A1	145	grandparent		noun
+A1	146	grandson		noun
+A1	147	grass		noun
+A1	148	ground		noun
+A1	149	grow		verb
+A1	150	grown-up		noun
+A1	151	have to	/have got to	verb
+A1	152	headache		noun
+A1	153	helmet		noun
+A1	154	help		verb
+A1	155	hide		verb
+A1	156	holiday		noun
+A1	157	homework		noun
+A1	158	hop		verb
+A1	159	hospital		noun
+A1	160	hot		adjective
+A1	161	how (adverb)		adverb
+A1	162	how much		adverb + interrogative
+A1	163	how often		adverb + interrogative
+A1	164	huge		adjective
+A1	165	hundred		noun
+A1	166	hungry		adjective
+A1	167	hurt		verb
+A1	168	ice		noun
+A1	169	ice skates		noun
+A1	170	ice skating		noun
+A1	171	idea		noun
+A1	172	ill		adjective
+A1	173	inside		adverb + noun + preposition
+A1	174	internet		noun
+A1	175	into		preposition
+A1	176	invite		verb
+A1	177	island		noun
+A1	178	Jack		noun
+A1	179	Jane	사람 이름	noun
+A1	180	Jim	사람 이름	noun
+A1	181	Julia	사람 이름	noun
+A1	182	jungle		noun
+A1	183	kangaroo		noun
+A1	184	kick (noun)		noun
+A1	185	kind (noun)		noun
+A1	186	kitten		noun
+A1	187	lake		noun
+A1	188	laptop		noun
+A1	189	last		adjective + adverb
+A1	190	laugh		noun + verb
+A1	191	leaf	/leaves	noun
+A1	192	library		noun
+A1	193	Lily	사람 이름	noun
+A1	194	lion		noun
+A1	195	little		adjective
+A1	196	look for		verb
+A1	197	lose		verb
+A1	198	loud		adjective
+A1	199	loudly		adverb
+A1	200	machine		noun
+A1	201	map		noun
+A1	202	market		noun
+A1	203	Mary	사람 이름	noun
+A1	204	matter		noun
+A1	205	mean		verb
+A1	206	message		noun
+A1	207	milkshake		noun
+A1	208	mistake		noun
+A1	209	model		noun
+A1	210	Monday		noun
+A1	211	moon		noun
+A1	212	more		adverb + determiner + pronoun
+A1	213	most		adverb + determiner + pronoun
+A1	214	mountain		noun
+A1	215	moustache		noun
+A1	216	move		verb
+A1	217	movie		noun + verb
+A1	218	movie star		noun
+A1	219	must		verb
+A1	220	naughty		adjective
+A1	221	near		adverb + preposition
+A1	222	neck		noun
+A1	223	need		verb
+A1	224	net		noun
+A1	225	never		adverb
+A1	226	noise		noun
+A1	227	noodles		noun
+A1	228	nothing		pronoun
+A1	229	nurse		noun
+A1	230	o'clock		adverb
+A1	231	off		adverb + preposition
+A1	232	often		adverb
+A1	233	on (adverb + preposition of time)		adverb + preposition of time
+A1	234	only		adverb
+A1	235	opposite		preposition
+A1	236	out		adverb
+A1	237	out of		preposition
+A1	238	outside		adverb + noun + preposition
+A1	239	pair		noun
+A1	240	pancake		noun
+A1	241	panda		noun
+A1	242	parent		noun
+A1	243	parrot		noun
+A1	244	party		noun
+A1	245	pasta		noun
+A1	246	Paul	사람 이름	noun
+A1	247	penguin		noun
+A1	248	Peter	사람 이름	noun
+A1	249	picnic		noun
+A1	250	pirate		noun
+A1	251	place		noun
+A1	252	plant		noun + verb
+A1	253	plate		noun
+A1	254	player		noun
+A1	255	pool		noun
+A1	256	pop star		noun
+A1	257	practice (noun)		noun
+A1	258	practice (verb)		verb
+A1	259	present		noun
+A1	260	pretty		adjective
+A1	261	puppy		noun
+A1	262	put on		verb
+A1	263	quick		adjective
+A1	264	quickly		adverb
+A1	265	quiet		adjective
+A1	266	quietly		adverb
+A1	267	rabbit		noun
+A1	268	rain		noun + verb
+A1	269	rainbow		noun
+A1	270	ride (noun)		noun
+A1	271	river		noun
+A1	272	road		noun
+A1	273	rock		noun
+A1	274	roller skates		noun
+A1	275	roller skating		noun
+A1	276	roof		noun
+A1	277	round		adjective + adverb + preposition
+A1	278	safe		adjective
+A1	279	sail		noun + verb
+A1	280	salad		noun
+A1	281	Sally	사람 이름	noun
+A1	282	sandwich		noun
+A1	283	Saturday		noun
+A1	284	sauce		noun
+A1	285	scarf		noun
+A1	286	score (verb)		verb
+A1	287	seat		noun
+A1	288	second		adjective + adverb
+A1	289	send		verb
+A1	290	shall		verb
+A1	291	shape		noun
+A1	292	shark		noun
+A1	293	shop		verb
+A1	294	shopping		noun
+A1	295	shopping center		noun
+A1	296	shoulder		noun
+A1	297	shout		verb
+A1	298	shower		noun
+A1	299	sick		adjective
+A1	300	skate		noun + verb
+A1	301	skip		verb
+A1	302	sky		noun
+A1	303	slow		adjective
+A1	304	slowly		adverb
+A1	305	snail		noun
+A1	306	snow		noun + verb
+A1	307	someone		pronoun
+A1	308	something		pronoun
+A1	309	sometimes		adverb
+A1	310	son		noun
+A1	311	soup		noun
+A1	312	sports center		noun
+A1	313	square		adjective + noun
+A1	314	stair	(s)	noun
+A1	315	star		noun
+A1	316	station		noun
+A1	317	stomach		noun
+A1	318	stomachache		noun
+A1	319	straight		adjective
+A1	320	strong		adjective
+A1	321	Sunday		noun
+A1	322	sunny		adjective
+A1	323	supermarket		noun
+A1	324	surprised		adjective
+A1	325	sweater		noun
+A1	326	sweet		adjective
+A1	327	swim (noun)		noun
+A1	328	swimming pool		noun
+A1	329	swimsuit		noun
+A1	330	take		verb
+A1	331	take off	(i.e. get undressed)	verb
+A1	332	tall		adjective
+A1	333	tea		noun
+A1	334	teach		verb
+A1	335	temperature		noun
+A1	336	terrible		adjective
+A1	337	text		noun + verb
+A1	338	than		conjunction + preposition
+A1	339	then (adverb)		adverb
+A1	340	thin		adjective
+A1	341	think		verb
+A1	342	third		adjective + adverb
+A1	343	thirsty		adjective
+A1	344	Thursday		noun
+A1	345	ticket		noun
+A1	346	tired		adjective
+A1	347	tooth	/teeth	noun
+A1	348	toothache		noun
+A1	349	toothbrush		noun
+A1	350	toothpaste		noun
+A1	351	top		adjective + noun
+A1	352	towel		noun
+A1	353	town		noun
+A1	354	town center		noun
+A1	355	tractor		noun
+A1	356	travel		verb
+A1	357	treasure		noun
+A1	358	trip		noun
+A1	359	Tuesday		noun
+A1	360	uncle		noun
+A1	361	up		adverb + preposition
+A1	362	upstairs		adverb + noun
+A1	363	vegetable		noun
+A1	364	Vicky	사람 이름	noun
+A1	365	video		noun + verb
+A1	366	village		noun
+A1	367	wait		verb
+A1	368	wake	(up)	verb
+A1	369	walk (noun)		noun
+A1	370	wash		noun + verb
+A1	371	water (verb)		verb
+A1	372	waterfall		noun
+A1	373	wave (noun)		noun
+A1	374	weak		adjective
+A1	375	weather		noun
+A1	376	website		noun
+A1	377	Wednesday		noun
+A1	378	week		noun
+A1	379	weekend		noun
+A1	380	well (adjective + adverb)		adjective + adverb
+A1	381	wet		adjective
+A1	382	whale		noun
+A1	383	when		adverb + conjunction + interrogative
+A1	384	where (pronoun)		pronoun
+A1	385	which (pronoun)		pronoun
+A1	386	who (pronoun)		pronoun
+A1	387	why		interrogative
+A1	388	wind		noun
+A1	389	windy		adjective
+A1	390	work		noun + verb
+A1	391	world		noun
+A1	392	worse		adjective + adverb
+A1	393	worst		adjective + adverb
+A1	394	would		verb
+A1	395	wrong		adjective
+A1	396	yesterday		adverb + noun
+A1	397	Zoe	사람 이름	noun
+A2	1	a.m.	(for time)	
+A2	2	across		preposition
+A2	3	act		verb
+A2	4	actor		noun
+A2	5	actually		adverb
+A2	6	adventure		noun
+A2	7	after (adverb + conjunction)		adverb + conjunction
+A2	8	ago		adverb
+A2	9	agree		verb
+A2	10	air		noun
+A2	11	airport		noun
+A2	12	alone		adjective
+A2	13	already		adverb
+A2	14	also		adverb
+A2	15	amazing		adjective + exclamation
+A2	16	ambulance		noun
+A2	17	anyone		pronoun
+A2	18	anything		pronoun
+A2	19	anywhere		adverb
+A2	20	appear		verb
+A2	21	April		noun
+A2	22	arrive		verb
+A2	23	art		noun
+A2	24	artist		noun
+A2	25	as		adverb
+A2	26	as ... as		adverb
+A2	27	astronaut		noun
+A2	28	at the moment		adverb
+A2	29	August		noun
+A2	30	away		adverb
+A2	31	backpack		noun
+A2	32	bandage		noun
+A2	33	bank		noun
+A2	34	beetle		noun
+A2	35	before (adverb + conjunction)		adverb + conjunction
+A2	36	begin		verb
+A2	37	believe		verb
+A2	38	belt		noun
+A2	39	Betty		noun
+A2	40	bicycle		noun
+A2	41	bin		noun
+A2	42	bit		noun
+A2	43	bored		adjective
+A2	44	borrow		verb
+A2	45	bracelet		noun
+A2	46	break (verb)		verb
+A2	47	bridge		noun
+A2	48	broken		adjective
+A2	49	brush		noun + verb
+A2	50	burn		verb
+A2	51	business		noun
+A2	52	businessman/woman		noun
+A2	53	butter		noun
+A2	54	butterfly		noun
+A2	55	by myself		adverb
+A2	56	by yourself		adverb
+A2	57	calendar		noun
+A2	58	camel		noun
+A2	59	camp		verb
+A2	60	card		noun
+A2	61	cartoon		noun
+A2	62	castle		noun
+A2	63	cave		noun
+A2	64	century		noun
+A2	65	cereal		noun
+A2	66	channel		noun
+A2	67	chat		verb
+A2	68	cheap		adjective
+A2	69	chemist	('s)	noun
+A2	70	chess		noun
+A2	71	chopsticks		noun
+A2	72	club		noun
+A2	73	collect		verb
+A2	74	college		noun
+A2	75	comb		noun + verb
+A2	76	competition		noun
+A2	77	concert		noun
+A2	78	conversation		noun
+A2	79	cooker		noun
+A2	80	cookie		noun
+A2	81	corner		noun
+A2	82	costume		noun
+A2	83	could (for possibility)	(for possibility)	verb
+A2	84	creature		noun
+A2	85	crown		noun
+A2	86	cushion		noun
+A2	87	cut		verb
+A2	88	cycle		verb
+A2	89	dark		adjective
+A2	90	date	(as in time)	noun
+A2	91	David	사람 이름	noun
+A2	92	dear	(as in Dear Harry)	adjective
+A2	93	December		noun
+A2	94	decide		verb
+A2	95	deep		adjective
+A2	96	delicious		adjective
+A2	97	desert		noun
+A2	98	design		noun + verb
+A2	99	designer		noun
+A2	100	diary		noun
+A2	101	dictionary		noun
+A2	102	dinosaur		noun
+A2	103	disappear		verb
+A2	104	each		determiner + pronoun
+A2	105	eagle		noun
+A2	106	early		adjective + adverb
+A2	107	Earth		noun
+A2	108	east		noun
+A2	109	elbow		noun
+A2	110	else		adverb
+A2	111	Emma	사람 이름	noun
+A2	112	empty		adjective
+A2	113	end (verb)		verb
+A2	114	engine		noun
+A2	115	engineer		noun
+A2	116	enormous		adjective
+A2	117	enough		adjective + pronoun
+A2	118	enter	(a competition)	verb
+A2	119	entrance		noun
+A2	120	envelope		noun
+A2	121	environment		noun
+A2	122	ever		adverb
+A2	123	everywhere		adverb
+A2	124	excellent		adjective + exclamation
+A2	125	excited		adjective
+A2	126	exit		noun
+A2	127	expensive		adjective
+A2	128	explain		verb
+A2	129	explore		verb
+A2	130	extinct		adjective
+A2	131	factory		noun
+A2	132	fall (noun)		noun
+A2	133	fall over		verb
+A2	134	far		adjective + adverb
+A2	135	fast		adjective + adverb
+A2	136	February		noun
+A2	137	feel		verb
+A2	138	festival		noun
+A2	139	fetch		verb
+A2	140	a few		determiner
+A2	141	file	(as in open and close a file)	noun
+A2	142	find out		verb
+A2	143	finger		noun
+A2	144	finish		verb
+A2	145	fire		noun
+A2	146	fire engine	(US fire truck)	noun
+A2	147	fire fighter		noun
+A2	148	fire station		noun
+A2	149	flag		noun
+A2	150	flashlight		noun
+A2	151	flour		noun
+A2	152	fog		noun
+A2	153	foggy		adjective
+A2	154	follow		verb
+A2	155	for (preposition of time)		preposition of time
+A2	156	forget		verb
+A2	157	fork		noun
+A2	158	Frank	사람 이름	noun
+A2	159	fridge		noun
+A2	160	friendly		adjective
+A2	161	frightening		adjective
+A2	162	front		adjective + noun
+A2	163	full		adjective
+A2	164	fur		noun
+A2	165	furry		adjective
+A2	166	future		noun
+A2	167	gate		noun
+A2	168	geography		noun
+A2	169	George	사람 이름	noun
+A2	170	get to		verb
+A2	171	glass (adjective)		adjective
+A2	172	glove		noun
+A2	173	glue		noun + verb
+A2	174	go away		exclamation
+A2	175	go out		verb
+A2	176	gold		adjective + noun
+A2	177	golf		noun
+A2	178	group		noun
+A2	179	guess		noun + verb
+A2	180	gym		noun
+A2	181	half		adjective + noun
+A2	182	happen		verb
+A2	183	hard		adjective + adverb
+A2	184	Harry	사람 이름	noun
+A2	185	hate		verb
+A2	186	hear		verb
+A2	187	heavy		adjective
+A2	188	Helen	사람 이름	noun
+A2	189	high		adjective
+A2	190	hill		noun
+A2	191	history		noun
+A2	192	hole		noun
+A2	193	Holly	사람 이름	noun
+A2	194	honey		noun
+A2	195	hope		verb
+A2	196	horrible		adjective
+A2	197	hotel		noun
+A2	198	hour		noun
+A2	199	how long		adverb + interrogative
+A2	200	hurry		verb
+A2	201	husband		noun
+A2	202	if		conjunction
+A2	203	if you want		exclamation
+A2	204	important		adjective
+A2	205	improve		verb
+A2	206	in a minute		exclamation
+A2	207	information		noun
+A2	208	insect		noun
+A2	209	instead		adverb
+A2	210	instrument		noun
+A2	211	interested		adjective
+A2	212	interesting		adjective
+A2	213	invent		verb
+A2	214	invitation		noun
+A2	215	jam		noun
+A2	216	January		noun
+A2	217	job		noun
+A2	218	join	(a club)	verb
+A2	219	journalist		noun
+A2	220	journey		noun
+A2	221	July		noun
+A2	222	June		noun
+A2	223	just		adverb
+A2	224	Katy	사람 이름	noun
+A2	225	keep		verb
+A2	226	key		noun
+A2	227	kilometer		noun
+A2	228	kind (adjective)		adjective
+A2	229	king		noun
+A2	230	knee		noun
+A2	231	knife		noun
+A2	232	land		verb
+A2	233	language		noun
+A2	234	large		adjective
+A2	235	late		adjective + adverb
+A2	236	later		adverb
+A2	237	lazy		adjective
+A2	238	leave		verb
+A2	239	left	(as in direction)	adjective + noun
+A2	240	let		verb
+A2	241	letter (as in mail)	(as in mail)	noun
+A2	242	lie	(as in lie down)	verb
+A2	243	lift (noun, ride)	(ride)	noun
+A2	244	lift (verb)		verb
+A2	245	light (adjective)		adjective + noun
+A2	246	a little		adverb + determiner
+A2	247	London		noun
+A2	248	look after		verb
+A2	249	look like		verb
+A2	250	lovely		adjective
+A2	251	low		adjective
+A2	252	lucky		adjective
+A2	253	magazine		noun
+A2	254	make sure		verb
+A2	255	manager		noun
+A2	256	March		noun
+A2	257	married		adjective
+A2	258	match	(football)	noun
+A2	259	math		noun
+A2	260	May (month)		noun
+A2	261	may		verb
+A2	262	meal		noun
+A2	263	mechanic		noun
+A2	264	medicine		noun
+A2	265	meet		verb
+A2	266	meeting		noun
+A2	267	member		noun
+A2	268	metal		adjective + noun
+A2	269	Michael	사람 이름	noun
+A2	270	midday		noun
+A2	271	middle		adjective + noun
+A2	272	midnight		noun
+A2	273	might		verb
+A2	274	million		noun
+A2	275	mind		verb
+A2	276	minute		noun
+A2	277	missing		adjective
+A2	278	mix		verb
+A2	279	money		noun
+A2	280	month		noun
+A2	281	motorway		noun
+A2	282	much		adverb + determiner + pronoun
+A2	283	museum		noun
+A2	284	necklace		noun
+A2	285	nest		noun
+A2	286	news		noun
+A2	287	newspaper		noun
+A2	288	next		adjective + adverb
+A2	289	no problem		exclamation
+A2	290	noisy		adjective
+A2	291	no-one		pronoun
+A2	292	north		noun
+A2	293	November		noun
+A2	294	nowhere		adverb
+A2	295	ocean		noun
+A2	296	October		noun
+A2	297	octopus		noun
+A2	298	of course		adverb
+A2	299	office		noun
+A2	300	Oliver	사람 이름	noun
+A2	301	olives		noun
+A2	302	once		adverb
+A2	303	online		adjective
+A2	304	other		determiner + pronoun
+A2	305	oven		noun
+A2	306	over		adverb + preposition
+A2	307	p.m.	(for time)	
+A2	308	pajamas		noun
+A2	309	passenger		noun
+A2	310	past		noun + preposition
+A2	311	path		noun
+A2	312	pepper		noun
+A2	313	perhaps		adverb
+A2	314	photographer		noun
+A2	315	piece		noun
+A2	316	pilot		noun
+A2	317	pizza		noun
+A2	318	planet		noun
+A2	319	plastic		adjective + noun
+A2	320	platform		noun
+A2	321	pleased		adjective
+A2	322	pocket		noun
+A2	323	police officer		noun
+A2	324	police station		noun
+A2	325	pond		noun
+A2	326	poor		adjective
+A2	327	pop music		noun
+A2	328	popular		adjective
+A2	329	post		verb
+A2	330	post office		noun
+A2	331	postcard		noun
+A2	332	prefer		verb
+A2	333	prepare		verb
+A2	334	prize		noun
+A2	335	problem		noun
+A2	336	program		noun
+A2	337	project		noun
+A2	338	pull		verb
+A2	339	push		verb
+A2	340	puzzle		noun
+A2	341	pyramid		noun
+A2	342	quarter		noun
+A2	343	queen		noun
+A2	344	quite		adverb
+A2	345	quiz		noun
+A2	346	race		noun + verb
+A2	347	racing	(car; bike)	adjective
+A2	348	railway		noun
+A2	349	ready		adjective
+A2	350	remember		verb
+A2	351	repair		verb
+A2	352	repeat		verb
+A2	353	restaurant		noun
+A2	354	rich		adjective
+A2	355	Richard	사람 이름	noun
+A2	356	right (as in direction)	noun - as in direction	adjective + noun
+A2	357	ring		noun
+A2	358	Robert	사람 이름	noun
+A2	359	rock music		noun
+A2	360	rocket		noun
+A2	361	salt		noun
+A2	362	same		adjective
+A2	363	Sarah	사람 이름	noun
+A2	364	save		verb
+A2	365	science		noun
+A2	366	scissors		noun
+A2	367	score (noun)		noun
+A2	368	screen		noun
+A2	369	search		noun + verb
+A2	370	secret		noun
+A2	371	sell		verb
+A2	372	September		noun
+A2	373	several		adjective
+A2	374	shampoo		noun
+A2	375	shelf		noun
+A2	376	should		verb
+A2	377	silver		adjective + noun
+A2	378	since		preposition
+A2	379	singer		noun
+A2	380	ski		noun + verb
+A2	381	skyscraper		noun
+A2	382	sledge		noun + verb
+A2	383	smell		noun + verb
+A2	384	snack		noun
+A2	385	snowball		noun
+A2	386	snowboard		noun
+A2	387	snowboarding		noun
+A2	388	snowman		noun
+A2	389	so (adverb + conjunction)		adverb + conjunction
+A2	390	soap		noun
+A2	391	soft		adjective
+A2	392	somewhere		adverb
+A2	393	soon		adverb
+A2	394	Sophia	사람 이름	noun
+A2	395	sore		adjective
+A2	396	sound		noun + verb
+A2	397	south		noun
+A2	398	space		noun
+A2	399	spaceship		noun
+A2	400	speak		verb
+A2	401	special		adjective
+A2	402	spend		verb
+A2	403	spoon		noun
+A2	404	spot		noun
+A2	405	spotted		adjective
+A2	406	spring		noun
+A2	407	stadium		noun
+A2	408	stage	(theatre)	noun
+A2	409	stamp		noun
+A2	410	stay		verb
+A2	411	step		noun
+A2	412	still		adverb
+A2	413	stone		noun
+A2	414	storm		noun
+A2	415	straight on		adverb
+A2	416	strange		adjective
+A2	417	strawberry		noun
+A2	418	stream		noun
+A2	419	stripe		noun
+A2	420	striped		adjective
+A2	421	student		noun
+A2	422	study		verb
+A2	423	subject		noun
+A2	424	such		determiner
+A2	425	suddenly		adverb
+A2	426	sugar		noun
+A2	427	suitcase		noun
+A2	428	summer		noun
+A2	429	sunglasses		noun
+A2	430	sure		adjective
+A2	431	surname		noun
+A2	432	surprise		noun
+A2	433	swan		noun
+A2	434	swing		noun + verb
+A2	435	take (as in time)	(as in time e.g. it takes 20 minutes)	verb
+A2	436	taste		noun + verb
+A2	437	taxi		noun
+A2	438	team		noun
+A2	439	telephone		noun
+A2	440	tent		noun
+A2	441	thank		verb
+A2	442	theater		noun
+A2	443	thousand		noun
+A2	444	through		preposition
+A2	445	tidy		adjective + verb
+A2	446	time		noun
+A2	447	timetable		noun
+A2	448	toe		noun
+A2	449	together		adverb
+A2	450	tomorrow		adverb + noun
+A2	451	tonight		adverb + noun
+A2	452	tortoise		noun
+A2	453	touch		verb
+A2	454	tour		noun
+A2	455	traffic		noun
+A2	456	trainers		noun
+A2	457	tune		noun
+A2	458	turn		verb
+A2	459	turn off		verb
+A2	460	turn on		verb
+A2	461	twice		adverb
+A2	462	tire		noun
+A2	463	umbrella		noun
+A2	464	unfriendly		adjective
+A2	465	unhappy		adjective
+A2	466	uniform		noun
+A2	467	university		noun
+A2	468	unkind		adjective
+A2	469	untidy		adjective
+A2	470	until		preposition
+A2	471	unusual		adjective
+A2	472	use		verb
+A2	473	usually		adverb
+A2	474	view		noun
+A2	475	violin		noun
+A2	476	visit		verb
+A2	477	volleyball		noun
+A2	478	waiter		noun
+A2	479	warm		adjective
+A2	480	way		noun
+A2	481	west		noun
+A2	482	wheel		noun
+A2	483	while		conjunction
+A2	484	whisper		verb
+A2	485	whistle		verb
+A2	486	wife		noun
+A2	487	wifi		noun
+A2	488	wild		adjective
+A2	489	will		verb
+A2	490	William	사람 이름	noun
+A2	491	win		noun
+A2	492	wing		noun
+A2	493	winner		noun
+A2	494	winter		noun
+A2	495	wish		noun + verb
+A2	496	without		preposition
+A2	497	wonderful		adjective
+A2	498	wood		noun
+A2	499	wool		noun
+A2	500	worried		adjective
+A2	501	x-ray		noun
+A2	502	yet		adverb
+A2	503	yoghurt		noun
+A2	504	you're welcome		exclamation
+A2	505	zero		noun
+PreA1	1	a		determiner
+PreA1	2	about		preposition
+PreA1	3	add		verb
+PreA1	4	afternoon		noun
+PreA1	5	again		adverb
+PreA1	6	Alex	사람 이름	noun
+PreA1	7	Alice	사람 이름	noun
+PreA1	8	alien		noun
+PreA1	9	alphabet		noun
+PreA1	10	an		determiner
+PreA1	11	and		conjunction
+PreA1	12	angry		adjective
+PreA1	13	animal		noun
+PreA1	14	Ann	/Anna 사람 이름	noun
+PreA1	15	answer		noun + verb
+PreA1	16	apartment		noun
+PreA1	17	apple		noun
+PreA1	18	arm		noun
+PreA1	19	armchair		noun
+PreA1	20	ask		verb
+PreA1	21	at (preposition of place)		preposition of place
+PreA1	22	baby		noun
+PreA1	23	badminton		noun
+PreA1	24	bag		noun
+PreA1	25	ball		noun
+PreA1	26	balloon		noun
+PreA1	27	banana		noun
+PreA1	28	baseball		noun
+PreA1	29	baseball cap		noun
+PreA1	30	basketball		noun
+PreA1	31	bat (sports equipment)	(as sports equipment)	noun
+PreA1	32	bath		noun
+PreA1	33	bathroom		noun
+PreA1	34	be		verb
+PreA1	35	beach		noun
+PreA1	36	bean		noun
+PreA1	37	bear		noun
+PreA1	38	beautiful		adjective
+PreA1	39	bed		noun
+PreA1	40	bedroom		noun
+PreA1	41	bee		noun
+PreA1	42	behind		preposition
+PreA1	43	Ben	사람 이름	noun
+PreA1	44	between		preposition
+PreA1	45	big		adjective
+PreA1	46	bike		noun
+PreA1	47	Bill	사람 이름	noun
+PreA1	48	bird		noun
+PreA1	49	birthday		noun
+PreA1	50	black		adjective
+PreA1	51	blue		adjective
+PreA1	52	board		noun
+PreA1	53	board game		noun
+PreA1	54	boat		noun
+PreA1	55	body		noun
+PreA1	56	book		noun
+PreA1	57	bookcase		noun
+PreA1	58	bookshop		noun
+PreA1	59	boots		noun
+PreA1	60	bounce		verb
+PreA1	61	box		noun
+PreA1	62	boy		noun
+PreA1	63	bread		noun
+PreA1	64	breakfast		noun
+PreA1	65	brother		noun
+PreA1	66	brown		adjective
+PreA1	67	burger		noun
+PreA1	68	bus		noun
+PreA1	69	but		conjunction
+PreA1	70	bye		exclamation
+PreA1	71	cake		noun
+PreA1	72	camera		noun
+PreA1	73	can		verb
+PreA1	74	candy		noun
+PreA1	75	car		noun
+PreA1	76	carrot		noun
+PreA1	77	cat		noun
+PreA1	78	catch (e.g. a ball)	(e.g. a ball)	verb
+PreA1	79	chair		noun
+PreA1	80	chicken		noun
+PreA1	81	child	/children	noun
+PreA1	82	chocolate		noun
+PreA1	83	choose		verb
+PreA1	84	clap		verb
+PreA1	85	class		noun
+PreA1	86	classmate		noun
+PreA1	87	classroom		noun
+PreA1	88	clean		adjective + verb
+PreA1	89	clock		noun
+PreA1	90	close		verb
+PreA1	91	closed		adjective
+PreA1	92	clothes		noun
+PreA1	93	coconut		noun
+PreA1	94	color		noun + verb
+PreA1	95	come		verb
+PreA1	96	complete		verb
+PreA1	97	computer		noun
+PreA1	98	cool		adjective + exclamation
+PreA1	99	correct		adjective
+PreA1	100	count		verb
+PreA1	101	cousin		noun
+PreA1	102	cow		noun
+PreA1	103	crayon		noun
+PreA1	104	crocodile		noun
+PreA1	105	cross		noun + verb
+PreA1	106	cupboard		noun
+PreA1	107	dad		noun
+PreA1	108	Dan	사람 이름	noun
+PreA1	109	day		noun
+PreA1	110	desk		noun
+PreA1	111	dining room		noun
+PreA1	112	dinner		noun
+PreA1	113	dirty		adjective
+PreA1	114	do		verb
+PreA1	115	dog		noun
+PreA1	116	doll		noun
+PreA1	117	donkey		noun
+PreA1	118	don't worry		exclamation
+PreA1	119	door		noun
+PreA1	120	double		adjective
+PreA1	121	draw		verb
+PreA1	122	drawing		noun
+PreA1	123	dress		noun
+PreA1	124	drink		noun + verb
+PreA1	125	drive (verb)		verb
+PreA1	126	duck		noun
+PreA1	127	ear		noun
+PreA1	128	eat		verb
+PreA1	129	egg		noun
+PreA1	130	elephant		noun
+PreA1	131	end (noun)		noun
+PreA1	132	English		adjective + noun
+PreA1	133	enjoy		verb
+PreA1	134	eraser		noun
+PreA1	135	Eva	사람 이름	noun
+PreA1	136	evening		noun
+PreA1	137	example		noun
+PreA1	138	eye		noun
+PreA1	139	face		noun
+PreA1	140	family		noun
+PreA1	141	fantastic		adjective + exclamation
+PreA1	142	father		noun
+PreA1	143	favorite		adjective
+PreA1	144	find		verb
+PreA1	145	fish (noun)		noun
+PreA1	146	fishing		noun
+PreA1	147	floor		noun
+PreA1	148	flower		noun
+PreA1	149	fly (verb)		verb
+PreA1	150	food		noun
+PreA1	151	foot	/feet	noun
+PreA1	152	for		preposition
+PreA1	153	friend		noun
+PreA1	154	fries		noun
+PreA1	155	frog		noun
+PreA1	156	from		preposition
+PreA1	157	fruit		noun
+PreA1	158	fun		adjective + noun
+PreA1	159	funny		adjective
+PreA1	160	game		noun
+PreA1	161	garden		noun
+PreA1	162	get		verb
+PreA1	163	giraffe		noun
+PreA1	164	girl		noun
+PreA1	165	give		verb
+PreA1	166	glasses		noun
+PreA1	167	go		verb
+PreA1	168	go to bed		verb
+PreA1	169	go to sleep		verb
+PreA1	170	goat		noun
+PreA1	171	good		adjective
+PreA1	172	goodbye		exclamation
+PreA1	173	Grace	사람 이름	noun
+PreA1	174	grandfather		noun
+PreA1	175	grandma		noun
+PreA1	176	grandmother		noun
+PreA1	177	grandpa		noun
+PreA1	178	grape		noun
+PreA1	179	gray		adjective
+PreA1	180	great		adjective + exclamation
+PreA1	181	green		adjective
+PreA1	182	guitar		noun
+PreA1	183	hair		noun
+PreA1	184	hall		noun
+PreA1	185	hand		noun
+PreA1	186	handbag		noun
+PreA1	187	happy		adjective
+PreA1	188	hat		noun
+PreA1	189	have		verb
+PreA1	190	have got		verb
+PreA1	191	he		pronoun
+PreA1	192	head		noun
+PreA1	193	helicopter		noun
+PreA1	194	hello		exclamation
+PreA1	195	her		possessive adjective + pronoun
+PreA1	196	here		adverb
+PreA1	197	hers		pronoun
+PreA1	198	hi		exclamation
+PreA1	199	him		pronoun
+PreA1	200	hippo		noun
+PreA1	201	his		possessive adjective + pronoun
+PreA1	202	hit		verb
+PreA1	203	hobby		noun
+PreA1	204	hockey		noun
+PreA1	205	hold		verb
+PreA1	206	home		noun + adverb
+PreA1	207	hooray		exclamation
+PreA1	208	horse		noun
+PreA1	209	house		noun
+PreA1	210	how (interrogative)		interrogative
+PreA1	211	how many		interrogative
+PreA1	212	how old		interrogative
+PreA1	213	Hugo	사람 이름	noun
+PreA1	214	I		pronoun
+PreA1	215	ice cream		noun
+PreA1	216	in		preposition of place + time
+PreA1	217	in front of		preposition
+PreA1	218	it		pronoun
+PreA1	219	its		possessive adjective + pronoun
+PreA1	220	jacket		noun
+PreA1	221	jeans		noun
+PreA1	222	jellyfish		noun
+PreA1	223	Jill	사람 이름	noun
+PreA1	224	juice		noun
+PreA1	225	jump		verb
+PreA1	226	keyboard	(computer)	noun
+PreA1	227	kick (verb)		verb
+PreA1	228	kid		noun
+PreA1	229	Kim	사람 이름	noun
+PreA1	230	kitchen		noun
+PreA1	231	kite		noun
+PreA1	232	kiwi		noun
+PreA1	233	know		verb
+PreA1	234	lamp		noun
+PreA1	235	learn		verb
+PreA1	236	leg		noun
+PreA1	237	lemon		noun
+PreA1	238	lemonade		noun
+PreA1	239	lesson		noun
+PreA1	240	let's		verb
+PreA1	241	letter (as in alphabet)	(as in alphabet)	noun
+PreA1	242	like		preposition + verb
+PreA1	243	lime		noun
+PreA1	244	line		noun
+PreA1	245	listen		verb
+PreA1	246	live		verb
+PreA1	247	living room		noun
+PreA1	248	lizard		noun
+PreA1	249	long		adjective
+PreA1	250	look		verb
+PreA1	251	look at		verb
+PreA1	252	a lot		adverb + pronoun
+PreA1	253	a lot of		determiner
+PreA1	254	lots		adverb + pronoun
+PreA1	255	lots of		determiner
+PreA1	256	love		verb
+PreA1	257	Lucy	사람 이름	noun
+PreA1	258	lunch		noun
+PreA1	259	make		verb
+PreA1	260	man	/men	noun
+PreA1	261	mango		noun
+PreA1	262	many		determiner
+PreA1	263	Mark	사람 이름	noun
+PreA1	264	mat		noun
+PreA1	265	Matt	사람 이름	noun
+PreA1	266	May (as in girl's name)	(as in girl's name) 사람 이름	noun
+PreA1	267	me		pronoun
+PreA1	268	me too		discourse marker
+PreA1	269	meat		noun
+PreA1	270	meatballs		noun
+PreA1	271	milk		noun
+PreA1	272	mine		pronoun
+PreA1	273	mirror		noun
+PreA1	274	Miss		title
+PreA1	275	monkey		noun
+PreA1	276	monster		noun
+PreA1	277	morning		noun
+PreA1	278	mother		noun
+PreA1	279	motorbike		noun
+PreA1	280	mouse	/mice	noun
+PreA1	281	mouse (computer)	(computer)	noun
+PreA1	282	mouth		noun
+PreA1	283	Mr		title
+PreA1	284	Mrs		title
+PreA1	285	mum		noun
+PreA1	286	music		noun
+PreA1	287	my		possessive adjective
+PreA1	288	name		noun
+PreA1	289	new		adjective
+PreA1	290	next to		preposition
+PreA1	291	nice		adjective
+PreA1	292	Nick	사람 이름	noun
+PreA1	293	night		noun
+PreA1	294	no		adverb + determiner
+PreA1	295	nose		noun
+PreA1	296	not		adverb
+PreA1	297	now		adverb
+PreA1	298	number		noun
+PreA1	299	of		preposition
+PreA1	300	oh		discourse marker
+PreA1	301	oh dear		exclamation
+PreA1	302	OK		adjective + discourse marker
+PreA1	303	old		adjective
+PreA1	304	on (preposition of place)		preposition of place
+PreA1	305	one		determiner + pronoun
+PreA1	306	onion		noun
+PreA1	307	open		adjective + verb
+PreA1	308	or		conjunction
+PreA1	309	orange		adjective + noun
+PreA1	310	our		possessive adjective
+PreA1	311	ours		pronoun
+PreA1	312	page		noun
+PreA1	313	paint		noun + verb
+PreA1	314	painting		noun
+PreA1	315	paper		adjective + noun
+PreA1	316	pardon		interrogative
+PreA1	317	park		noun
+PreA1	318	part		noun
+PreA1	319	Pat	사람 이름	noun
+PreA1	320	pea		noun
+PreA1	321	pear		noun
+PreA1	322	pen		noun
+PreA1	323	pencil		noun
+PreA1	324	person	/people	noun
+PreA1	325	pet		noun
+PreA1	326	phone		noun + verb
+PreA1	327	photo		noun
+PreA1	328	piano		noun
+PreA1	329	pick up		verb
+PreA1	330	picture		noun
+PreA1	331	pie		noun
+PreA1	332	pineapple		noun
+PreA1	333	pink		adjective
+PreA1	334	plane		noun
+PreA1	335	play		verb
+PreA1	336	playground		noun
+PreA1	337	please		discourse marker
+PreA1	338	point		verb
+PreA1	339	polar bear		noun
+PreA1	340	poster		noun
+PreA1	341	potato		noun
+PreA1	342	purple		adjective
+PreA1	343	put		verb
+PreA1	344	question		noun
+PreA1	345	radio		noun
+PreA1	346	read		verb
+PreA1	347	really		adverb
+PreA1	348	red		adjective
+PreA1	349	rice		noun
+PreA1	350	ride (verb)		verb
+PreA1	351	right (discourse marker)		discourse marker
+PreA1	352	right (as in correct)		adjective
+PreA1	353	robot		noun
+PreA1	354	room		noun
+PreA1	355	rug		noun
+PreA1	356	ruler		noun
+PreA1	357	run		verb
+PreA1	358	sad		adjective
+PreA1	359	Sam	사람 이름	noun
+PreA1	360	sand		noun
+PreA1	361	sausage		noun
+PreA1	362	say		verb
+PreA1	363	scary		adjective
+PreA1	364	school		noun
+PreA1	365	sea		noun
+PreA1	366	see		verb
+PreA1	367	see you		exclamation
+PreA1	368	sentence		noun
+PreA1	369	she		pronoun
+PreA1	370	sheep		noun
+PreA1	371	shell		noun
+PreA1	372	ship		noun
+PreA1	373	shirt		noun
+PreA1	374	shoe		noun
+PreA1	375	short		adjective
+PreA1	376	shorts		noun
+PreA1	377	show		verb
+PreA1	378	silly		adjective
+PreA1	379	sing		verb
+PreA1	380	sister		noun
+PreA1	381	sit		verb
+PreA1	382	skateboard		noun
+PreA1	383	skateboarding		noun
+PreA1	384	skirt		noun
+PreA1	385	sleep		verb
+PreA1	386	small		adjective
+PreA1	387	smile		noun + verb
+PreA1	388	snake		noun
+PreA1	389	so (discourse marker)		discourse marker
+PreA1	390	soccer		noun
+PreA1	391	sock		noun
+PreA1	392	sofa		noun
+PreA1	393	some		determiner
+PreA1	394	song		noun
+PreA1	395	sorry		adjective + interrogative
+PreA1	396	spell		verb
+PreA1	397	spider		noun
+PreA1	398	sport		noun
+PreA1	399	stand		verb
+PreA1	400	start		verb
+PreA1	401	stop		verb
+PreA1	402	store		noun
+PreA1	403	story		noun
+PreA1	404	street		noun
+PreA1	405	Sue	사람 이름	noun
+PreA1	406	sun		noun
+PreA1	407	swim (verb)		verb
+PreA1	408	table		noun
+PreA1	409	table tennis		noun
+PreA1	410	tablet		noun
+PreA1	411	tail		noun
+PreA1	412	take a photo/picture	/picture	verb
+PreA1	413	talk		verb
+PreA1	414	teacher		noun
+PreA1	415	teddy bear		noun
+PreA1	416	television	/TV	noun
+PreA1	417	tell		verb
+PreA1	418	tennis		noun
+PreA1	419	tennis racket		noun
+PreA1	420	thank you		discourse marker
+PreA1	421	thanks		discourse marker
+PreA1	422	that		determiner + pronoun
+PreA1	423	the		determiner
+PreA1	424	their		possessive adjective
+PreA1	425	theirs		pronoun
+PreA1	426	them		pronoun
+PreA1	427	then (discourse marker)		discourse marker
+PreA1	428	there		adverb
+PreA1	429	these		determiner + pronoun
+PreA1	430	they		pronoun
+PreA1	431	thing		noun
+PreA1	432	this		determiner + pronoun
+PreA1	433	those		determiner + pronoun
+PreA1	434	throw		verb
+PreA1	435	tick		noun + verb
+PreA1	436	tiger		noun
+PreA1	437	to		preposition
+PreA1	438	today		adverb + noun
+PreA1	439	Tom	사람 이름	noun
+PreA1	440	tomato		noun
+PreA1	441	too		adverb
+PreA1	442	toy		noun
+PreA1	443	train		noun
+PreA1	444	tree		noun
+PreA1	445	trousers		noun
+PreA1	446	truck		noun
+PreA1	447	try		noun + verb
+PreA1	448	T-shirt		noun
+PreA1	449	TV	/television	noun
+PreA1	450	ugly		adjective
+PreA1	451	under		preposition
+PreA1	452	understand		verb
+PreA1	453	us		pronoun
+PreA1	454	very		adverb
+PreA1	455	walk (verb)		verb
+PreA1	456	wall		noun
+PreA1	457	want		verb
+PreA1	458	watch		noun + verb
+PreA1	459	water (noun)		noun
+PreA1	460	watermelon		noun
+PreA1	461	wave (verb)		verb
+PreA1	462	we		pronoun
+PreA1	463	wear		verb
+PreA1	464	well (discourse marker)		discourse marker
+PreA1	465	well done		discourse marker
+PreA1	466	what		interrogative
+PreA1	467	where (interrogative)		interrogative
+PreA1	468	which (interrogative)		interrogative
+PreA1	469	white		adjective
+PreA1	470	who (interrogative)		interrogative
+PreA1	471	whose		interrogative
+PreA1	472	window		noun
+PreA1	473	with		preposition
+PreA1	474	woman	/women	noun
+PreA1	475	word		noun
+PreA1	476	would like		verb
+PreA1	477	wow		exclamation
+PreA1	478	write		verb
+PreA1	479	year		noun
+PreA1	480	yellow		adjective
+PreA1	481	yes		adverb
+PreA1	482	you		pronoun
+PreA1	483	young		adjective
+PreA1	484	your		possessive adjective
+PreA1	485	yours		pronoun
+PreA1	486	zebra		noun
+PreA1	487	zoo		noun

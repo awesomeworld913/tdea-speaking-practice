@@ -1,0 +1,942 @@
+학습맵 코드															
+															
+1단계 코드 {prefix} + {domainType) prefix : LMC domainType : domain		2단계 코드 {domainCode}+{subdomainCode} subdomainCode   - speaking   - writing   - reading   - listening			3단계 코드 {subdomainCode}+{standardCode} standardCode : standards			참고용			4단계 코드 3단계 코드 + Level 2자리 + Unit 2자리				
+Domain Code	Domain	Subdomain Code	Subdomain Priority	Subdomain	Standards Code	Standards Priority	Standards	Standards Level	Language Unit	Skills	Standards specific to topic Code	Level	Unit	Unit Topic	Standards specific to topic
+#domainCode	#domain	#subdomainCode	#subdomainPriority	#subdomain	#standardsCode	#standardsPriority	#standards		#languageUnit	#skills	#topicStandardsCode				#topicStandards
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0101	1	천천히 명확하게 말해질 때, 간단한 단어/구를 따라 말할 수 있다.	LV1-2	단어/구	Word Imitation	LMCS01010101	1	1	Hobbies	천천히 명확하게 말해질 때, {**취미**와 관련된} 간단한 단어/구를 따라 말할 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0102	2	간단한 단어/구를 말할 수 있다.	LV1-2	단어/구	Word Retrieval	LMCS01020101	1	1	Hobbies	{**취미**와 관련된} 간단한 단어/구를 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0203	1	천천히 명확하게 말해질 때, 간단한 문장을 따라 말할 수 있다.	LV1-2	문장	Sentence Imitation	LMCS02030101	1	1	Hobbies	천천히 명확하게 말해질 때, {**취미**와 관련된} 간단한 문장을 따라 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0204	2	정해진 표현을 사용하여 간단한 문장을 말할 수 있다.	LV1-2	문장	Controlled Sentence Production	LMCS02040101	1	1	Hobbies	정해진 표현을 사용하여 {**취미**에 대해} 간단한 문장을 말할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0305	3	정해진 표현을 사용하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Controlled Dialogue	LMCS03050101	1	1	Hobbies	정해진 표현을 사용하여 {**취미**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0306	4	자유롭게 대화에 참여하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Free Interaction	LMCS03060101	1	1	Hobbies	자유롭게 대화에 참여하여 {**취미**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0407	1	간단한 단어/구를 소리내어 읽을 수 있다.	LV1-2	단어/구	Word-level Reading Aloud	LMCS04070101	1	1	Hobbies	{**취미**와 관련된} 간단한 단어/구를 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0408	2	간단한 문장을 소리내어 읽을 수 있다.	LV1-2	문장	Sentence-level Reading Aloud	LMCS04080101	1	1	Hobbies	{**취미**와 관련된} 간단한 문장을 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0409	3	간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.	LV1-2	짧은 글	Text-level Reading Aloud	LMCS04090101	1	1	Hobbies	{**취미**와 관련된} 간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0110	1	도움을 받아 간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Guided Spelling	LMCW01100101	1	1	Hobbies	도움을 받아 {**취미**와 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0111	2	간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Independent Spelling	LMCW01110101	1	1	Hobbies	{**취미**와 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0212	1	간단한 단어/구를 듣고 받아쓸 수 있다.	LV1-2	단어/구	Word Dictation	LMCW02120101	1	1	Hobbies	{**취미**와 관련된} 간단한 단어/구를 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0213	2	간단한 문장을 듣고 받아쓸 수 있다.	LV1-2	문장	Sentence Dictation	LMCW02130101	1	1	Hobbies	{**취미**에 대한} 간단한 문장을 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0314	1	간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence Building	LMCW03140101	1	1	Hobbies	{**취미**에 대한} 간단한 문장을 구성할 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0315	2	정해진 표현을 사용하여 간단한 문장을 쓸 수 있다.	LV1-2	문장	Controlled Sentence Writing	LMCW03150101	1	1	Hobbies	정해진 표현을 사용하여 {**취미**에 대한} 간단한 문장을 쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0316	3	간단한 문장을 자유롭게 쓸 수 있다.	LV1-2	문장	Free Sentence Writing	LMCW03160101	1	1	Hobbies	{**취미**에 대한} 간단한 문장을 자유롭게 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0417	4	가이드 문구의 도움을 받아 간단한 언어로된 문단을 쓸 수 있다.	LV1-2	문단	Guided Paragraph Writing	LMCW04170101	1	1	Hobbies	가이드 문구의 도움을 받아 간단한 언어로된 {**취미**에 관한} 문단을 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0418	5	간단한 언어로된 문단을 자유롭게 쓸 수 있다.	LV1-2	문단	Free Paragraph Writing	LMCW04180101	1	1	Hobbies	{**취미**에 관해} 간단한 언어로된 문단을 자유롭게 쓸 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0119	1	소리를 듣고 간단한 단어/구를 구성할 수 있다.	LV1-2	단어/구	Word-level Sound Recognition	LMCL01190101	1	1	Hobbies	소리를 듣고 {**취미**와 관련된} 간단한 단어/구를 구성할 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0120	2	소리를 듣고 간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence-level Sound Recognition	LMCL01200101	1	1	Hobbies	소리를 듣고 {**취미**와 관련된} 간단한 문장을 구성할 수 있다.
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0221	1	그림의 도움을 받아 간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Supported Word Comprehension	LMCL02210101	1	1	Hobbies	그림의 도움을 받아 {**취미**와 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0222	2	간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Independent Word Comprehension	LMCL02220101	1	1	Hobbies	{**취미**와 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0323	3	천천히 명확하게 말해질 때, 그림의 도움을 받아 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Supported Sentence Comprehension	LMCL03230101	1	1	Hobbies	천천히 명확하게 말해질 때, 그림의 도움을 받아 {**취미**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0324	4	천천히 명확하게 말해질 때, 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Independent Sentence Comprehension	LMCL03240101	1	1	Hobbies	천천히 명확하게 말해질 때, {**취미**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0325	5	천천히 명확하게 말해질 때, 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.	LV1-2	문장	Inferential Sentence Comprehension	LMCL03250101	1	1	Hobbies	천천히 명확하게 말해질 때, {**취미**에 대한} 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.
+LMCL	Listening	LMCL05	1	Contextual Listening	LMCL0526	6	천천히 명확하게 말해질 때, 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.	LV1-2	짧은 대화/담화	Dialogue Response Selection	LMCL05260101	1	1	Hobbies	천천히 명확하게 말해질 때, {**취미**에 대한} 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0427	7	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Guided Listening Comprehension	LMCL04270101	1	1	Hobbies	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 {**취미**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0428	8	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Independent Listening Comprehension	LMCL04280101	1	1	Hobbies	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 {**취미**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0229	1	그림의 도움을 받아 간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Supported Word Comprehension	LMCR02290101	1	1	Hobbies	그림의 도움을 받아 {**취미**와 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0230	2	간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Independent Word Comprehension	LMCR02300101	1	1	Hobbies	{**취미**와 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0331	3	그림의 도움을 받아 간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Supported Sentence Comprehension	LMCR03310101	1	1	Hobbies	그림의 도움을 받아 {**취미**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0332	4	간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Independent Sentence Comprehension	LMCR03320101	1	1	Hobbies	{**취미**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0433	5	간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다	LV1-2	문장	Contextual Vocabulary Selection	LMCR04330101	1	1	Hobbies	{**취미**에 대한} 간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0434	6	간단한 여러 문장 간의 선후관계를 파악할 수 있다.	LV1-2	문단	Logical Sequencing	LMCR04340101	1	1	Hobbies	{**취미**에 관한} 간단한 여러 문장 간의 선후관계를 파악할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0435	7	간단한 여러 문장을 종합하여 의미를 파악할 수 있다.	LV1-2	문단	Contextual Integration	LMCR04350101	1	1	Hobbies	{**취미**에 관한} 간단한 여러 문장을 종합하여 의미를 파악할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0536	8	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Guided Reading Comprehension	LMCR05360101	1	1	Hobbies	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 {**취미**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0537	9	사실 정보에 기반하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Independent Reading Comprehension	LMCR05370101	1	1	Hobbies	사실 정보에 기반하여 간단한 언어로된 {**취미**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0538	10	드러나지 않는 내용을 추론하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Inferential Reading Comprehension	LMCR05380101	1	1	Hobbies	드러나지 않는 내용을 추론하여 간단한 언어로된 {**취미**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR07	2	Grammar	LMCR0739	1	간단한 문장을 읽고 올바른 형태를 찾을 수 있다.	LV1-2	문장	Grammatical Form Identification	LMCR07390101	1	1	Hobbies	{**취미**에 대한} 간단한 문장을 읽고 올바른 형태를 찾을 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0101	1	천천히 명확하게 말해질 때, 간단한 단어/구를 따라 말할 수 있다.	LV1-2	단어/구	Word Imitation	LMCS01010102	1	2	Clothing	천천히 명확하게 말해질 때, {**의류**와 관련된} 간단한 단어/구를 따라 말할 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0102	2	간단한 단어/구를 말할 수 있다.	LV1-2	단어/구	Word Retrieval	LMCS01020102	1	2	Clothing	{**의류**와 관련된} 간단한 단어/구를 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0203	1	천천히 명확하게 말해질 때, 간단한 문장을 따라 말할 수 있다.	LV1-2	문장	Sentence Imitation	LMCS02030102	1	2	Clothing	천천히 명확하게 말해질 때, {**의류**와 관련된} 간단한 문장을 따라 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0204	2	정해진 표현을 사용하여 간단한 문장을 말할 수 있다.	LV1-2	문장	Controlled Sentence Production	LMCS02040102	1	2	Clothing	정해진 표현을 사용하여 {**의류**에 대해} 간단한 문장을 말할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0305	3	정해진 표현을 사용하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Controlled Dialogue	LMCS03050102	1	2	Clothing	정해진 표현을 사용하여 {**의류**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0306	4	자유롭게 대화에 참여하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Free Interaction	LMCS03060102	1	2	Clothing	자유롭게 대화에 참여하여 {**의류**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0407	1	간단한 단어/구를 소리내어 읽을 수 있다.	LV1-2	단어/구	Word-level Reading Aloud	LMCS04070102	1	2	Clothing	{**의류**와 관련된} 간단한 단어/구를 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0408	2	간단한 문장을 소리내어 읽을 수 있다.	LV1-2	문장	Sentence-level Reading Aloud	LMCS04080102	1	2	Clothing	{**의류**와 관련된} 간단한 문장을 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0409	3	간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.	LV1-2	짧은 글	Text-level Reading Aloud	LMCS04090102	1	2	Clothing	{**의류**와 관련된} 간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0110	1	도움을 받아 간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Guided Spelling	LMCW01100102	1	2	Clothing	도움을 받아 {**의류**와 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0111	2	간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Independent Spelling	LMCW01110102	1	2	Clothing	{**의류**와 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0212	1	간단한 단어/구를 듣고 받아쓸 수 있다.	LV1-2	단어/구	Word Dictation	LMCW02120102	1	2	Clothing	{**의류**와 관련된} 간단한 단어/구를 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0213	2	간단한 문장을 듣고 받아쓸 수 있다.	LV1-2	문장	Sentence Dictation	LMCW02130102	1	2	Clothing	{**의류**에 대한} 간단한 문장을 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0314	1	간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence Building	LMCW03140102	1	2	Clothing	{**의류**에 대한} 간단한 문장을 구성할 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0315	2	정해진 표현을 사용하여 간단한 문장을 쓸 수 있다.	LV1-2	문장	Controlled Sentence Writing	LMCW03150102	1	2	Clothing	정해진 표현을 사용하여 {**의류**에 대한} 간단한 문장을 쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0316	3	간단한 문장을 자유롭게 쓸 수 있다.	LV1-2	문장	Free Sentence Writing	LMCW03160102	1	2	Clothing	{**의류**에 대한} 간단한 문장을 자유롭게 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0417	4	가이드 문구의 도움을 받아 간단한 언어로된 문단을 쓸 수 있다.	LV1-2	문단	Guided Paragraph Writing	LMCW04170102	1	2	Clothing	가이드 문구의 도움을 받아 간단한 언어로된 {**의류**에 관한} 문단을 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0418	5	간단한 언어로된 문단을 자유롭게 쓸 수 있다.	LV1-2	문단	Free Paragraph Writing	LMCW04180102	1	2	Clothing	{**의류**에 관해} 간단한 언어로된 문단을 자유롭게 쓸 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0119	1	소리를 듣고 간단한 단어/구를 구성할 수 있다.	LV1-2	단어/구	Word-level Sound Recognition	LMCL01190102	1	2	Clothing	소리를 듣고 {**의류**와 관련된} 간단한 단어/구를 구성할 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0120	2	소리를 듣고 간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence-level Sound Recognition	LMCL01200102	1	2	Clothing	소리를 듣고 {**의류**와 관련된} 간단한 문장을 구성할 수 있다.
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0221	1	그림의 도움을 받아 간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Supported Word Comprehension	LMCL02210102	1	2	Clothing	그림의 도움을 받아 {**의류**와 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0222	2	간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Independent Word Comprehension	LMCL02220102	1	2	Clothing	{**의류**와 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0323	3	천천히 명확하게 말해질 때, 그림의 도움을 받아 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Supported Sentence Comprehension	LMCL03230102	1	2	Clothing	천천히 명확하게 말해질 때, 그림의 도움을 받아 {**의류**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0324	4	천천히 명확하게 말해질 때, 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Independent Sentence Comprehension	LMCL03240102	1	2	Clothing	천천히 명확하게 말해질 때, {**의류**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0325	5	천천히 명확하게 말해질 때, 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.	LV1-2	문장	Inferential Sentence Comprehension	LMCL03250102	1	2	Clothing	천천히 명확하게 말해질 때, {**의류**에 대한} 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.
+LMCL	Listening	LMCL05	1	Contextual Listening	LMCL0526	6	천천히 명확하게 말해질 때, 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.	LV1-2	짧은 대화/담화	Dialogue Response Selection	LMCL05260102	1	2	Clothing	천천히 명확하게 말해질 때, {**의류**에 대한} 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0427	7	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Guided Listening Comprehension	LMCL04270102	1	2	Clothing	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 {**의류**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0428	8	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Independent Listening Comprehension	LMCL04280102	1	2	Clothing	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 {**의류**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0229	1	그림의 도움을 받아 간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Supported Word Comprehension	LMCR02290102	1	2	Clothing	그림의 도움을 받아 {**의류**와 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0230	2	간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Independent Word Comprehension	LMCR02300102	1	2	Clothing	{**의류**와 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0331	3	그림의 도움을 받아 간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Supported Sentence Comprehension	LMCR03310102	1	2	Clothing	그림의 도움을 받아 {**의류**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0332	4	간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Independent Sentence Comprehension	LMCR03320102	1	2	Clothing	{**의류**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0433	5	간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다	LV1-2	문장	Contextual Vocabulary Selection	LMCR04330102	1	2	Clothing	{**의류**에 대한} 간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0434	6	간단한 여러 문장 간의 선후관계를 파악할 수 있다.	LV1-2	문단	Logical Sequencing	LMCR04340102	1	2	Clothing	{**의류**에 관한} 간단한 여러 문장 간의 선후관계를 파악할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0435	7	간단한 여러 문장을 종합하여 의미를 파악할 수 있다.	LV1-2	문단	Contextual Integration	LMCR04350102	1	2	Clothing	{**의류**에 관한} 간단한 여러 문장을 종합하여 의미를 파악할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0536	8	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Guided Reading Comprehension	LMCR05360102	1	2	Clothing	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 {**의류**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0537	9	사실 정보에 기반하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Independent Reading Comprehension	LMCR05370102	1	2	Clothing	사실 정보에 기반하여 간단한 언어로된 {**의류**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0538	10	드러나지 않는 내용을 추론하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Inferential Reading Comprehension	LMCR05380102	1	2	Clothing	드러나지 않는 내용을 추론하여 간단한 언어로된 {**의류**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR07	2	Grammar	LMCR0739	1	간단한 문장을 읽고 올바른 형태를 찾을 수 있다.	LV1-2	문장	Grammatical Form Identification	LMCR07390102	1	2	Clothing	{**의류**에 대한} 간단한 문장을 읽고 올바른 형태를 찾을 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0101	1	천천히 명확하게 말해질 때, 간단한 단어/구를 따라 말할 수 있다.	LV1-2	단어/구	Word Imitation	LMCS01010103	1	3	Belongings	천천히 명확하게 말해질 때, {**소지품**과 관련된} 간단한 단어/구를 따라 말할 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0102	2	간단한 단어/구를 말할 수 있다.	LV1-2	단어/구	Word Retrieval	LMCS01020103	1	3	Belongings	{**소지품**과 관련된} 간단한 단어/구를 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0203	1	천천히 명확하게 말해질 때, 간단한 문장을 따라 말할 수 있다.	LV1-2	문장	Sentence Imitation	LMCS02030103	1	3	Belongings	천천히 명확하게 말해질 때, {**소지품**과 관련된} 간단한 문장을 따라 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0204	2	정해진 표현을 사용하여 간단한 문장을 말할 수 있다.	LV1-2	문장	Controlled Sentence Production	LMCS02040103	1	3	Belongings	정해진 표현을 사용하여 {**소지품**에 대해} 간단한 문장을 말할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0305	3	정해진 표현을 사용하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Controlled Dialogue	LMCS03050103	1	3	Belongings	정해진 표현을 사용하여 {**소지품**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0306	4	자유롭게 대화에 참여하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Free Interaction	LMCS03060103	1	3	Belongings	자유롭게 대화에 참여하여 {**소지품**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0407	1	간단한 단어/구를 소리내어 읽을 수 있다.	LV1-2	단어/구	Word-level Reading Aloud	LMCS04070103	1	3	Belongings	{**소지품**과 관련된} 간단한 단어/구를 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0408	2	간단한 문장을 소리내어 읽을 수 있다.	LV1-2	문장	Sentence-level Reading Aloud	LMCS04080103	1	3	Belongings	{**소지품**과 관련된} 간단한 문장을 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0409	3	간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.	LV1-2	짧은 글	Text-level Reading Aloud	LMCS04090103	1	3	Belongings	{**소지품**과 관련된} 간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0110	1	도움을 받아 간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Guided Spelling	LMCW01100103	1	3	Belongings	도움을 받아 {**소지품**과 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0111	2	간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Independent Spelling	LMCW01110103	1	3	Belongings	{**소지품**과 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0212	1	간단한 단어/구를 듣고 받아쓸 수 있다.	LV1-2	단어/구	Word Dictation	LMCW02120103	1	3	Belongings	{**소지품**과 관련된} 간단한 단어/구를 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0213	2	간단한 문장을 듣고 받아쓸 수 있다.	LV1-2	문장	Sentence Dictation	LMCW02130103	1	3	Belongings	{**소지품**에 대한} 간단한 문장을 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0314	1	간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence Building	LMCW03140103	1	3	Belongings	{**소지품**에 대한} 간단한 문장을 구성할 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0315	2	정해진 표현을 사용하여 간단한 문장을 쓸 수 있다.	LV1-2	문장	Controlled Sentence Writing	LMCW03150103	1	3	Belongings	정해진 표현을 사용하여 {**소지품**에 대한} 간단한 문장을 쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0316	3	간단한 문장을 자유롭게 쓸 수 있다.	LV1-2	문장	Free Sentence Writing	LMCW03160103	1	3	Belongings	{**소지품**에 대한} 간단한 문장을 자유롭게 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0417	4	가이드 문구의 도움을 받아 간단한 언어로된 문단을 쓸 수 있다.	LV1-2	문단	Guided Paragraph Writing	LMCW04170103	1	3	Belongings	가이드 문구의 도움을 받아 간단한 언어로된 {**소지품**에 관한} 문단을 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0418	5	간단한 언어로된 문단을 자유롭게 쓸 수 있다.	LV1-2	문단	Free Paragraph Writing	LMCW04180103	1	3	Belongings	{**소지품**에 관해} 간단한 언어로된 문단을 자유롭게 쓸 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0119	1	소리를 듣고 간단한 단어/구를 구성할 수 있다.	LV1-2	단어/구	Word-level Sound Recognition	LMCL01190103	1	3	Belongings	소리를 듣고 {**소지품**과 관련된} 간단한 단어/구를 구성할 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0120	2	소리를 듣고 간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence-level Sound Recognition	LMCL01200103	1	3	Belongings	소리를 듣고 {**소지품**과 관련된} 간단한 문장을 구성할 수 있다.
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0221	1	그림의 도움을 받아 간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Supported Word Comprehension	LMCL02210103	1	3	Belongings	그림의 도움을 받아 {**소지품**과 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0222	2	간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Independent Word Comprehension	LMCL02220103	1	3	Belongings	{**소지품**과 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0323	3	천천히 명확하게 말해질 때, 그림의 도움을 받아 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Supported Sentence Comprehension	LMCL03230103	1	3	Belongings	천천히 명확하게 말해질 때, 그림의 도움을 받아 {**소지품**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0324	4	천천히 명확하게 말해질 때, 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Independent Sentence Comprehension	LMCL03240103	1	3	Belongings	천천히 명확하게 말해질 때, {**소지품**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0325	5	천천히 명확하게 말해질 때, 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.	LV1-2	문장	Inferential Sentence Comprehension	LMCL03250103	1	3	Belongings	천천히 명확하게 말해질 때, {**소지품**에 대한} 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.
+LMCL	Listening	LMCL05	1	Contextual Listening	LMCL0526	6	천천히 명확하게 말해질 때, 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.	LV1-2	짧은 대화/담화	Dialogue Response Selection	LMCL05260103	1	3	Belongings	천천히 명확하게 말해질 때, {**소지품**에 대한} 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0427	7	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Guided Listening Comprehension	LMCL04270103	1	3	Belongings	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 {**소지품**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0428	8	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Independent Listening Comprehension	LMCL04280103	1	3	Belongings	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 {**소지품**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0229	1	그림의 도움을 받아 간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Supported Word Comprehension	LMCR02290103	1	3	Belongings	그림의 도움을 받아 {**소지품**과 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0230	2	간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Independent Word Comprehension	LMCR02300103	1	3	Belongings	{**소지품**과 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0331	3	그림의 도움을 받아 간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Supported Sentence Comprehension	LMCR03310103	1	3	Belongings	그림의 도움을 받아 {**소지품**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0332	4	간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Independent Sentence Comprehension	LMCR03320103	1	3	Belongings	{**소지품**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0433	5	간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다	LV1-2	문장	Contextual Vocabulary Selection	LMCR04330103	1	3	Belongings	{**소지품**에 대한} 간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0434	6	간단한 여러 문장 간의 선후관계를 파악할 수 있다.	LV1-2	문단	Logical Sequencing	LMCR04340103	1	3	Belongings	{**소지품**에 관한} 간단한 여러 문장 간의 선후관계를 파악할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0435	7	간단한 여러 문장을 종합하여 의미를 파악할 수 있다.	LV1-2	문단	Contextual Integration	LMCR04350103	1	3	Belongings	{**소지품**에 관한} 간단한 여러 문장을 종합하여 의미를 파악할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0536	8	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Guided Reading Comprehension	LMCR05360103	1	3	Belongings	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 {**소지품**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0537	9	사실 정보에 기반하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Independent Reading Comprehension	LMCR05370103	1	3	Belongings	사실 정보에 기반하여 간단한 언어로된 {**소지품**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0538	10	드러나지 않는 내용을 추론하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Inferential Reading Comprehension	LMCR05380103	1	3	Belongings	드러나지 않는 내용을 추론하여 간단한 언어로된 {**소지품**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR07	2	Grammar	LMCR0739	1	간단한 문장을 읽고 올바른 형태를 찾을 수 있다.	LV1-2	문장	Grammatical Form Identification	LMCR07390103	1	3	Belongings	{**소지품**에 대한} 간단한 문장을 읽고 올바른 형태를 찾을 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0101	1	천천히 명확하게 말해질 때, 간단한 단어/구를 따라 말할 수 있다.	LV1-2	단어/구	Word Imitation	LMCS01010104	1	4	School	천천히 명확하게 말해질 때, {**학교**와 관련된} 간단한 단어/구를 따라 말할 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0102	2	간단한 단어/구를 말할 수 있다.	LV1-2	단어/구	Word Retrieval	LMCS01020104	1	4	School	{**학교**와 관련된} 간단한 단어/구를 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0203	1	천천히 명확하게 말해질 때, 간단한 문장을 따라 말할 수 있다.	LV1-2	문장	Sentence Imitation	LMCS02030104	1	4	School	천천히 명확하게 말해질 때, {**학교**와 관련된} 간단한 문장을 따라 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0204	2	정해진 표현을 사용하여 간단한 문장을 말할 수 있다.	LV1-2	문장	Controlled Sentence Production	LMCS02040104	1	4	School	정해진 표현을 사용하여 {**학교**에 대해} 간단한 문장을 말할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0305	3	정해진 표현을 사용하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Controlled Dialogue	LMCS03050104	1	4	School	정해진 표현을 사용하여 {**학교**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0306	4	자유롭게 대화에 참여하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Free Interaction	LMCS03060104	1	4	School	자유롭게 대화에 참여하여 {**학교**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0407	1	간단한 단어/구를 소리내어 읽을 수 있다.	LV1-2	단어/구	Word-level Reading Aloud	LMCS04070104	1	4	School	{**학교**와 관련된} 간단한 단어/구를 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0408	2	간단한 문장을 소리내어 읽을 수 있다.	LV1-2	문장	Sentence-level Reading Aloud	LMCS04080104	1	4	School	{**학교**와 관련된} 간단한 문장을 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0409	3	간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.	LV1-2	짧은 글	Text-level Reading Aloud	LMCS04090104	1	4	School	{**학교**와 관련된} 간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0110	1	도움을 받아 간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Guided Spelling	LMCW01100104	1	4	School	도움을 받아 {**학교**와 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0111	2	간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Independent Spelling	LMCW01110104	1	4	School	{**학교**와 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0212	1	간단한 단어/구를 듣고 받아쓸 수 있다.	LV1-2	단어/구	Word Dictation	LMCW02120104	1	4	School	{**학교**와 관련된} 간단한 단어/구를 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0213	2	간단한 문장을 듣고 받아쓸 수 있다.	LV1-2	문장	Sentence Dictation	LMCW02130104	1	4	School	{**학교**에 대한} 간단한 문장을 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0314	1	간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence Building	LMCW03140104	1	4	School	{**학교**에 대한} 간단한 문장을 구성할 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0315	2	정해진 표현을 사용하여 간단한 문장을 쓸 수 있다.	LV1-2	문장	Controlled Sentence Writing	LMCW03150104	1	4	School	정해진 표현을 사용하여 {**학교**에 대한} 간단한 문장을 쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0316	3	간단한 문장을 자유롭게 쓸 수 있다.	LV1-2	문장	Free Sentence Writing	LMCW03160104	1	4	School	{**학교**에 대한} 간단한 문장을 자유롭게 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0417	4	가이드 문구의 도움을 받아 간단한 언어로된 문단을 쓸 수 있다.	LV1-2	문단	Guided Paragraph Writing	LMCW04170104	1	4	School	가이드 문구의 도움을 받아 간단한 언어로된 {**학교**에 관한} 문단을 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0418	5	간단한 언어로된 문단을 자유롭게 쓸 수 있다.	LV1-2	문단	Free Paragraph Writing	LMCW04180104	1	4	School	{**학교**에 관해} 간단한 언어로된 문단을 자유롭게 쓸 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0119	1	소리를 듣고 간단한 단어/구를 구성할 수 있다.	LV1-2	단어/구	Word-level Sound Recognition	LMCL01190104	1	4	School	소리를 듣고 {**학교**와 관련된} 간단한 단어/구를 구성할 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0120	2	소리를 듣고 간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence-level Sound Recognition	LMCL01200104	1	4	School	소리를 듣고 {**학교**와 관련된} 간단한 문장을 구성할 수 있다.
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0221	1	그림의 도움을 받아 간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Supported Word Comprehension	LMCL02210104	1	4	School	그림의 도움을 받아 {**학교**와 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0222	2	간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Independent Word Comprehension	LMCL02220104	1	4	School	{**학교**와 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0323	3	천천히 명확하게 말해질 때, 그림의 도움을 받아 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Supported Sentence Comprehension	LMCL03230104	1	4	School	천천히 명확하게 말해질 때, 그림의 도움을 받아 {**학교**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0324	4	천천히 명확하게 말해질 때, 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Independent Sentence Comprehension	LMCL03240104	1	4	School	천천히 명확하게 말해질 때, {**학교**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0325	5	천천히 명확하게 말해질 때, 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.	LV1-2	문장	Inferential Sentence Comprehension	LMCL03250104	1	4	School	천천히 명확하게 말해질 때, {**학교**에 대한} 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.
+LMCL	Listening	LMCL05	1	Contextual Listening	LMCL0526	6	천천히 명확하게 말해질 때, 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.	LV1-2	짧은 대화/담화	Dialogue Response Selection	LMCL05260104	1	4	School	천천히 명확하게 말해질 때, {**학교**에 대한} 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0427	7	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Guided Listening Comprehension	LMCL04270104	1	4	School	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 {**학교**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0428	8	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Independent Listening Comprehension	LMCL04280104	1	4	School	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 {**학교**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0229	1	그림의 도움을 받아 간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Supported Word Comprehension	LMCR02290104	1	4	School	그림의 도움을 받아 {**학교**와 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0230	2	간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Independent Word Comprehension	LMCR02300104	1	4	School	{**학교**와 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0331	3	그림의 도움을 받아 간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Supported Sentence Comprehension	LMCR03310104	1	4	School	그림의 도움을 받아 {**학교**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0332	4	간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Independent Sentence Comprehension	LMCR03320104	1	4	School	{**학교**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0433	5	간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다	LV1-2	문장	Contextual Vocabulary Selection	LMCR04330104	1	4	School	{**학교**에 대한} 간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0434	6	간단한 여러 문장 간의 선후관계를 파악할 수 있다.	LV1-2	문단	Logical Sequencing	LMCR04340104	1	4	School	{**학교**에 관한} 간단한 여러 문장 간의 선후관계를 파악할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0435	7	간단한 여러 문장을 종합하여 의미를 파악할 수 있다.	LV1-2	문단	Contextual Integration	LMCR04350104	1	4	School	{**학교**에 관한} 간단한 여러 문장을 종합하여 의미를 파악할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0536	8	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Guided Reading Comprehension	LMCR05360104	1	4	School	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 {**학교**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0537	9	사실 정보에 기반하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Independent Reading Comprehension	LMCR05370104	1	4	School	사실 정보에 기반하여 간단한 언어로된 {**학교**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0538	10	드러나지 않는 내용을 추론하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Inferential Reading Comprehension	LMCR05380104	1	4	School	드러나지 않는 내용을 추론하여 간단한 언어로된 {**학교**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR07	2	Grammar	LMCR0739	1	간단한 문장을 읽고 올바른 형태를 찾을 수 있다.	LV1-2	문장	Grammatical Form Identification	LMCR07390104	1	4	School	{**학교**에 대한} 간단한 문장을 읽고 올바른 형태를 찾을 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0101	1	천천히 명확하게 말해질 때, 간단한 단어/구를 따라 말할 수 있다.	LV1-2	단어/구	Word Imitation	LMCS01010105	1	5	Lunchtime	천천히 명확하게 말해질 때, {**점심시간**과 관련된} 간단한 단어/구를 따라 말할 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0102	2	간단한 단어/구를 말할 수 있다.	LV1-2	단어/구	Word Retrieval	LMCS01020105	1	5	Lunchtime	{**점심시간**과 관련된} 간단한 단어/구를 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0203	1	천천히 명확하게 말해질 때, 간단한 문장을 따라 말할 수 있다.	LV1-2	문장	Sentence Imitation	LMCS02030105	1	5	Lunchtime	천천히 명확하게 말해질 때, {**점심시간**과 관련된} 간단한 문장을 따라 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0204	2	정해진 표현을 사용하여 간단한 문장을 말할 수 있다.	LV1-2	문장	Controlled Sentence Production	LMCS02040105	1	5	Lunchtime	정해진 표현을 사용하여 {**점심시간**에 대해} 간단한 문장을 말할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0305	3	정해진 표현을 사용하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Controlled Dialogue	LMCS03050105	1	5	Lunchtime	정해진 표현을 사용하여 {**점심시간**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0306	4	자유롭게 대화에 참여하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Free Interaction	LMCS03060105	1	5	Lunchtime	자유롭게 대화에 참여하여 {**점심시간**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0407	1	간단한 단어/구를 소리내어 읽을 수 있다.	LV1-2	단어/구	Word-level Reading Aloud	LMCS04070105	1	5	Lunchtime	{**점심시간**과 관련된} 간단한 단어/구를 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0408	2	간단한 문장을 소리내어 읽을 수 있다.	LV1-2	문장	Sentence-level Reading Aloud	LMCS04080105	1	5	Lunchtime	{**점심시간**과 관련된} 간단한 문장을 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0409	3	간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.	LV1-2	짧은 글	Text-level Reading Aloud	LMCS04090105	1	5	Lunchtime	{**점심시간**과 관련된} 간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0110	1	도움을 받아 간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Guided Spelling	LMCW01100105	1	5	Lunchtime	도움을 받아 {**점심시간**과 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0111	2	간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Independent Spelling	LMCW01110105	1	5	Lunchtime	{**점심시간**과 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0212	1	간단한 단어/구를 듣고 받아쓸 수 있다.	LV1-2	단어/구	Word Dictation	LMCW02120105	1	5	Lunchtime	{**점심시간**과 관련된} 간단한 단어/구를 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0213	2	간단한 문장을 듣고 받아쓸 수 있다.	LV1-2	문장	Sentence Dictation	LMCW02130105	1	5	Lunchtime	{**점심시간**에 대한} 간단한 문장을 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0314	1	간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence Building	LMCW03140105	1	5	Lunchtime	{**점심시간**에 대한} 간단한 문장을 구성할 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0315	2	정해진 표현을 사용하여 간단한 문장을 쓸 수 있다.	LV1-2	문장	Controlled Sentence Writing	LMCW03150105	1	5	Lunchtime	정해진 표현을 사용하여 {**점심시간**에 대한} 간단한 문장을 쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0316	3	간단한 문장을 자유롭게 쓸 수 있다.	LV1-2	문장	Free Sentence Writing	LMCW03160105	1	5	Lunchtime	{**점심시간**에 대한} 간단한 문장을 자유롭게 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0417	4	가이드 문구의 도움을 받아 간단한 언어로된 문단을 쓸 수 있다.	LV1-2	문단	Guided Paragraph Writing	LMCW04170105	1	5	Lunchtime	가이드 문구의 도움을 받아 간단한 언어로된 {**점심시간**에 관한} 문단을 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0418	5	간단한 언어로된 문단을 자유롭게 쓸 수 있다.	LV1-2	문단	Free Paragraph Writing	LMCW04180105	1	5	Lunchtime	{**점심시간**에 관해} 간단한 언어로된 문단을 자유롭게 쓸 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0119	1	소리를 듣고 간단한 단어/구를 구성할 수 있다.	LV1-2	단어/구	Word-level Sound Recognition	LMCL01190105	1	5	Lunchtime	소리를 듣고 {**점심시간**과 관련된} 간단한 단어/구를 구성할 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0120	2	소리를 듣고 간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence-level Sound Recognition	LMCL01200105	1	5	Lunchtime	소리를 듣고 {**점심시간**과 관련된} 간단한 문장을 구성할 수 있다.
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0221	1	그림의 도움을 받아 간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Supported Word Comprehension	LMCL02210105	1	5	Lunchtime	그림의 도움을 받아 {**점심시간**과 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0222	2	간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Independent Word Comprehension	LMCL02220105	1	5	Lunchtime	{**점심시간**과 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0323	3	천천히 명확하게 말해질 때, 그림의 도움을 받아 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Supported Sentence Comprehension	LMCL03230105	1	5	Lunchtime	천천히 명확하게 말해질 때, 그림의 도움을 받아 {**점심시간**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0324	4	천천히 명확하게 말해질 때, 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Independent Sentence Comprehension	LMCL03240105	1	5	Lunchtime	천천히 명확하게 말해질 때, {**점심시간**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0325	5	천천히 명확하게 말해질 때, 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.	LV1-2	문장	Inferential Sentence Comprehension	LMCL03250105	1	5	Lunchtime	천천히 명확하게 말해질 때, {**점심시간**에 대한} 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.
+LMCL	Listening	LMCL05	1	Contextual Listening	LMCL0526	6	천천히 명확하게 말해질 때, 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.	LV1-2	짧은 대화/담화	Dialogue Response Selection	LMCL05260105	1	5	Lunchtime	천천히 명확하게 말해질 때, {**점심시간**에 대한} 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0427	7	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Guided Listening Comprehension	LMCL04270105	1	5	Lunchtime	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 {**점심시간**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0428	8	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Independent Listening Comprehension	LMCL04280105	1	5	Lunchtime	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 {**점심시간**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0229	1	그림의 도움을 받아 간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Supported Word Comprehension	LMCR02290105	1	5	Lunchtime	그림의 도움을 받아 {**점심시간**과 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0230	2	간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Independent Word Comprehension	LMCR02300105	1	5	Lunchtime	{**점심시간**과 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0331	3	그림의 도움을 받아 간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Supported Sentence Comprehension	LMCR03310105	1	5	Lunchtime	그림의 도움을 받아 {**점심시간**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0332	4	간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Independent Sentence Comprehension	LMCR03320105	1	5	Lunchtime	{**점심시간**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0433	5	간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다	LV1-2	문장	Contextual Vocabulary Selection	LMCR04330105	1	5	Lunchtime	{**점심시간**에 대한} 간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0434	6	간단한 여러 문장 간의 선후관계를 파악할 수 있다.	LV1-2	문단	Logical Sequencing	LMCR04340105	1	5	Lunchtime	{**점심시간**에 관한} 간단한 여러 문장 간의 선후관계를 파악할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0435	7	간단한 여러 문장을 종합하여 의미를 파악할 수 있다.	LV1-2	문단	Contextual Integration	LMCR04350105	1	5	Lunchtime	{**점심시간**에 관한} 간단한 여러 문장을 종합하여 의미를 파악할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0536	8	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Guided Reading Comprehension	LMCR05360105	1	5	Lunchtime	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 {**점심시간**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0537	9	사실 정보에 기반하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Independent Reading Comprehension	LMCR05370105	1	5	Lunchtime	사실 정보에 기반하여 간단한 언어로된 {**점심시간**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0538	10	드러나지 않는 내용을 추론하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Inferential Reading Comprehension	LMCR05380105	1	5	Lunchtime	드러나지 않는 내용을 추론하여 간단한 언어로된 {**점심시간**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR07	2	Grammar	LMCR0739	1	간단한 문장을 읽고 올바른 형태를 찾을 수 있다.	LV1-2	문장	Grammatical Form Identification	LMCR07390105	1	5	Lunchtime	{**점심시간**에 대한} 간단한 문장을 읽고 올바른 형태를 찾을 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0101	1	천천히 명확하게 말해질 때, 간단한 단어/구를 따라 말할 수 있다.	LV1-2	단어/구	Word Imitation	LMCS01010106	1	6	Digital Life	천천히 명확하게 말해질 때, {**디지털 생활**과 관련된} 간단한 단어/구를 따라 말할 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0102	2	간단한 단어/구를 말할 수 있다.	LV1-2	단어/구	Word Retrieval	LMCS01020106	1	6	Digital Life	{**디지털 생활**과 관련된} 간단한 단어/구를 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0203	1	천천히 명확하게 말해질 때, 간단한 문장을 따라 말할 수 있다.	LV1-2	문장	Sentence Imitation	LMCS02030106	1	6	Digital Life	천천히 명확하게 말해질 때, {**디지털 생활**과 관련된} 간단한 문장을 따라 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0204	2	정해진 표현을 사용하여 간단한 문장을 말할 수 있다.	LV1-2	문장	Controlled Sentence Production	LMCS02040106	1	6	Digital Life	정해진 표현을 사용하여 {**디지털 생활**에 대해} 간단한 문장을 말할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0305	3	정해진 표현을 사용하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Controlled Dialogue	LMCS03050106	1	6	Digital Life	정해진 표현을 사용하여 {**디지털 생활**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0306	4	자유롭게 대화에 참여하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Free Interaction	LMCS03060106	1	6	Digital Life	자유롭게 대화에 참여하여 {**디지털 생활**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0407	1	간단한 단어/구를 소리내어 읽을 수 있다.	LV1-2	단어/구	Word-level Reading Aloud	LMCS04070106	1	6	Digital Life	{**디지털 생활**과 관련된} 간단한 단어/구를 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0408	2	간단한 문장을 소리내어 읽을 수 있다.	LV1-2	문장	Sentence-level Reading Aloud	LMCS04080106	1	6	Digital Life	{**디지털 생활**과 관련된} 간단한 문장을 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0409	3	간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.	LV1-2	짧은 글	Text-level Reading Aloud	LMCS04090106	1	6	Digital Life	{**디지털 생활**과 관련된} 간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0110	1	도움을 받아 간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Guided Spelling	LMCW01100106	1	6	Digital Life	도움을 받아 {**디지털 생활**과 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0111	2	간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Independent Spelling	LMCW01110106	1	6	Digital Life	{**디지털 생활**과 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0212	1	간단한 단어/구를 듣고 받아쓸 수 있다.	LV1-2	단어/구	Word Dictation	LMCW02120106	1	6	Digital Life	{**디지털 생활**과 관련된} 간단한 단어/구를 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0213	2	간단한 문장을 듣고 받아쓸 수 있다.	LV1-2	문장	Sentence Dictation	LMCW02130106	1	6	Digital Life	{**디지털 생활**에 대한} 간단한 문장을 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0314	1	간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence Building	LMCW03140106	1	6	Digital Life	{**디지털 생활**에 대한} 간단한 문장을 구성할 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0315	2	정해진 표현을 사용하여 간단한 문장을 쓸 수 있다.	LV1-2	문장	Controlled Sentence Writing	LMCW03150106	1	6	Digital Life	정해진 표현을 사용하여 {**디지털 생활**에 대한} 간단한 문장을 쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0316	3	간단한 문장을 자유롭게 쓸 수 있다.	LV1-2	문장	Free Sentence Writing	LMCW03160106	1	6	Digital Life	{**디지털 생활**에 대한} 간단한 문장을 자유롭게 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0417	4	가이드 문구의 도움을 받아 간단한 언어로된 문단을 쓸 수 있다.	LV1-2	문단	Guided Paragraph Writing	LMCW04170106	1	6	Digital Life	가이드 문구의 도움을 받아 간단한 언어로된 {**디지털 생활**에 관한} 문단을 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0418	5	간단한 언어로된 문단을 자유롭게 쓸 수 있다.	LV1-2	문단	Free Paragraph Writing	LMCW04180106	1	6	Digital Life	{**디지털 생활**에 관해} 간단한 언어로된 문단을 자유롭게 쓸 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0119	1	소리를 듣고 간단한 단어/구를 구성할 수 있다.	LV1-2	단어/구	Word-level Sound Recognition	LMCL01190106	1	6	Digital Life	소리를 듣고 {**디지털 생활**과 관련된} 간단한 단어/구를 구성할 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0120	2	소리를 듣고 간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence-level Sound Recognition	LMCL01200106	1	6	Digital Life	소리를 듣고 {**디지털 생활**과 관련된} 간단한 문장을 구성할 수 있다.
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0221	1	그림의 도움을 받아 간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Supported Word Comprehension	LMCL02210106	1	6	Digital Life	그림의 도움을 받아 {**디지털 생활**과 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0222	2	간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Independent Word Comprehension	LMCL02220106	1	6	Digital Life	{**디지털 생활**과 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0323	3	천천히 명확하게 말해질 때, 그림의 도움을 받아 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Supported Sentence Comprehension	LMCL03230106	1	6	Digital Life	천천히 명확하게 말해질 때, 그림의 도움을 받아 {**디지털 생활**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0324	4	천천히 명확하게 말해질 때, 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Independent Sentence Comprehension	LMCL03240106	1	6	Digital Life	천천히 명확하게 말해질 때, {**디지털 생활**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0325	5	천천히 명확하게 말해질 때, 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.	LV1-2	문장	Inferential Sentence Comprehension	LMCL03250106	1	6	Digital Life	천천히 명확하게 말해질 때, {**디지털 생활**에 대한} 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.
+LMCL	Listening	LMCL05	1	Contextual Listening	LMCL0526	6	천천히 명확하게 말해질 때, 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.	LV1-2	짧은 대화/담화	Dialogue Response Selection	LMCL05260106	1	6	Digital Life	천천히 명확하게 말해질 때, {**디지털 생활**에 대한} 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0427	7	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Guided Listening Comprehension	LMCL04270106	1	6	Digital Life	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 {**디지털 생활**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0428	8	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Independent Listening Comprehension	LMCL04280106	1	6	Digital Life	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 {**디지털 생활**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0229	1	그림의 도움을 받아 간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Supported Word Comprehension	LMCR02290106	1	6	Digital Life	그림의 도움을 받아 {**디지털 생활**과 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0230	2	간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Independent Word Comprehension	LMCR02300106	1	6	Digital Life	{**디지털 생활**과 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0331	3	그림의 도움을 받아 간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Supported Sentence Comprehension	LMCR03310106	1	6	Digital Life	그림의 도움을 받아 {**디지털 생활**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0332	4	간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Independent Sentence Comprehension	LMCR03320106	1	6	Digital Life	{**디지털 생활**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0433	5	간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다	LV1-2	문장	Contextual Vocabulary Selection	LMCR04330106	1	6	Digital Life	{**디지털 생활**에 대한} 간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0434	6	간단한 여러 문장 간의 선후관계를 파악할 수 있다.	LV1-2	문단	Logical Sequencing	LMCR04340106	1	6	Digital Life	{**디지털 생활**에 관한} 간단한 여러 문장 간의 선후관계를 파악할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0435	7	간단한 여러 문장을 종합하여 의미를 파악할 수 있다.	LV1-2	문단	Contextual Integration	LMCR04350106	1	6	Digital Life	{**디지털 생활**에 관한} 간단한 여러 문장을 종합하여 의미를 파악할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0536	8	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Guided Reading Comprehension	LMCR05360106	1	6	Digital Life	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 {**디지털 생활**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0537	9	사실 정보에 기반하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Independent Reading Comprehension	LMCR05370106	1	6	Digital Life	사실 정보에 기반하여 간단한 언어로된 {**디지털 생활**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0538	10	드러나지 않는 내용을 추론하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Inferential Reading Comprehension	LMCR05380106	1	6	Digital Life	드러나지 않는 내용을 추론하여 간단한 언어로된 {**디지털 생활**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR07	2	Grammar	LMCR0739	1	간단한 문장을 읽고 올바른 형태를 찾을 수 있다.	LV1-2	문장	Grammatical Form Identification	LMCR07390106	1	6	Digital Life	{**디지털 생활**에 대한} 간단한 문장을 읽고 올바른 형태를 찾을 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0101	1	천천히 명확하게 말해질 때, 간단한 단어/구를 따라 말할 수 있다.	LV1-2	단어/구	Word Imitation	LMCS01010107	1	7	Travel	천천히 명확하게 말해질 때, {**여행**과 관련된} 간단한 단어/구를 따라 말할 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0102	2	간단한 단어/구를 말할 수 있다.	LV1-2	단어/구	Word Retrieval	LMCS01020107	1	7	Travel	{**여행**과 관련된} 간단한 단어/구를 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0203	1	천천히 명확하게 말해질 때, 간단한 문장을 따라 말할 수 있다.	LV1-2	문장	Sentence Imitation	LMCS02030107	1	7	Travel	천천히 명확하게 말해질 때, {**여행**과 관련된} 간단한 문장을 따라 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0204	2	정해진 표현을 사용하여 간단한 문장을 말할 수 있다.	LV1-2	문장	Controlled Sentence Production	LMCS02040107	1	7	Travel	정해진 표현을 사용하여 {**여행**에 대해} 간단한 문장을 말할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0305	3	정해진 표현을 사용하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Controlled Dialogue	LMCS03050107	1	7	Travel	정해진 표현을 사용하여 {**여행**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0306	4	자유롭게 대화에 참여하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Free Interaction	LMCS03060107	1	7	Travel	자유롭게 대화에 참여하여 {**여행**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0407	1	간단한 단어/구를 소리내어 읽을 수 있다.	LV1-2	단어/구	Word-level Reading Aloud	LMCS04070107	1	7	Travel	{**여행**과 관련된} 간단한 단어/구를 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0408	2	간단한 문장을 소리내어 읽을 수 있다.	LV1-2	문장	Sentence-level Reading Aloud	LMCS04080107	1	7	Travel	{**여행**과 관련된} 간단한 문장을 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0409	3	간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.	LV1-2	짧은 글	Text-level Reading Aloud	LMCS04090107	1	7	Travel	{**여행**과 관련된} 간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0110	1	도움을 받아 간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Guided Spelling	LMCW01100107	1	7	Travel	도움을 받아 {**여행**과 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0111	2	간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Independent Spelling	LMCW01110107	1	7	Travel	{**여행**과 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0212	1	간단한 단어/구를 듣고 받아쓸 수 있다.	LV1-2	단어/구	Word Dictation	LMCW02120107	1	7	Travel	{**여행**과 관련된} 간단한 단어/구를 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0213	2	간단한 문장을 듣고 받아쓸 수 있다.	LV1-2	문장	Sentence Dictation	LMCW02130107	1	7	Travel	{**여행**에 대한} 간단한 문장을 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0314	1	간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence Building	LMCW03140107	1	7	Travel	{**여행**에 대한} 간단한 문장을 구성할 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0315	2	정해진 표현을 사용하여 간단한 문장을 쓸 수 있다.	LV1-2	문장	Controlled Sentence Writing	LMCW03150107	1	7	Travel	정해진 표현을 사용하여 {**여행**에 대한} 간단한 문장을 쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0316	3	간단한 문장을 자유롭게 쓸 수 있다.	LV1-2	문장	Free Sentence Writing	LMCW03160107	1	7	Travel	{**여행**에 대한} 간단한 문장을 자유롭게 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0417	4	가이드 문구의 도움을 받아 간단한 언어로된 문단을 쓸 수 있다.	LV1-2	문단	Guided Paragraph Writing	LMCW04170107	1	7	Travel	가이드 문구의 도움을 받아 간단한 언어로된 {**여행**에 관한} 문단을 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0418	5	간단한 언어로된 문단을 자유롭게 쓸 수 있다.	LV1-2	문단	Free Paragraph Writing	LMCW04180107	1	7	Travel	{**여행**에 관해} 간단한 언어로된 문단을 자유롭게 쓸 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0119	1	소리를 듣고 간단한 단어/구를 구성할 수 있다.	LV1-2	단어/구	Word-level Sound Recognition	LMCL01190107	1	7	Travel	소리를 듣고 {**여행**과 관련된} 간단한 단어/구를 구성할 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0120	2	소리를 듣고 간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence-level Sound Recognition	LMCL01200107	1	7	Travel	소리를 듣고 {**여행**과 관련된} 간단한 문장을 구성할 수 있다.
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0221	1	그림의 도움을 받아 간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Supported Word Comprehension	LMCL02210107	1	7	Travel	그림의 도움을 받아 {**여행**과 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0222	2	간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Independent Word Comprehension	LMCL02220107	1	7	Travel	{**여행**과 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0323	3	천천히 명확하게 말해질 때, 그림의 도움을 받아 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Supported Sentence Comprehension	LMCL03230107	1	7	Travel	천천히 명확하게 말해질 때, 그림의 도움을 받아 {**여행**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0324	4	천천히 명확하게 말해질 때, 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Independent Sentence Comprehension	LMCL03240107	1	7	Travel	천천히 명확하게 말해질 때, {**여행**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0325	5	천천히 명확하게 말해질 때, 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.	LV1-2	문장	Inferential Sentence Comprehension	LMCL03250107	1	7	Travel	천천히 명확하게 말해질 때, {**여행**에 대한} 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.
+LMCL	Listening	LMCL05	1	Contextual Listening	LMCL0526	6	천천히 명확하게 말해질 때, 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.	LV1-2	짧은 대화/담화	Dialogue Response Selection	LMCL05260107	1	7	Travel	천천히 명확하게 말해질 때, {**여행**에 대한} 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0427	7	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Guided Listening Comprehension	LMCL04270107	1	7	Travel	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 {**여행**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0428	8	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Independent Listening Comprehension	LMCL04280107	1	7	Travel	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 {**여행**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0229	1	그림의 도움을 받아 간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Supported Word Comprehension	LMCR02290107	1	7	Travel	그림의 도움을 받아 {**여행**과 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0230	2	간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Independent Word Comprehension	LMCR02300107	1	7	Travel	{**여행**과 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0331	3	그림의 도움을 받아 간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Supported Sentence Comprehension	LMCR03310107	1	7	Travel	그림의 도움을 받아 {**여행**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0332	4	간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Independent Sentence Comprehension	LMCR03320107	1	7	Travel	{**여행**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0433	5	간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다	LV1-2	문장	Contextual Vocabulary Selection	LMCR04330107	1	7	Travel	{**여행**에 대한} 간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0434	6	간단한 여러 문장 간의 선후관계를 파악할 수 있다.	LV1-2	문단	Logical Sequencing	LMCR04340107	1	7	Travel	{**여행**에 관한} 간단한 여러 문장 간의 선후관계를 파악할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0435	7	간단한 여러 문장을 종합하여 의미를 파악할 수 있다.	LV1-2	문단	Contextual Integration	LMCR04350107	1	7	Travel	{**여행**에 관한} 간단한 여러 문장을 종합하여 의미를 파악할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0536	8	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Guided Reading Comprehension	LMCR05360107	1	7	Travel	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 {**여행**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0537	9	사실 정보에 기반하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Independent Reading Comprehension	LMCR05370107	1	7	Travel	사실 정보에 기반하여 간단한 언어로된 {**여행**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0538	10	드러나지 않는 내용을 추론하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Inferential Reading Comprehension	LMCR05380107	1	7	Travel	드러나지 않는 내용을 추론하여 간단한 언어로된 {**여행**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR07	2	Grammar	LMCR0739	1	간단한 문장을 읽고 올바른 형태를 찾을 수 있다.	LV1-2	문장	Grammatical Form Identification	LMCR07390107	1	7	Travel	{**여행**에 대한} 간단한 문장을 읽고 올바른 형태를 찾을 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0101	1	천천히 명확하게 말해질 때, 간단한 단어/구를 따라 말할 수 있다.	LV1-2	단어/구	Word Imitation	LMCS01010108	1	8	Parties	천천히 명확하게 말해질 때, {**파티**와 관련된} 간단한 단어/구를 따라 말할 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0102	2	간단한 단어/구를 말할 수 있다.	LV1-2	단어/구	Word Retrieval	LMCS01020108	1	8	Parties	{**파티**와 관련된} 간단한 단어/구를 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0203	1	천천히 명확하게 말해질 때, 간단한 문장을 따라 말할 수 있다.	LV1-2	문장	Sentence Imitation	LMCS02030108	1	8	Parties	천천히 명확하게 말해질 때, {**파티**와 관련된} 간단한 문장을 따라 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0204	2	정해진 표현을 사용하여 간단한 문장을 말할 수 있다.	LV1-2	문장	Controlled Sentence Production	LMCS02040108	1	8	Parties	정해진 표현을 사용하여 {**파티**에 대해} 간단한 문장을 말할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0305	3	정해진 표현을 사용하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Controlled Dialogue	LMCS03050108	1	8	Parties	정해진 표현을 사용하여 {**파티**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0306	4	자유롭게 대화에 참여하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Free Interaction	LMCS03060108	1	8	Parties	자유롭게 대화에 참여하여 {**파티**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0407	1	간단한 단어/구를 소리내어 읽을 수 있다.	LV1-2	단어/구	Word-level Reading Aloud	LMCS04070108	1	8	Parties	{**파티**와 관련된} 간단한 단어/구를 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0408	2	간단한 문장을 소리내어 읽을 수 있다.	LV1-2	문장	Sentence-level Reading Aloud	LMCS04080108	1	8	Parties	{**파티**와 관련된} 간단한 문장을 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0409	3	간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.	LV1-2	짧은 글	Text-level Reading Aloud	LMCS04090108	1	8	Parties	{**파티**와 관련된} 간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0110	1	도움을 받아 간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Guided Spelling	LMCW01100108	1	8	Parties	도움을 받아 {**파티**와 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0111	2	간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Independent Spelling	LMCW01110108	1	8	Parties	{**파티**와 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0212	1	간단한 단어/구를 듣고 받아쓸 수 있다.	LV1-2	단어/구	Word Dictation	LMCW02120108	1	8	Parties	{**파티**와 관련된} 간단한 단어/구를 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0213	2	간단한 문장을 듣고 받아쓸 수 있다.	LV1-2	문장	Sentence Dictation	LMCW02130108	1	8	Parties	{**파티**에 대한} 간단한 문장을 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0314	1	간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence Building	LMCW03140108	1	8	Parties	{**파티**에 대한} 간단한 문장을 구성할 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0315	2	정해진 표현을 사용하여 간단한 문장을 쓸 수 있다.	LV1-2	문장	Controlled Sentence Writing	LMCW03150108	1	8	Parties	정해진 표현을 사용하여 {**파티**에 대한} 간단한 문장을 쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0316	3	간단한 문장을 자유롭게 쓸 수 있다.	LV1-2	문장	Free Sentence Writing	LMCW03160108	1	8	Parties	{**파티**에 대한} 간단한 문장을 자유롭게 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0417	4	가이드 문구의 도움을 받아 간단한 언어로된 문단을 쓸 수 있다.	LV1-2	문단	Guided Paragraph Writing	LMCW04170108	1	8	Parties	가이드 문구의 도움을 받아 간단한 언어로된 {**파티**에 관한} 문단을 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0418	5	간단한 언어로된 문단을 자유롭게 쓸 수 있다.	LV1-2	문단	Free Paragraph Writing	LMCW04180108	1	8	Parties	{**파티**에 관해} 간단한 언어로된 문단을 자유롭게 쓸 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0119	1	소리를 듣고 간단한 단어/구를 구성할 수 있다.	LV1-2	단어/구	Word-level Sound Recognition	LMCL01190108	1	8	Parties	소리를 듣고 {**파티**와 관련된} 간단한 단어/구를 구성할 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0120	2	소리를 듣고 간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence-level Sound Recognition	LMCL01200108	1	8	Parties	소리를 듣고 {**파티**와 관련된} 간단한 문장을 구성할 수 있다.
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0221	1	그림의 도움을 받아 간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Supported Word Comprehension	LMCL02210108	1	8	Parties	그림의 도움을 받아 {**파티**와 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0222	2	간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Independent Word Comprehension	LMCL02220108	1	8	Parties	{**파티**와 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0323	3	천천히 명확하게 말해질 때, 그림의 도움을 받아 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Supported Sentence Comprehension	LMCL03230108	1	8	Parties	천천히 명확하게 말해질 때, 그림의 도움을 받아 {**파티**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0324	4	천천히 명확하게 말해질 때, 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Independent Sentence Comprehension	LMCL03240108	1	8	Parties	천천히 명확하게 말해질 때, {**파티**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0325	5	천천히 명확하게 말해질 때, 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.	LV1-2	문장	Inferential Sentence Comprehension	LMCL03250108	1	8	Parties	천천히 명확하게 말해질 때, {**파티**에 대한} 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.
+LMCL	Listening	LMCL05	1	Contextual Listening	LMCL0526	6	천천히 명확하게 말해질 때, 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.	LV1-2	짧은 대화/담화	Dialogue Response Selection	LMCL05260108	1	8	Parties	천천히 명확하게 말해질 때, {**파티**에 대한} 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0427	7	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Guided Listening Comprehension	LMCL04270108	1	8	Parties	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 {**파티**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0428	8	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Independent Listening Comprehension	LMCL04280108	1	8	Parties	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 {**파티**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0229	1	그림의 도움을 받아 간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Supported Word Comprehension	LMCR02290108	1	8	Parties	그림의 도움을 받아 {**파티**와 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0230	2	간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Independent Word Comprehension	LMCR02300108	1	8	Parties	{**파티**와 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0331	3	그림의 도움을 받아 간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Supported Sentence Comprehension	LMCR03310108	1	8	Parties	그림의 도움을 받아 {**파티**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0332	4	간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Independent Sentence Comprehension	LMCR03320108	1	8	Parties	{**파티**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0433	5	간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다	LV1-2	문장	Contextual Vocabulary Selection	LMCR04330108	1	8	Parties	{**파티**에 대한} 간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0434	6	간단한 여러 문장 간의 선후관계를 파악할 수 있다.	LV1-2	문단	Logical Sequencing	LMCR04340108	1	8	Parties	{**파티**에 관한} 간단한 여러 문장 간의 선후관계를 파악할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0435	7	간단한 여러 문장을 종합하여 의미를 파악할 수 있다.	LV1-2	문단	Contextual Integration	LMCR04350108	1	8	Parties	{**파티**에 관한} 간단한 여러 문장을 종합하여 의미를 파악할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0536	8	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Guided Reading Comprehension	LMCR05360108	1	8	Parties	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 {**파티**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0537	9	사실 정보에 기반하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Independent Reading Comprehension	LMCR05370108	1	8	Parties	사실 정보에 기반하여 간단한 언어로된 {**파티**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0538	10	드러나지 않는 내용을 추론하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Inferential Reading Comprehension	LMCR05380108	1	8	Parties	드러나지 않는 내용을 추론하여 간단한 언어로된 {**파티**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR07	2	Grammar	LMCR0739	1	간단한 문장을 읽고 올바른 형태를 찾을 수 있다.	LV1-2	문장	Grammatical Form Identification	LMCR07390108	1	8	Parties	{**파티**에 대한} 간단한 문장을 읽고 올바른 형태를 찾을 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0101	1	천천히 명확하게 말해질 때, 간단한 단어/구를 따라 말할 수 있다.	LV1-2	단어/구	Word Imitation	LMCS01010109	1	9	Routines	천천히 명확하게 말해질 때, {**일상**과 관련된} 간단한 단어/구를 따라 말할 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0102	2	간단한 단어/구를 말할 수 있다.	LV1-2	단어/구	Word Retrieval	LMCS01020109	1	9	Routines	{**일상**과 관련된} 간단한 단어/구를 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0203	1	천천히 명확하게 말해질 때, 간단한 문장을 따라 말할 수 있다.	LV1-2	문장	Sentence Imitation	LMCS02030109	1	9	Routines	천천히 명확하게 말해질 때, {**일상**과 관련된} 간단한 문장을 따라 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0204	2	정해진 표현을 사용하여 간단한 문장을 말할 수 있다.	LV1-2	문장	Controlled Sentence Production	LMCS02040109	1	9	Routines	정해진 표현을 사용하여 {**일상**에 대해} 간단한 문장을 말할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0305	3	정해진 표현을 사용하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Controlled Dialogue	LMCS03050109	1	9	Routines	정해진 표현을 사용하여 {**일상**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0306	4	자유롭게 대화에 참여하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Free Interaction	LMCS03060109	1	9	Routines	자유롭게 대화에 참여하여 {**일상**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0407	1	간단한 단어/구를 소리내어 읽을 수 있다.	LV1-2	단어/구	Word-level Reading Aloud	LMCS04070109	1	9	Routines	{**일상**과 관련된} 간단한 단어/구를 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0408	2	간단한 문장을 소리내어 읽을 수 있다.	LV1-2	문장	Sentence-level Reading Aloud	LMCS04080109	1	9	Routines	{**일상**과 관련된} 간단한 문장을 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0409	3	간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.	LV1-2	짧은 글	Text-level Reading Aloud	LMCS04090109	1	9	Routines	{**일상**과 관련된} 간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0110	1	도움을 받아 간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Guided Spelling	LMCW01100109	1	9	Routines	도움을 받아 {**일상**과 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0111	2	간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Independent Spelling	LMCW01110109	1	9	Routines	{**일상**과 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0212	1	간단한 단어/구를 듣고 받아쓸 수 있다.	LV1-2	단어/구	Word Dictation	LMCW02120109	1	9	Routines	{**일상**과 관련된} 간단한 단어/구를 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0213	2	간단한 문장을 듣고 받아쓸 수 있다.	LV1-2	문장	Sentence Dictation	LMCW02130109	1	9	Routines	{**일상**에 대한} 간단한 문장을 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0314	1	간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence Building	LMCW03140109	1	9	Routines	{**일상**에 대한} 간단한 문장을 구성할 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0315	2	정해진 표현을 사용하여 간단한 문장을 쓸 수 있다.	LV1-2	문장	Controlled Sentence Writing	LMCW03150109	1	9	Routines	정해진 표현을 사용하여 {**일상**에 대한} 간단한 문장을 쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0316	3	간단한 문장을 자유롭게 쓸 수 있다.	LV1-2	문장	Free Sentence Writing	LMCW03160109	1	9	Routines	{**일상**에 대한} 간단한 문장을 자유롭게 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0417	4	가이드 문구의 도움을 받아 간단한 언어로된 문단을 쓸 수 있다.	LV1-2	문단	Guided Paragraph Writing	LMCW04170109	1	9	Routines	가이드 문구의 도움을 받아 간단한 언어로된 {**일상**에 관한} 문단을 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0418	5	간단한 언어로된 문단을 자유롭게 쓸 수 있다.	LV1-2	문단	Free Paragraph Writing	LMCW04180109	1	9	Routines	{**일상**에 관해} 간단한 언어로된 문단을 자유롭게 쓸 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0119	1	소리를 듣고 간단한 단어/구를 구성할 수 있다.	LV1-2	단어/구	Word-level Sound Recognition	LMCL01190109	1	9	Routines	소리를 듣고 {**일상**과 관련된} 간단한 단어/구를 구성할 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0120	2	소리를 듣고 간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence-level Sound Recognition	LMCL01200109	1	9	Routines	소리를 듣고 {**일상**과 관련된} 간단한 문장을 구성할 수 있다.
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0221	1	그림의 도움을 받아 간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Supported Word Comprehension	LMCL02210109	1	9	Routines	그림의 도움을 받아 {**일상**과 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0222	2	간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Independent Word Comprehension	LMCL02220109	1	9	Routines	{**일상**과 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0323	3	천천히 명확하게 말해질 때, 그림의 도움을 받아 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Supported Sentence Comprehension	LMCL03230109	1	9	Routines	천천히 명확하게 말해질 때, 그림의 도움을 받아 {**일상**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0324	4	천천히 명확하게 말해질 때, 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Independent Sentence Comprehension	LMCL03240109	1	9	Routines	천천히 명확하게 말해질 때, {**일상**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0325	5	천천히 명확하게 말해질 때, 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.	LV1-2	문장	Inferential Sentence Comprehension	LMCL03250109	1	9	Routines	천천히 명확하게 말해질 때, {**일상**에 대한} 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.
+LMCL	Listening	LMCL05	1	Contextual Listening	LMCL0526	6	천천히 명확하게 말해질 때, 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.	LV1-2	짧은 대화/담화	Dialogue Response Selection	LMCL05260109	1	9	Routines	천천히 명확하게 말해질 때, {**일상**에 대한} 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0427	7	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Guided Listening Comprehension	LMCL04270109	1	9	Routines	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 {**일상**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0428	8	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Independent Listening Comprehension	LMCL04280109	1	9	Routines	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 {**일상**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0229	1	그림의 도움을 받아 간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Supported Word Comprehension	LMCR02290109	1	9	Routines	그림의 도움을 받아 {**일상**과 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0230	2	간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Independent Word Comprehension	LMCR02300109	1	9	Routines	{**일상**과 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0331	3	그림의 도움을 받아 간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Supported Sentence Comprehension	LMCR03310109	1	9	Routines	그림의 도움을 받아 {**일상**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0332	4	간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Independent Sentence Comprehension	LMCR03320109	1	9	Routines	{**일상**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0433	5	간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다	LV1-2	문장	Contextual Vocabulary Selection	LMCR04330109	1	9	Routines	{**일상**에 대한} 간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0434	6	간단한 여러 문장 간의 선후관계를 파악할 수 있다.	LV1-2	문단	Logical Sequencing	LMCR04340109	1	9	Routines	{**일상**에 관한} 간단한 여러 문장 간의 선후관계를 파악할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0435	7	간단한 여러 문장을 종합하여 의미를 파악할 수 있다.	LV1-2	문단	Contextual Integration	LMCR04350109	1	9	Routines	{**일상**에 관한} 간단한 여러 문장을 종합하여 의미를 파악할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0536	8	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Guided Reading Comprehension	LMCR05360109	1	9	Routines	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 {**일상**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0537	9	사실 정보에 기반하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Independent Reading Comprehension	LMCR05370109	1	9	Routines	사실 정보에 기반하여 간단한 언어로된 {**일상**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0538	10	드러나지 않는 내용을 추론하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Inferential Reading Comprehension	LMCR05380109	1	9	Routines	드러나지 않는 내용을 추론하여 간단한 언어로된 {**일상**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR07	2	Grammar	LMCR0739	1	간단한 문장을 읽고 올바른 형태를 찾을 수 있다.	LV1-2	문장	Grammatical Form Identification	LMCR07390109	1	9	Routines	{**일상**에 대한} 간단한 문장을 읽고 올바른 형태를 찾을 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0101	1	천천히 명확하게 말해질 때, 간단한 단어/구를 따라 말할 수 있다.	LV1-2	단어/구	Word Imitation	LMCS01010110	1	10	Managing Allowance	천천히 명확하게 말해질 때, {**용돈 관리**와 관련된} 간단한 단어/구를 따라 말할 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0102	2	간단한 단어/구를 말할 수 있다.	LV1-2	단어/구	Word Retrieval	LMCS01020110	1	10	Managing Allowance	{**용돈 관리**와 관련된} 간단한 단어/구를 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0203	1	천천히 명확하게 말해질 때, 간단한 문장을 따라 말할 수 있다.	LV1-2	문장	Sentence Imitation	LMCS02030110	1	10	Managing Allowance	천천히 명확하게 말해질 때, {**용돈 관리**와 관련된} 간단한 문장을 따라 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0204	2	정해진 표현을 사용하여 간단한 문장을 말할 수 있다.	LV1-2	문장	Controlled Sentence Production	LMCS02040110	1	10	Managing Allowance	정해진 표현을 사용하여 {**용돈 관리**에 대해} 간단한 문장을 말할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0305	3	정해진 표현을 사용하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Controlled Dialogue	LMCS03050110	1	10	Managing Allowance	정해진 표현을 사용하여 {**용돈 관리**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0306	4	자유롭게 대화에 참여하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Free Interaction	LMCS03060110	1	10	Managing Allowance	자유롭게 대화에 참여하여 {**용돈 관리**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0407	1	간단한 단어/구를 소리내어 읽을 수 있다.	LV1-2	단어/구	Word-level Reading Aloud	LMCS04070110	1	10	Managing Allowance	{**용돈 관리**와 관련된} 간단한 단어/구를 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0408	2	간단한 문장을 소리내어 읽을 수 있다.	LV1-2	문장	Sentence-level Reading Aloud	LMCS04080110	1	10	Managing Allowance	{**용돈 관리**와 관련된} 간단한 문장을 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0409	3	간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.	LV1-2	짧은 글	Text-level Reading Aloud	LMCS04090110	1	10	Managing Allowance	{**용돈 관리**와 관련된} 간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0110	1	도움을 받아 간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Guided Spelling	LMCW01100110	1	10	Managing Allowance	도움을 받아 {**용돈 관리**와 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0111	2	간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Independent Spelling	LMCW01110110	1	10	Managing Allowance	{**용돈 관리**와 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0212	1	간단한 단어/구를 듣고 받아쓸 수 있다.	LV1-2	단어/구	Word Dictation	LMCW02120110	1	10	Managing Allowance	{**용돈 관리**와 관련된} 간단한 단어/구를 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0213	2	간단한 문장을 듣고 받아쓸 수 있다.	LV1-2	문장	Sentence Dictation	LMCW02130110	1	10	Managing Allowance	{**용돈 관리**에 대한} 간단한 문장을 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0314	1	간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence Building	LMCW03140110	1	10	Managing Allowance	{**용돈 관리**에 대한} 간단한 문장을 구성할 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0315	2	정해진 표현을 사용하여 간단한 문장을 쓸 수 있다.	LV1-2	문장	Controlled Sentence Writing	LMCW03150110	1	10	Managing Allowance	정해진 표현을 사용하여 {**용돈 관리**에 대한} 간단한 문장을 쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0316	3	간단한 문장을 자유롭게 쓸 수 있다.	LV1-2	문장	Free Sentence Writing	LMCW03160110	1	10	Managing Allowance	{**용돈 관리**에 대한} 간단한 문장을 자유롭게 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0417	4	가이드 문구의 도움을 받아 간단한 언어로된 문단을 쓸 수 있다.	LV1-2	문단	Guided Paragraph Writing	LMCW04170110	1	10	Managing Allowance	가이드 문구의 도움을 받아 간단한 언어로된 {**용돈 관리**에 관한} 문단을 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0418	5	간단한 언어로된 문단을 자유롭게 쓸 수 있다.	LV1-2	문단	Free Paragraph Writing	LMCW04180110	1	10	Managing Allowance	{**용돈 관리**에 관해} 간단한 언어로된 문단을 자유롭게 쓸 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0119	1	소리를 듣고 간단한 단어/구를 구성할 수 있다.	LV1-2	단어/구	Word-level Sound Recognition	LMCL01190110	1	10	Managing Allowance	소리를 듣고 {**용돈 관리**와 관련된} 간단한 단어/구를 구성할 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0120	2	소리를 듣고 간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence-level Sound Recognition	LMCL01200110	1	10	Managing Allowance	소리를 듣고 {**용돈 관리**와 관련된} 간단한 문장을 구성할 수 있다.
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0221	1	그림의 도움을 받아 간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Supported Word Comprehension	LMCL02210110	1	10	Managing Allowance	그림의 도움을 받아 {**용돈 관리**와 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0222	2	간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Independent Word Comprehension	LMCL02220110	1	10	Managing Allowance	{**용돈 관리**와 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0323	3	천천히 명확하게 말해질 때, 그림의 도움을 받아 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Supported Sentence Comprehension	LMCL03230110	1	10	Managing Allowance	천천히 명확하게 말해질 때, 그림의 도움을 받아 {**용돈 관리**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0324	4	천천히 명확하게 말해질 때, 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Independent Sentence Comprehension	LMCL03240110	1	10	Managing Allowance	천천히 명확하게 말해질 때, {**용돈 관리**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0325	5	천천히 명확하게 말해질 때, 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.	LV1-2	문장	Inferential Sentence Comprehension	LMCL03250110	1	10	Managing Allowance	천천히 명확하게 말해질 때, {**용돈 관리**에 대한} 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.
+LMCL	Listening	LMCL05	1	Contextual Listening	LMCL0526	6	천천히 명확하게 말해질 때, 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.	LV1-2	짧은 대화/담화	Dialogue Response Selection	LMCL05260110	1	10	Managing Allowance	천천히 명확하게 말해질 때, {**용돈 관리**에 대한} 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0427	7	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Guided Listening Comprehension	LMCL04270110	1	10	Managing Allowance	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 {**용돈 관리**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0428	8	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Independent Listening Comprehension	LMCL04280110	1	10	Managing Allowance	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 {**용돈 관리**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0229	1	그림의 도움을 받아 간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Supported Word Comprehension	LMCR02290110	1	10	Managing Allowance	그림의 도움을 받아 {**용돈 관리**와 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0230	2	간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Independent Word Comprehension	LMCR02300110	1	10	Managing Allowance	{**용돈 관리**와 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0331	3	그림의 도움을 받아 간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Supported Sentence Comprehension	LMCR03310110	1	10	Managing Allowance	그림의 도움을 받아 {**용돈 관리**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0332	4	간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Independent Sentence Comprehension	LMCR03320110	1	10	Managing Allowance	{**용돈 관리**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0433	5	간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다	LV1-2	문장	Contextual Vocabulary Selection	LMCR04330110	1	10	Managing Allowance	{**용돈 관리**에 대한} 간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0434	6	간단한 여러 문장 간의 선후관계를 파악할 수 있다.	LV1-2	문단	Logical Sequencing	LMCR04340110	1	10	Managing Allowance	{**용돈 관리**에 관한} 간단한 여러 문장 간의 선후관계를 파악할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0435	7	간단한 여러 문장을 종합하여 의미를 파악할 수 있다.	LV1-2	문단	Contextual Integration	LMCR04350110	1	10	Managing Allowance	{**용돈 관리**에 관한} 간단한 여러 문장을 종합하여 의미를 파악할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0536	8	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Guided Reading Comprehension	LMCR05360110	1	10	Managing Allowance	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 {**용돈 관리**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0537	9	사실 정보에 기반하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Independent Reading Comprehension	LMCR05370110	1	10	Managing Allowance	사실 정보에 기반하여 간단한 언어로된 {**용돈 관리**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0538	10	드러나지 않는 내용을 추론하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Inferential Reading Comprehension	LMCR05380110	1	10	Managing Allowance	드러나지 않는 내용을 추론하여 간단한 언어로된 {**용돈 관리**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR07	2	Grammar	LMCR0739	1	간단한 문장을 읽고 올바른 형태를 찾을 수 있다.	LV1-2	문장	Grammatical Form Identification	LMCR07390110	1	10	Managing Allowance	{**용돈 관리**에 대한} 간단한 문장을 읽고 올바른 형태를 찾을 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0101	1	천천히 명확하게 말해질 때, 간단한 단어/구를 따라 말할 수 있다.	LV1-2	단어/구	Word Imitation	LMCS01010111	1	11	Studies	천천히 명확하게 말해질 때, {**공부**와 관련된} 간단한 단어/구를 따라 말할 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0102	2	간단한 단어/구를 말할 수 있다.	LV1-2	단어/구	Word Retrieval	LMCS01020111	1	11	Studies	{**공부**와 관련된} 간단한 단어/구를 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0203	1	천천히 명확하게 말해질 때, 간단한 문장을 따라 말할 수 있다.	LV1-2	문장	Sentence Imitation	LMCS02030111	1	11	Studies	천천히 명확하게 말해질 때, {**공부**와 관련된} 간단한 문장을 따라 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0204	2	정해진 표현을 사용하여 간단한 문장을 말할 수 있다.	LV1-2	문장	Controlled Sentence Production	LMCS02040111	1	11	Studies	정해진 표현을 사용하여 {**공부**에 대해} 간단한 문장을 말할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0305	3	정해진 표현을 사용하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Controlled Dialogue	LMCS03050111	1	11	Studies	정해진 표현을 사용하여 {**공부**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0306	4	자유롭게 대화에 참여하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Free Interaction	LMCS03060111	1	11	Studies	자유롭게 대화에 참여하여 {**공부**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0407	1	간단한 단어/구를 소리내어 읽을 수 있다.	LV1-2	단어/구	Word-level Reading Aloud	LMCS04070111	1	11	Studies	{**공부**와 관련된} 간단한 단어/구를 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0408	2	간단한 문장을 소리내어 읽을 수 있다.	LV1-2	문장	Sentence-level Reading Aloud	LMCS04080111	1	11	Studies	{**공부**와 관련된} 간단한 문장을 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0409	3	간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.	LV1-2	짧은 글	Text-level Reading Aloud	LMCS04090111	1	11	Studies	{**공부**와 관련된} 간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0110	1	도움을 받아 간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Guided Spelling	LMCW01100111	1	11	Studies	도움을 받아 {**공부**와 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0111	2	간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Independent Spelling	LMCW01110111	1	11	Studies	{**공부**와 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0212	1	간단한 단어/구를 듣고 받아쓸 수 있다.	LV1-2	단어/구	Word Dictation	LMCW02120111	1	11	Studies	{**공부**와 관련된} 간단한 단어/구를 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0213	2	간단한 문장을 듣고 받아쓸 수 있다.	LV1-2	문장	Sentence Dictation	LMCW02130111	1	11	Studies	{**공부**에 대한} 간단한 문장을 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0314	1	간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence Building	LMCW03140111	1	11	Studies	{**공부**에 대한} 간단한 문장을 구성할 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0315	2	정해진 표현을 사용하여 간단한 문장을 쓸 수 있다.	LV1-2	문장	Controlled Sentence Writing	LMCW03150111	1	11	Studies	정해진 표현을 사용하여 {**공부**에 대한} 간단한 문장을 쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0316	3	간단한 문장을 자유롭게 쓸 수 있다.	LV1-2	문장	Free Sentence Writing	LMCW03160111	1	11	Studies	{**공부**에 대한} 간단한 문장을 자유롭게 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0417	4	가이드 문구의 도움을 받아 간단한 언어로된 문단을 쓸 수 있다.	LV1-2	문단	Guided Paragraph Writing	LMCW04170111	1	11	Studies	가이드 문구의 도움을 받아 간단한 언어로된 {**공부**에 관한} 문단을 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0418	5	간단한 언어로된 문단을 자유롭게 쓸 수 있다.	LV1-2	문단	Free Paragraph Writing	LMCW04180111	1	11	Studies	{**공부**에 관해} 간단한 언어로된 문단을 자유롭게 쓸 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0119	1	소리를 듣고 간단한 단어/구를 구성할 수 있다.	LV1-2	단어/구	Word-level Sound Recognition	LMCL01190111	1	11	Studies	소리를 듣고 {**공부**와 관련된} 간단한 단어/구를 구성할 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0120	2	소리를 듣고 간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence-level Sound Recognition	LMCL01200111	1	11	Studies	소리를 듣고 {**공부**와 관련된} 간단한 문장을 구성할 수 있다.
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0221	1	그림의 도움을 받아 간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Supported Word Comprehension	LMCL02210111	1	11	Studies	그림의 도움을 받아 {**공부**와 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0222	2	간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Independent Word Comprehension	LMCL02220111	1	11	Studies	{**공부**와 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0323	3	천천히 명확하게 말해질 때, 그림의 도움을 받아 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Supported Sentence Comprehension	LMCL03230111	1	11	Studies	천천히 명확하게 말해질 때, 그림의 도움을 받아 {**공부**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0324	4	천천히 명확하게 말해질 때, 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Independent Sentence Comprehension	LMCL03240111	1	11	Studies	천천히 명확하게 말해질 때, {**공부**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0325	5	천천히 명확하게 말해질 때, 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.	LV1-2	문장	Inferential Sentence Comprehension	LMCL03250111	1	11	Studies	천천히 명확하게 말해질 때, {**공부**에 대한} 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.
+LMCL	Listening	LMCL05	1	Contextual Listening	LMCL0526	6	천천히 명확하게 말해질 때, 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.	LV1-2	짧은 대화/담화	Dialogue Response Selection	LMCL05260111	1	11	Studies	천천히 명확하게 말해질 때, {**공부**에 대한} 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0427	7	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Guided Listening Comprehension	LMCL04270111	1	11	Studies	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 {**공부**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0428	8	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Independent Listening Comprehension	LMCL04280111	1	11	Studies	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 {**공부**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0229	1	그림의 도움을 받아 간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Supported Word Comprehension	LMCR02290111	1	11	Studies	그림의 도움을 받아 {**공부**와 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0230	2	간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Independent Word Comprehension	LMCR02300111	1	11	Studies	{**공부**와 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0331	3	그림의 도움을 받아 간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Supported Sentence Comprehension	LMCR03310111	1	11	Studies	그림의 도움을 받아 {**공부**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0332	4	간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Independent Sentence Comprehension	LMCR03320111	1	11	Studies	{**공부**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0433	5	간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다	LV1-2	문장	Contextual Vocabulary Selection	LMCR04330111	1	11	Studies	{**공부**에 대한} 간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0434	6	간단한 여러 문장 간의 선후관계를 파악할 수 있다.	LV1-2	문단	Logical Sequencing	LMCR04340111	1	11	Studies	{**공부**에 관한} 간단한 여러 문장 간의 선후관계를 파악할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0435	7	간단한 여러 문장을 종합하여 의미를 파악할 수 있다.	LV1-2	문단	Contextual Integration	LMCR04350111	1	11	Studies	{**공부**에 관한} 간단한 여러 문장을 종합하여 의미를 파악할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0536	8	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Guided Reading Comprehension	LMCR05360111	1	11	Studies	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 {**공부**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0537	9	사실 정보에 기반하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Independent Reading Comprehension	LMCR05370111	1	11	Studies	사실 정보에 기반하여 간단한 언어로된 {**공부**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0538	10	드러나지 않는 내용을 추론하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Inferential Reading Comprehension	LMCR05380111	1	11	Studies	드러나지 않는 내용을 추론하여 간단한 언어로된 {**공부**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR07	2	Grammar	LMCR0739	1	간단한 문장을 읽고 올바른 형태를 찾을 수 있다.	LV1-2	문장	Grammatical Form Identification	LMCR07390111	1	11	Studies	{**공부**에 대한} 간단한 문장을 읽고 올바른 형태를 찾을 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0101	1	천천히 명확하게 말해질 때, 간단한 단어/구를 따라 말할 수 있다.	LV1-2	단어/구	Word Imitation	LMCS01010112	1	12	Special Days	천천히 명확하게 말해질 때, {**특별한 날**과 관련된} 간단한 단어/구를 따라 말할 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0102	2	간단한 단어/구를 말할 수 있다.	LV1-2	단어/구	Word Retrieval	LMCS01020112	1	12	Special Days	{**특별한 날**과 관련된} 간단한 단어/구를 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0203	1	천천히 명확하게 말해질 때, 간단한 문장을 따라 말할 수 있다.	LV1-2	문장	Sentence Imitation	LMCS02030112	1	12	Special Days	천천히 명확하게 말해질 때, {**특별한 날**과 관련된} 간단한 문장을 따라 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0204	2	정해진 표현을 사용하여 간단한 문장을 말할 수 있다.	LV1-2	문장	Controlled Sentence Production	LMCS02040112	1	12	Special Days	정해진 표현을 사용하여 {**특별한 날**에 대해} 간단한 문장을 말할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0305	3	정해진 표현을 사용하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Controlled Dialogue	LMCS03050112	1	12	Special Days	정해진 표현을 사용하여 {**특별한 날**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0306	4	자유롭게 대화에 참여하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Free Interaction	LMCS03060112	1	12	Special Days	자유롭게 대화에 참여하여 {**특별한 날**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0407	1	간단한 단어/구를 소리내어 읽을 수 있다.	LV1-2	단어/구	Word-level Reading Aloud	LMCS04070112	1	12	Special Days	{**특별한 날**과 관련된} 간단한 단어/구를 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0408	2	간단한 문장을 소리내어 읽을 수 있다.	LV1-2	문장	Sentence-level Reading Aloud	LMCS04080112	1	12	Special Days	{**특별한 날**과 관련된} 간단한 문장을 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0409	3	간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.	LV1-2	짧은 글	Text-level Reading Aloud	LMCS04090112	1	12	Special Days	{**특별한 날**과 관련된} 간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0110	1	도움을 받아 간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Guided Spelling	LMCW01100112	1	12	Special Days	도움을 받아 {**특별한 날**과 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0111	2	간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Independent Spelling	LMCW01110112	1	12	Special Days	{**특별한 날**과 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0212	1	간단한 단어/구를 듣고 받아쓸 수 있다.	LV1-2	단어/구	Word Dictation	LMCW02120112	1	12	Special Days	{**특별한 날**과 관련된} 간단한 단어/구를 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0213	2	간단한 문장을 듣고 받아쓸 수 있다.	LV1-2	문장	Sentence Dictation	LMCW02130112	1	12	Special Days	{**특별한 날**에 대한} 간단한 문장을 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0314	1	간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence Building	LMCW03140112	1	12	Special Days	{**특별한 날**에 대한} 간단한 문장을 구성할 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0315	2	정해진 표현을 사용하여 간단한 문장을 쓸 수 있다.	LV1-2	문장	Controlled Sentence Writing	LMCW03150112	1	12	Special Days	정해진 표현을 사용하여 {**특별한 날**에 대한} 간단한 문장을 쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0316	3	간단한 문장을 자유롭게 쓸 수 있다.	LV1-2	문장	Free Sentence Writing	LMCW03160112	1	12	Special Days	{**특별한 날**에 대한} 간단한 문장을 자유롭게 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0417	4	가이드 문구의 도움을 받아 간단한 언어로된 문단을 쓸 수 있다.	LV1-2	문단	Guided Paragraph Writing	LMCW04170112	1	12	Special Days	가이드 문구의 도움을 받아 간단한 언어로된 {**특별한 날**에 관한} 문단을 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0418	5	간단한 언어로된 문단을 자유롭게 쓸 수 있다.	LV1-2	문단	Free Paragraph Writing	LMCW04180112	1	12	Special Days	{**특별한 날**에 관해} 간단한 언어로된 문단을 자유롭게 쓸 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0119	1	소리를 듣고 간단한 단어/구를 구성할 수 있다.	LV1-2	단어/구	Word-level Sound Recognition	LMCL01190112	1	12	Special Days	소리를 듣고 {**특별한 날**과 관련된} 간단한 단어/구를 구성할 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0120	2	소리를 듣고 간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence-level Sound Recognition	LMCL01200112	1	12	Special Days	소리를 듣고 {**특별한 날**과 관련된} 간단한 문장을 구성할 수 있다.
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0221	1	그림의 도움을 받아 간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Supported Word Comprehension	LMCL02210112	1	12	Special Days	그림의 도움을 받아 {**특별한 날**과 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0222	2	간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Independent Word Comprehension	LMCL02220112	1	12	Special Days	{**특별한 날**과 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0323	3	천천히 명확하게 말해질 때, 그림의 도움을 받아 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Supported Sentence Comprehension	LMCL03230112	1	12	Special Days	천천히 명확하게 말해질 때, 그림의 도움을 받아 {**특별한 날**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0324	4	천천히 명확하게 말해질 때, 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Independent Sentence Comprehension	LMCL03240112	1	12	Special Days	천천히 명확하게 말해질 때, {**특별한 날**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0325	5	천천히 명확하게 말해질 때, 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.	LV1-2	문장	Inferential Sentence Comprehension	LMCL03250112	1	12	Special Days	천천히 명확하게 말해질 때, {**특별한 날**에 대한} 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.
+LMCL	Listening	LMCL05	1	Contextual Listening	LMCL0526	6	천천히 명확하게 말해질 때, 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.	LV1-2	짧은 대화/담화	Dialogue Response Selection	LMCL05260112	1	12	Special Days	천천히 명확하게 말해질 때, {**특별한 날**에 대한} 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0427	7	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Guided Listening Comprehension	LMCL04270112	1	12	Special Days	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 {**특별한 날**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0428	8	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Independent Listening Comprehension	LMCL04280112	1	12	Special Days	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 {**특별한 날**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0229	1	그림의 도움을 받아 간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Supported Word Comprehension	LMCR02290112	1	12	Special Days	그림의 도움을 받아 {**특별한 날**과 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0230	2	간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Independent Word Comprehension	LMCR02300112	1	12	Special Days	{**특별한 날**과 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0331	3	그림의 도움을 받아 간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Supported Sentence Comprehension	LMCR03310112	1	12	Special Days	그림의 도움을 받아 {**특별한 날**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0332	4	간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Independent Sentence Comprehension	LMCR03320112	1	12	Special Days	{**특별한 날**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0433	5	간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다	LV1-2	문장	Contextual Vocabulary Selection	LMCR04330112	1	12	Special Days	{**특별한 날**에 대한} 간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0434	6	간단한 여러 문장 간의 선후관계를 파악할 수 있다.	LV1-2	문단	Logical Sequencing	LMCR04340112	1	12	Special Days	{**특별한 날**에 관한} 간단한 여러 문장 간의 선후관계를 파악할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0435	7	간단한 여러 문장을 종합하여 의미를 파악할 수 있다.	LV1-2	문단	Contextual Integration	LMCR04350112	1	12	Special Days	{**특별한 날**에 관한} 간단한 여러 문장을 종합하여 의미를 파악할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0536	8	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Guided Reading Comprehension	LMCR05360112	1	12	Special Days	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 {**특별한 날**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0537	9	사실 정보에 기반하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Independent Reading Comprehension	LMCR05370112	1	12	Special Days	사실 정보에 기반하여 간단한 언어로된 {**특별한 날**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0538	10	드러나지 않는 내용을 추론하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Inferential Reading Comprehension	LMCR05380112	1	12	Special Days	드러나지 않는 내용을 추론하여 간단한 언어로된 {**특별한 날**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR07	2	Grammar	LMCR0739	1	간단한 문장을 읽고 올바른 형태를 찾을 수 있다.	LV1-2	문장	Grammatical Form Identification	LMCR07390112	1	12	Special Days	{**특별한 날**에 대한} 간단한 문장을 읽고 올바른 형태를 찾을 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0101	1	천천히 명확하게 말해질 때, 간단한 단어/구를 따라 말할 수 있다.	LV1-2	단어/구	Word Imitation	LMCS01010201	2	1	Past Events	천천히 명확하게 말해질 때, {**지난 일**과 관련된} 간단한 단어/구를 따라 말할 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0102	2	간단한 단어/구를 말할 수 있다.	LV1-2	단어/구	Word Retrieval	LMCS01020201	2	1	Past Events	{**지난 일**과 관련된} 간단한 단어/구를 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0203	1	천천히 명확하게 말해질 때, 간단한 문장을 따라 말할 수 있다.	LV1-2	문장	Sentence Imitation	LMCS02030201	2	1	Past Events	천천히 명확하게 말해질 때, {**지난 일**과 관련된} 간단한 문장을 따라 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0204	2	정해진 표현을 사용하여 간단한 문장을 말할 수 있다.	LV1-2	문장	Controlled Sentence Production	LMCS02040201	2	1	Past Events	정해진 표현을 사용하여 {**지난 일**에 대해} 간단한 문장을 말할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0305	3	정해진 표현을 사용하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Controlled Dialogue	LMCS03050201	2	1	Past Events	정해진 표현을 사용하여 {**지난 일**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0306	4	자유롭게 대화에 참여하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Free Interaction	LMCS03060201	2	1	Past Events	자유롭게 대화에 참여하여 {**지난 일**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0407	1	간단한 단어/구를 소리내어 읽을 수 있다.	LV1-2	단어/구	Word-level Reading Aloud	LMCS04070201	2	1	Past Events	{**지난 일**과 관련된} 간단한 단어/구를 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0408	2	간단한 문장을 소리내어 읽을 수 있다.	LV1-2	문장	Sentence-level Reading Aloud	LMCS04080201	2	1	Past Events	{**지난 일**과 관련된} 간단한 문장을 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0409	3	간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.	LV1-2	짧은 글	Text-level Reading Aloud	LMCS04090201	2	1	Past Events	{**지난 일**과 관련된} 간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0110	1	도움을 받아 간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Guided Spelling	LMCW01100201	2	1	Past Events	도움을 받아 {**지난 일**과 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0111	2	간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Independent Spelling	LMCW01110201	2	1	Past Events	{**지난 일**과 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0212	1	간단한 단어/구를 듣고 받아쓸 수 있다.	LV1-2	단어/구	Word Dictation	LMCW02120201	2	1	Past Events	{**지난 일**과 관련된} 간단한 단어/구를 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0213	2	간단한 문장을 듣고 받아쓸 수 있다.	LV1-2	문장	Sentence Dictation	LMCW02130201	2	1	Past Events	{**지난 일**에 대한} 간단한 문장을 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0314	1	간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence Building	LMCW03140201	2	1	Past Events	{**지난 일**에 대한} 간단한 문장을 구성할 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0315	2	정해진 표현을 사용하여 간단한 문장을 쓸 수 있다.	LV1-2	문장	Controlled Sentence Writing	LMCW03150201	2	1	Past Events	정해진 표현을 사용하여 {**지난 일**에 대한} 간단한 문장을 쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0316	3	간단한 문장을 자유롭게 쓸 수 있다.	LV1-2	문장	Free Sentence Writing	LMCW03160201	2	1	Past Events	{**지난 일**에 대한} 간단한 문장을 자유롭게 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0417	4	가이드 문구의 도움을 받아 간단한 언어로된 문단을 쓸 수 있다.	LV1-2	문단	Guided Paragraph Writing	LMCW04170201	2	1	Past Events	가이드 문구의 도움을 받아 간단한 언어로된 {**지난 일**에 관한} 문단을 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0418	5	간단한 언어로된 문단을 자유롭게 쓸 수 있다.	LV1-2	문단	Free Paragraph Writing	LMCW04180201	2	1	Past Events	{**지난 일**에 관해} 간단한 언어로된 문단을 자유롭게 쓸 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0119	1	소리를 듣고 간단한 단어/구를 구성할 수 있다.	LV1-2	단어/구	Word-level Sound Recognition	LMCL01190201	2	1	Past Events	소리를 듣고 {**지난 일**과 관련된} 간단한 단어/구를 구성할 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0120	2	소리를 듣고 간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence-level Sound Recognition	LMCL01200201	2	1	Past Events	소리를 듣고 {**지난 일**과 관련된} 간단한 문장을 구성할 수 있다.
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0221	1	그림의 도움을 받아 간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Supported Word Comprehension	LMCL02210201	2	1	Past Events	그림의 도움을 받아 {**지난 일**과 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0222	2	간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Independent Word Comprehension	LMCL02220201	2	1	Past Events	{**지난 일**과 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0323	3	천천히 명확하게 말해질 때, 그림의 도움을 받아 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Supported Sentence Comprehension	LMCL03230201	2	1	Past Events	천천히 명확하게 말해질 때, 그림의 도움을 받아 {**지난 일**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0324	4	천천히 명확하게 말해질 때, 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Independent Sentence Comprehension	LMCL03240201	2	1	Past Events	천천히 명확하게 말해질 때, {**지난 일**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0325	5	천천히 명확하게 말해질 때, 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.	LV1-2	문장	Inferential Sentence Comprehension	LMCL03250201	2	1	Past Events	천천히 명확하게 말해질 때, {**지난 일**에 대한} 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.
+LMCL	Listening	LMCL05	1	Contextual Listening	LMCL0526	6	천천히 명확하게 말해질 때, 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.	LV1-2	짧은 대화/담화	Dialogue Response Selection	LMCL05260201	2	1	Past Events	천천히 명확하게 말해질 때, {**지난 일**에 대한} 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0427	7	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Guided Listening Comprehension	LMCL04270201	2	1	Past Events	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 {**지난 일**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0428	8	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Independent Listening Comprehension	LMCL04280201	2	1	Past Events	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 {**지난 일**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0229	1	그림의 도움을 받아 간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Supported Word Comprehension	LMCR02290201	2	1	Past Events	그림의 도움을 받아 {**지난 일**과 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0230	2	간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Independent Word Comprehension	LMCR02300201	2	1	Past Events	{**지난 일**과 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0331	3	그림의 도움을 받아 간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Supported Sentence Comprehension	LMCR03310201	2	1	Past Events	그림의 도움을 받아 {**지난 일**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0332	4	간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Independent Sentence Comprehension	LMCR03320201	2	1	Past Events	{**지난 일**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0433	5	간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다	LV1-2	문장	Contextual Vocabulary Selection	LMCR04330201	2	1	Past Events	{**지난 일**에 대한} 간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0434	6	간단한 여러 문장 간의 선후관계를 파악할 수 있다.	LV1-2	문단	Logical Sequencing	LMCR04340201	2	1	Past Events	{**지난 일**에 관한} 간단한 여러 문장 간의 선후관계를 파악할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0435	7	간단한 여러 문장을 종합하여 의미를 파악할 수 있다.	LV1-2	문단	Contextual Integration	LMCR04350201	2	1	Past Events	{**지난 일**에 관한} 간단한 여러 문장을 종합하여 의미를 파악할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0536	8	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Guided Reading Comprehension	LMCR05360201	2	1	Past Events	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 {**지난 일**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0537	9	사실 정보에 기반하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Independent Reading Comprehension	LMCR05370201	2	1	Past Events	사실 정보에 기반하여 간단한 언어로된 {**지난 일**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0538	10	드러나지 않는 내용을 추론하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Inferential Reading Comprehension	LMCR05380201	2	1	Past Events	드러나지 않는 내용을 추론하여 간단한 언어로된 {**지난 일**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR07	2	Grammar	LMCR0739	1	간단한 문장을 읽고 올바른 형태를 찾을 수 있다.	LV1-2	문장	Grammatical Form Identification	LMCR07390201	2	1	Past Events	{**지난 일**에 대한} 간단한 문장을 읽고 올바른 형태를 찾을 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0101	1	천천히 명확하게 말해질 때, 간단한 단어/구를 따라 말할 수 있다.	LV1-2	단어/구	Word Imitation	LMCS01010202	2	2	School Events	천천히 명확하게 말해질 때, {**학교 행사**와 관련된} 간단한 단어/구를 따라 말할 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0102	2	간단한 단어/구를 말할 수 있다.	LV1-2	단어/구	Word Retrieval	LMCS01020202	2	2	School Events	{**학교 행사**와 관련된} 간단한 단어/구를 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0203	1	천천히 명확하게 말해질 때, 간단한 문장을 따라 말할 수 있다.	LV1-2	문장	Sentence Imitation	LMCS02030202	2	2	School Events	천천히 명확하게 말해질 때, {**학교 행사**와 관련된} 간단한 문장을 따라 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0204	2	정해진 표현을 사용하여 간단한 문장을 말할 수 있다.	LV1-2	문장	Controlled Sentence Production	LMCS02040202	2	2	School Events	정해진 표현을 사용하여 {**학교 행사**에 대해} 간단한 문장을 말할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0305	3	정해진 표현을 사용하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Controlled Dialogue	LMCS03050202	2	2	School Events	정해진 표현을 사용하여 {**학교 행사**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0306	4	자유롭게 대화에 참여하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Free Interaction	LMCS03060202	2	2	School Events	자유롭게 대화에 참여하여 {**학교 행사**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0407	1	간단한 단어/구를 소리내어 읽을 수 있다.	LV1-2	단어/구	Word-level Reading Aloud	LMCS04070202	2	2	School Events	{**학교 행사**와 관련된} 간단한 단어/구를 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0408	2	간단한 문장을 소리내어 읽을 수 있다.	LV1-2	문장	Sentence-level Reading Aloud	LMCS04080202	2	2	School Events	{**학교 행사**와 관련된} 간단한 문장을 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0409	3	간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.	LV1-2	짧은 글	Text-level Reading Aloud	LMCS04090202	2	2	School Events	{**학교 행사**와 관련된} 간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0110	1	도움을 받아 간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Guided Spelling	LMCW01100202	2	2	School Events	도움을 받아 {**학교 행사**와 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0111	2	간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Independent Spelling	LMCW01110202	2	2	School Events	{**학교 행사**와 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0212	1	간단한 단어/구를 듣고 받아쓸 수 있다.	LV1-2	단어/구	Word Dictation	LMCW02120202	2	2	School Events	{**학교 행사**와 관련된} 간단한 단어/구를 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0213	2	간단한 문장을 듣고 받아쓸 수 있다.	LV1-2	문장	Sentence Dictation	LMCW02130202	2	2	School Events	{**학교 행사**에 대한} 간단한 문장을 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0314	1	간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence Building	LMCW03140202	2	2	School Events	{**학교 행사**에 대한} 간단한 문장을 구성할 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0315	2	정해진 표현을 사용하여 간단한 문장을 쓸 수 있다.	LV1-2	문장	Controlled Sentence Writing	LMCW03150202	2	2	School Events	정해진 표현을 사용하여 {**학교 행사**에 대한} 간단한 문장을 쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0316	3	간단한 문장을 자유롭게 쓸 수 있다.	LV1-2	문장	Free Sentence Writing	LMCW03160202	2	2	School Events	{**학교 행사**에 대한} 간단한 문장을 자유롭게 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0417	4	가이드 문구의 도움을 받아 간단한 언어로된 문단을 쓸 수 있다.	LV1-2	문단	Guided Paragraph Writing	LMCW04170202	2	2	School Events	가이드 문구의 도움을 받아 간단한 언어로된 {**학교 행사**에 관한} 문단을 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0418	5	간단한 언어로된 문단을 자유롭게 쓸 수 있다.	LV1-2	문단	Free Paragraph Writing	LMCW04180202	2	2	School Events	{**학교 행사**에 관해} 간단한 언어로된 문단을 자유롭게 쓸 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0119	1	소리를 듣고 간단한 단어/구를 구성할 수 있다.	LV1-2	단어/구	Word-level Sound Recognition	LMCL01190202	2	2	School Events	소리를 듣고 {**학교 행사**와 관련된} 간단한 단어/구를 구성할 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0120	2	소리를 듣고 간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence-level Sound Recognition	LMCL01200202	2	2	School Events	소리를 듣고 {**학교 행사**와 관련된} 간단한 문장을 구성할 수 있다.
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0221	1	그림의 도움을 받아 간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Supported Word Comprehension	LMCL02210202	2	2	School Events	그림의 도움을 받아 {**학교 행사**와 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0222	2	간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Independent Word Comprehension	LMCL02220202	2	2	School Events	{**학교 행사**와 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0323	3	천천히 명확하게 말해질 때, 그림의 도움을 받아 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Supported Sentence Comprehension	LMCL03230202	2	2	School Events	천천히 명확하게 말해질 때, 그림의 도움을 받아 {**학교 행사**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0324	4	천천히 명확하게 말해질 때, 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Independent Sentence Comprehension	LMCL03240202	2	2	School Events	천천히 명확하게 말해질 때, {**학교 행사**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0325	5	천천히 명확하게 말해질 때, 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.	LV1-2	문장	Inferential Sentence Comprehension	LMCL03250202	2	2	School Events	천천히 명확하게 말해질 때, {**학교 행사**에 대한} 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.
+LMCL	Listening	LMCL05	1	Contextual Listening	LMCL0526	6	천천히 명확하게 말해질 때, 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.	LV1-2	짧은 대화/담화	Dialogue Response Selection	LMCL05260202	2	2	School Events	천천히 명확하게 말해질 때, {**학교 행사**에 대한} 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0427	7	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Guided Listening Comprehension	LMCL04270202	2	2	School Events	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 {**학교 행사**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0428	8	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Independent Listening Comprehension	LMCL04280202	2	2	School Events	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 {**학교 행사**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0229	1	그림의 도움을 받아 간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Supported Word Comprehension	LMCR02290202	2	2	School Events	그림의 도움을 받아 {**학교 행사**와 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0230	2	간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Independent Word Comprehension	LMCR02300202	2	2	School Events	{**학교 행사**와 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0331	3	그림의 도움을 받아 간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Supported Sentence Comprehension	LMCR03310202	2	2	School Events	그림의 도움을 받아 {**학교 행사**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0332	4	간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Independent Sentence Comprehension	LMCR03320202	2	2	School Events	{**학교 행사**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0433	5	간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다	LV1-2	문장	Contextual Vocabulary Selection	LMCR04330202	2	2	School Events	{**학교 행사**에 대한} 간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0434	6	간단한 여러 문장 간의 선후관계를 파악할 수 있다.	LV1-2	문단	Logical Sequencing	LMCR04340202	2	2	School Events	{**학교 행사**에 관한} 간단한 여러 문장 간의 선후관계를 파악할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0435	7	간단한 여러 문장을 종합하여 의미를 파악할 수 있다.	LV1-2	문단	Contextual Integration	LMCR04350202	2	2	School Events	{**학교 행사**에 관한} 간단한 여러 문장을 종합하여 의미를 파악할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0536	8	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Guided Reading Comprehension	LMCR05360202	2	2	School Events	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 {**학교 행사**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0537	9	사실 정보에 기반하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Independent Reading Comprehension	LMCR05370202	2	2	School Events	사실 정보에 기반하여 간단한 언어로된 {**학교 행사**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0538	10	드러나지 않는 내용을 추론하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Inferential Reading Comprehension	LMCR05380202	2	2	School Events	드러나지 않는 내용을 추론하여 간단한 언어로된 {**학교 행사**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR07	2	Grammar	LMCR0739	1	간단한 문장을 읽고 올바른 형태를 찾을 수 있다.	LV1-2	문장	Grammatical Form Identification	LMCR07390202	2	2	School Events	{**학교 행사**에 대한} 간단한 문장을 읽고 올바른 형태를 찾을 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0101	1	천천히 명확하게 말해질 때, 간단한 단어/구를 따라 말할 수 있다.	LV1-2	단어/구	Word Imitation	LMCS01010203	2	3	Careers	천천히 명확하게 말해질 때, {**진로**와 관련된} 간단한 단어/구를 따라 말할 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0102	2	간단한 단어/구를 말할 수 있다.	LV1-2	단어/구	Word Retrieval	LMCS01020203	2	3	Careers	{**진로**와 관련된} 간단한 단어/구를 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0203	1	천천히 명확하게 말해질 때, 간단한 문장을 따라 말할 수 있다.	LV1-2	문장	Sentence Imitation	LMCS02030203	2	3	Careers	천천히 명확하게 말해질 때, {**진로**와 관련된} 간단한 문장을 따라 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0204	2	정해진 표현을 사용하여 간단한 문장을 말할 수 있다.	LV1-2	문장	Controlled Sentence Production	LMCS02040203	2	3	Careers	정해진 표현을 사용하여 {**진로**에 대해} 간단한 문장을 말할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0305	3	정해진 표현을 사용하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Controlled Dialogue	LMCS03050203	2	3	Careers	정해진 표현을 사용하여 {**진로**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0306	4	자유롭게 대화에 참여하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Free Interaction	LMCS03060203	2	3	Careers	자유롭게 대화에 참여하여 {**진로**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0407	1	간단한 단어/구를 소리내어 읽을 수 있다.	LV1-2	단어/구	Word-level Reading Aloud	LMCS04070203	2	3	Careers	{**진로**와 관련된} 간단한 단어/구를 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0408	2	간단한 문장을 소리내어 읽을 수 있다.	LV1-2	문장	Sentence-level Reading Aloud	LMCS04080203	2	3	Careers	{**진로**와 관련된} 간단한 문장을 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0409	3	간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.	LV1-2	짧은 글	Text-level Reading Aloud	LMCS04090203	2	3	Careers	{**진로**와 관련된} 간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0110	1	도움을 받아 간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Guided Spelling	LMCW01100203	2	3	Careers	도움을 받아 {**진로**와 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0111	2	간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Independent Spelling	LMCW01110203	2	3	Careers	{**진로**와 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0212	1	간단한 단어/구를 듣고 받아쓸 수 있다.	LV1-2	단어/구	Word Dictation	LMCW02120203	2	3	Careers	{**진로**와 관련된} 간단한 단어/구를 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0213	2	간단한 문장을 듣고 받아쓸 수 있다.	LV1-2	문장	Sentence Dictation	LMCW02130203	2	3	Careers	{**진로**에 대한} 간단한 문장을 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0314	1	간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence Building	LMCW03140203	2	3	Careers	{**진로**에 대한} 간단한 문장을 구성할 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0315	2	정해진 표현을 사용하여 간단한 문장을 쓸 수 있다.	LV1-2	문장	Controlled Sentence Writing	LMCW03150203	2	3	Careers	정해진 표현을 사용하여 {**진로**에 대한} 간단한 문장을 쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0316	3	간단한 문장을 자유롭게 쓸 수 있다.	LV1-2	문장	Free Sentence Writing	LMCW03160203	2	3	Careers	{**진로**에 대한} 간단한 문장을 자유롭게 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0417	4	가이드 문구의 도움을 받아 간단한 언어로된 문단을 쓸 수 있다.	LV1-2	문단	Guided Paragraph Writing	LMCW04170203	2	3	Careers	가이드 문구의 도움을 받아 간단한 언어로된 {**진로**에 관한} 문단을 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0418	5	간단한 언어로된 문단을 자유롭게 쓸 수 있다.	LV1-2	문단	Free Paragraph Writing	LMCW04180203	2	3	Careers	{**진로**에 관해} 간단한 언어로된 문단을 자유롭게 쓸 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0119	1	소리를 듣고 간단한 단어/구를 구성할 수 있다.	LV1-2	단어/구	Word-level Sound Recognition	LMCL01190203	2	3	Careers	소리를 듣고 {**진로**와 관련된} 간단한 단어/구를 구성할 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0120	2	소리를 듣고 간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence-level Sound Recognition	LMCL01200203	2	3	Careers	소리를 듣고 {**진로**와 관련된} 간단한 문장을 구성할 수 있다.
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0221	1	그림의 도움을 받아 간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Supported Word Comprehension	LMCL02210203	2	3	Careers	그림의 도움을 받아 {**진로**와 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0222	2	간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Independent Word Comprehension	LMCL02220203	2	3	Careers	{**진로**와 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0323	3	천천히 명확하게 말해질 때, 그림의 도움을 받아 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Supported Sentence Comprehension	LMCL03230203	2	3	Careers	천천히 명확하게 말해질 때, 그림의 도움을 받아 {**진로**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0324	4	천천히 명확하게 말해질 때, 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Independent Sentence Comprehension	LMCL03240203	2	3	Careers	천천히 명확하게 말해질 때, {**진로**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0325	5	천천히 명확하게 말해질 때, 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.	LV1-2	문장	Inferential Sentence Comprehension	LMCL03250203	2	3	Careers	천천히 명확하게 말해질 때, {**진로**에 대한} 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.
+LMCL	Listening	LMCL05	1	Contextual Listening	LMCL0526	6	천천히 명확하게 말해질 때, 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.	LV1-2	짧은 대화/담화	Dialogue Response Selection	LMCL05260203	2	3	Careers	천천히 명확하게 말해질 때, {**진로**에 대한} 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0427	7	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Guided Listening Comprehension	LMCL04270203	2	3	Careers	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 {**진로**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0428	8	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Independent Listening Comprehension	LMCL04280203	2	3	Careers	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 {**진로**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0229	1	그림의 도움을 받아 간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Supported Word Comprehension	LMCR02290203	2	3	Careers	그림의 도움을 받아 {**진로**와 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0230	2	간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Independent Word Comprehension	LMCR02300203	2	3	Careers	{**진로**와 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0331	3	그림의 도움을 받아 간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Supported Sentence Comprehension	LMCR03310203	2	3	Careers	그림의 도움을 받아 {**진로**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0332	4	간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Independent Sentence Comprehension	LMCR03320203	2	3	Careers	{**진로**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0433	5	간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다	LV1-2	문장	Contextual Vocabulary Selection	LMCR04330203	2	3	Careers	{**진로**에 대한} 간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0434	6	간단한 여러 문장 간의 선후관계를 파악할 수 있다.	LV1-2	문단	Logical Sequencing	LMCR04340203	2	3	Careers	{**진로**에 관한} 간단한 여러 문장 간의 선후관계를 파악할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0435	7	간단한 여러 문장을 종합하여 의미를 파악할 수 있다.	LV1-2	문단	Contextual Integration	LMCR04350203	2	3	Careers	{**진로**에 관한} 간단한 여러 문장을 종합하여 의미를 파악할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0536	8	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Guided Reading Comprehension	LMCR05360203	2	3	Careers	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 {**진로**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0537	9	사실 정보에 기반하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Independent Reading Comprehension	LMCR05370203	2	3	Careers	사실 정보에 기반하여 간단한 언어로된 {**진로**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0538	10	드러나지 않는 내용을 추론하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Inferential Reading Comprehension	LMCR05380203	2	3	Careers	드러나지 않는 내용을 추론하여 간단한 언어로된 {**진로**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR07	2	Grammar	LMCR0739	1	간단한 문장을 읽고 올바른 형태를 찾을 수 있다.	LV1-2	문장	Grammatical Form Identification	LMCR07390203	2	3	Careers	{**진로**에 대한} 간단한 문장을 읽고 올바른 형태를 찾을 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0101	1	천천히 명확하게 말해질 때, 간단한 단어/구를 따라 말할 수 있다.	LV1-2	단어/구	Word Imitation	LMCS01010204	2	4	Neighborhood	천천히 명확하게 말해질 때, {**동네**와 관련된} 간단한 단어/구를 따라 말할 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0102	2	간단한 단어/구를 말할 수 있다.	LV1-2	단어/구	Word Retrieval	LMCS01020204	2	4	Neighborhood	{**동네**와 관련된} 간단한 단어/구를 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0203	1	천천히 명확하게 말해질 때, 간단한 문장을 따라 말할 수 있다.	LV1-2	문장	Sentence Imitation	LMCS02030204	2	4	Neighborhood	천천히 명확하게 말해질 때, {**동네**와 관련된} 간단한 문장을 따라 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0204	2	정해진 표현을 사용하여 간단한 문장을 말할 수 있다.	LV1-2	문장	Controlled Sentence Production	LMCS02040204	2	4	Neighborhood	정해진 표현을 사용하여 {**동네**에 대해} 간단한 문장을 말할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0305	3	정해진 표현을 사용하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Controlled Dialogue	LMCS03050204	2	4	Neighborhood	정해진 표현을 사용하여 {**동네**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0306	4	자유롭게 대화에 참여하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Free Interaction	LMCS03060204	2	4	Neighborhood	자유롭게 대화에 참여하여 {**동네**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0407	1	간단한 단어/구를 소리내어 읽을 수 있다.	LV1-2	단어/구	Word-level Reading Aloud	LMCS04070204	2	4	Neighborhood	{**동네**와 관련된} 간단한 단어/구를 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0408	2	간단한 문장을 소리내어 읽을 수 있다.	LV1-2	문장	Sentence-level Reading Aloud	LMCS04080204	2	4	Neighborhood	{**동네**와 관련된} 간단한 문장을 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0409	3	간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.	LV1-2	짧은 글	Text-level Reading Aloud	LMCS04090204	2	4	Neighborhood	{**동네**와 관련된} 간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0110	1	도움을 받아 간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Guided Spelling	LMCW01100204	2	4	Neighborhood	도움을 받아 {**동네**와 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0111	2	간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Independent Spelling	LMCW01110204	2	4	Neighborhood	{**동네**와 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0212	1	간단한 단어/구를 듣고 받아쓸 수 있다.	LV1-2	단어/구	Word Dictation	LMCW02120204	2	4	Neighborhood	{**동네**와 관련된} 간단한 단어/구를 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0213	2	간단한 문장을 듣고 받아쓸 수 있다.	LV1-2	문장	Sentence Dictation	LMCW02130204	2	4	Neighborhood	{**동네**에 대한} 간단한 문장을 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0314	1	간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence Building	LMCW03140204	2	4	Neighborhood	{**동네**에 대한} 간단한 문장을 구성할 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0315	2	정해진 표현을 사용하여 간단한 문장을 쓸 수 있다.	LV1-2	문장	Controlled Sentence Writing	LMCW03150204	2	4	Neighborhood	정해진 표현을 사용하여 {**동네**에 대한} 간단한 문장을 쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0316	3	간단한 문장을 자유롭게 쓸 수 있다.	LV1-2	문장	Free Sentence Writing	LMCW03160204	2	4	Neighborhood	{**동네**에 대한} 간단한 문장을 자유롭게 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0417	4	가이드 문구의 도움을 받아 간단한 언어로된 문단을 쓸 수 있다.	LV1-2	문단	Guided Paragraph Writing	LMCW04170204	2	4	Neighborhood	가이드 문구의 도움을 받아 간단한 언어로된 {**동네**에 관한} 문단을 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0418	5	간단한 언어로된 문단을 자유롭게 쓸 수 있다.	LV1-2	문단	Free Paragraph Writing	LMCW04180204	2	4	Neighborhood	{**동네**에 관해} 간단한 언어로된 문단을 자유롭게 쓸 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0119	1	소리를 듣고 간단한 단어/구를 구성할 수 있다.	LV1-2	단어/구	Word-level Sound Recognition	LMCL01190204	2	4	Neighborhood	소리를 듣고 {**동네**와 관련된} 간단한 단어/구를 구성할 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0120	2	소리를 듣고 간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence-level Sound Recognition	LMCL01200204	2	4	Neighborhood	소리를 듣고 {**동네**와 관련된} 간단한 문장을 구성할 수 있다.
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0221	1	그림의 도움을 받아 간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Supported Word Comprehension	LMCL02210204	2	4	Neighborhood	그림의 도움을 받아 {**동네**와 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0222	2	간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Independent Word Comprehension	LMCL02220204	2	4	Neighborhood	{**동네**와 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0323	3	천천히 명확하게 말해질 때, 그림의 도움을 받아 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Supported Sentence Comprehension	LMCL03230204	2	4	Neighborhood	천천히 명확하게 말해질 때, 그림의 도움을 받아 {**동네**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0324	4	천천히 명확하게 말해질 때, 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Independent Sentence Comprehension	LMCL03240204	2	4	Neighborhood	천천히 명확하게 말해질 때, {**동네**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0325	5	천천히 명확하게 말해질 때, 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.	LV1-2	문장	Inferential Sentence Comprehension	LMCL03250204	2	4	Neighborhood	천천히 명확하게 말해질 때, {**동네**에 대한} 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.
+LMCL	Listening	LMCL05	1	Contextual Listening	LMCL0526	6	천천히 명확하게 말해질 때, 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.	LV1-2	짧은 대화/담화	Dialogue Response Selection	LMCL05260204	2	4	Neighborhood	천천히 명확하게 말해질 때, {**동네**에 대한} 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0427	7	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Guided Listening Comprehension	LMCL04270204	2	4	Neighborhood	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 {**동네**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0428	8	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Independent Listening Comprehension	LMCL04280204	2	4	Neighborhood	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 {**동네**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0229	1	그림의 도움을 받아 간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Supported Word Comprehension	LMCR02290204	2	4	Neighborhood	그림의 도움을 받아 {**동네**와 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0230	2	간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Independent Word Comprehension	LMCR02300204	2	4	Neighborhood	{**동네**와 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0331	3	그림의 도움을 받아 간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Supported Sentence Comprehension	LMCR03310204	2	4	Neighborhood	그림의 도움을 받아 {**동네**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0332	4	간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Independent Sentence Comprehension	LMCR03320204	2	4	Neighborhood	{**동네**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0433	5	간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다	LV1-2	문장	Contextual Vocabulary Selection	LMCR04330204	2	4	Neighborhood	{**동네**에 대한} 간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0434	6	간단한 여러 문장 간의 선후관계를 파악할 수 있다.	LV1-2	문단	Logical Sequencing	LMCR04340204	2	4	Neighborhood	{**동네**에 관한} 간단한 여러 문장 간의 선후관계를 파악할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0435	7	간단한 여러 문장을 종합하여 의미를 파악할 수 있다.	LV1-2	문단	Contextual Integration	LMCR04350204	2	4	Neighborhood	{**동네**에 관한} 간단한 여러 문장을 종합하여 의미를 파악할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0536	8	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Guided Reading Comprehension	LMCR05360204	2	4	Neighborhood	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 {**동네**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0537	9	사실 정보에 기반하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Independent Reading Comprehension	LMCR05370204	2	4	Neighborhood	사실 정보에 기반하여 간단한 언어로된 {**동네**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0538	10	드러나지 않는 내용을 추론하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Inferential Reading Comprehension	LMCR05380204	2	4	Neighborhood	드러나지 않는 내용을 추론하여 간단한 언어로된 {**동네**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR07	2	Grammar	LMCR0739	1	간단한 문장을 읽고 올바른 형태를 찾을 수 있다.	LV1-2	문장	Grammatical Form Identification	LMCR07390204	2	4	Neighborhood	{**동네**에 대한} 간단한 문장을 읽고 올바른 형태를 찾을 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0101	1	천천히 명확하게 말해질 때, 간단한 단어/구를 따라 말할 수 있다.	LV1-2	단어/구	Word Imitation	LMCS01010205	2	5	Sports	천천히 명확하게 말해질 때, {**스포츠**와 관련된} 간단한 단어/구를 따라 말할 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0102	2	간단한 단어/구를 말할 수 있다.	LV1-2	단어/구	Word Retrieval	LMCS01020205	2	5	Sports	{**스포츠**와 관련된} 간단한 단어/구를 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0203	1	천천히 명확하게 말해질 때, 간단한 문장을 따라 말할 수 있다.	LV1-2	문장	Sentence Imitation	LMCS02030205	2	5	Sports	천천히 명확하게 말해질 때, {**스포츠**와 관련된} 간단한 문장을 따라 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0204	2	정해진 표현을 사용하여 간단한 문장을 말할 수 있다.	LV1-2	문장	Controlled Sentence Production	LMCS02040205	2	5	Sports	정해진 표현을 사용하여 {**스포츠**에 대해} 간단한 문장을 말할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0305	3	정해진 표현을 사용하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Controlled Dialogue	LMCS03050205	2	5	Sports	정해진 표현을 사용하여 {**스포츠**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0306	4	자유롭게 대화에 참여하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Free Interaction	LMCS03060205	2	5	Sports	자유롭게 대화에 참여하여 {**스포츠**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0407	1	간단한 단어/구를 소리내어 읽을 수 있다.	LV1-2	단어/구	Word-level Reading Aloud	LMCS04070205	2	5	Sports	{**스포츠**와 관련된} 간단한 단어/구를 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0408	2	간단한 문장을 소리내어 읽을 수 있다.	LV1-2	문장	Sentence-level Reading Aloud	LMCS04080205	2	5	Sports	{**스포츠**와 관련된} 간단한 문장을 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0409	3	간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.	LV1-2	짧은 글	Text-level Reading Aloud	LMCS04090205	2	5	Sports	{**스포츠**와 관련된} 간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0110	1	도움을 받아 간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Guided Spelling	LMCW01100205	2	5	Sports	도움을 받아 {**스포츠**와 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0111	2	간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Independent Spelling	LMCW01110205	2	5	Sports	{**스포츠**와 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0212	1	간단한 단어/구를 듣고 받아쓸 수 있다.	LV1-2	단어/구	Word Dictation	LMCW02120205	2	5	Sports	{**스포츠**와 관련된} 간단한 단어/구를 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0213	2	간단한 문장을 듣고 받아쓸 수 있다.	LV1-2	문장	Sentence Dictation	LMCW02130205	2	5	Sports	{**스포츠**에 대한} 간단한 문장을 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0314	1	간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence Building	LMCW03140205	2	5	Sports	{**스포츠**에 대한} 간단한 문장을 구성할 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0315	2	정해진 표현을 사용하여 간단한 문장을 쓸 수 있다.	LV1-2	문장	Controlled Sentence Writing	LMCW03150205	2	5	Sports	정해진 표현을 사용하여 {**스포츠**에 대한} 간단한 문장을 쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0316	3	간단한 문장을 자유롭게 쓸 수 있다.	LV1-2	문장	Free Sentence Writing	LMCW03160205	2	5	Sports	{**스포츠**에 대한} 간단한 문장을 자유롭게 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0417	4	가이드 문구의 도움을 받아 간단한 언어로된 문단을 쓸 수 있다.	LV1-2	문단	Guided Paragraph Writing	LMCW04170205	2	5	Sports	가이드 문구의 도움을 받아 간단한 언어로된 {**스포츠**에 관한} 문단을 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0418	5	간단한 언어로된 문단을 자유롭게 쓸 수 있다.	LV1-2	문단	Free Paragraph Writing	LMCW04180205	2	5	Sports	{**스포츠**에 관해} 간단한 언어로된 문단을 자유롭게 쓸 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0119	1	소리를 듣고 간단한 단어/구를 구성할 수 있다.	LV1-2	단어/구	Word-level Sound Recognition	LMCL01190205	2	5	Sports	소리를 듣고 {**스포츠**와 관련된} 간단한 단어/구를 구성할 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0120	2	소리를 듣고 간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence-level Sound Recognition	LMCL01200205	2	5	Sports	소리를 듣고 {**스포츠**와 관련된} 간단한 문장을 구성할 수 있다.
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0221	1	그림의 도움을 받아 간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Supported Word Comprehension	LMCL02210205	2	5	Sports	그림의 도움을 받아 {**스포츠**와 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0222	2	간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Independent Word Comprehension	LMCL02220205	2	5	Sports	{**스포츠**와 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0323	3	천천히 명확하게 말해질 때, 그림의 도움을 받아 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Supported Sentence Comprehension	LMCL03230205	2	5	Sports	천천히 명확하게 말해질 때, 그림의 도움을 받아 {**스포츠**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0324	4	천천히 명확하게 말해질 때, 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Independent Sentence Comprehension	LMCL03240205	2	5	Sports	천천히 명확하게 말해질 때, {**스포츠**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0325	5	천천히 명확하게 말해질 때, 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.	LV1-2	문장	Inferential Sentence Comprehension	LMCL03250205	2	5	Sports	천천히 명확하게 말해질 때, {**스포츠**에 대한} 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.
+LMCL	Listening	LMCL05	1	Contextual Listening	LMCL0526	6	천천히 명확하게 말해질 때, 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.	LV1-2	짧은 대화/담화	Dialogue Response Selection	LMCL05260205	2	5	Sports	천천히 명확하게 말해질 때, {**스포츠**에 대한} 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0427	7	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Guided Listening Comprehension	LMCL04270205	2	5	Sports	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 {**스포츠**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0428	8	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Independent Listening Comprehension	LMCL04280205	2	5	Sports	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 {**스포츠**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0229	1	그림의 도움을 받아 간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Supported Word Comprehension	LMCR02290205	2	5	Sports	그림의 도움을 받아 {**스포츠**와 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0230	2	간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Independent Word Comprehension	LMCR02300205	2	5	Sports	{**스포츠**와 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0331	3	그림의 도움을 받아 간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Supported Sentence Comprehension	LMCR03310205	2	5	Sports	그림의 도움을 받아 {**스포츠**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0332	4	간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Independent Sentence Comprehension	LMCR03320205	2	5	Sports	{**스포츠**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0433	5	간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다	LV1-2	문장	Contextual Vocabulary Selection	LMCR04330205	2	5	Sports	{**스포츠**에 대한} 간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0434	6	간단한 여러 문장 간의 선후관계를 파악할 수 있다.	LV1-2	문단	Logical Sequencing	LMCR04340205	2	5	Sports	{**스포츠**에 관한} 간단한 여러 문장 간의 선후관계를 파악할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0435	7	간단한 여러 문장을 종합하여 의미를 파악할 수 있다.	LV1-2	문단	Contextual Integration	LMCR04350205	2	5	Sports	{**스포츠**에 관한} 간단한 여러 문장을 종합하여 의미를 파악할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0536	8	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Guided Reading Comprehension	LMCR05360205	2	5	Sports	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 {**스포츠**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0537	9	사실 정보에 기반하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Independent Reading Comprehension	LMCR05370205	2	5	Sports	사실 정보에 기반하여 간단한 언어로된 {**스포츠**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0538	10	드러나지 않는 내용을 추론하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Inferential Reading Comprehension	LMCR05380205	2	5	Sports	드러나지 않는 내용을 추론하여 간단한 언어로된 {**스포츠**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR07	2	Grammar	LMCR0739	1	간단한 문장을 읽고 올바른 형태를 찾을 수 있다.	LV1-2	문장	Grammatical Form Identification	LMCR07390205	2	5	Sports	{**스포츠**에 대한} 간단한 문장을 읽고 올바른 형태를 찾을 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0101	1	천천히 명확하게 말해질 때, 간단한 단어/구를 따라 말할 수 있다.	LV1-2	단어/구	Word Imitation	LMCS01010206	2	6	Work	천천히 명확하게 말해질 때, {**직업**과 관련된} 간단한 단어/구를 따라 말할 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0102	2	간단한 단어/구를 말할 수 있다.	LV1-2	단어/구	Word Retrieval	LMCS01020206	2	6	Work	{**직업**과 관련된} 간단한 단어/구를 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0203	1	천천히 명확하게 말해질 때, 간단한 문장을 따라 말할 수 있다.	LV1-2	문장	Sentence Imitation	LMCS02030206	2	6	Work	천천히 명확하게 말해질 때, {**직업**과 관련된} 간단한 문장을 따라 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0204	2	정해진 표현을 사용하여 간단한 문장을 말할 수 있다.	LV1-2	문장	Controlled Sentence Production	LMCS02040206	2	6	Work	정해진 표현을 사용하여 {**직업**에 대해} 간단한 문장을 말할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0305	3	정해진 표현을 사용하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Controlled Dialogue	LMCS03050206	2	6	Work	정해진 표현을 사용하여 {**직업**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0306	4	자유롭게 대화에 참여하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Free Interaction	LMCS03060206	2	6	Work	자유롭게 대화에 참여하여 {**직업**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0407	1	간단한 단어/구를 소리내어 읽을 수 있다.	LV1-2	단어/구	Word-level Reading Aloud	LMCS04070206	2	6	Work	{**직업**과 관련된} 간단한 단어/구를 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0408	2	간단한 문장을 소리내어 읽을 수 있다.	LV1-2	문장	Sentence-level Reading Aloud	LMCS04080206	2	6	Work	{**직업**과 관련된} 간단한 문장을 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0409	3	간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.	LV1-2	짧은 글	Text-level Reading Aloud	LMCS04090206	2	6	Work	{**직업**과 관련된} 간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0110	1	도움을 받아 간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Guided Spelling	LMCW01100206	2	6	Work	도움을 받아 {**직업**과 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0111	2	간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Independent Spelling	LMCW01110206	2	6	Work	{**직업**과 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0212	1	간단한 단어/구를 듣고 받아쓸 수 있다.	LV1-2	단어/구	Word Dictation	LMCW02120206	2	6	Work	{**직업**과 관련된} 간단한 단어/구를 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0213	2	간단한 문장을 듣고 받아쓸 수 있다.	LV1-2	문장	Sentence Dictation	LMCW02130206	2	6	Work	{**직업**에 대한} 간단한 문장을 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0314	1	간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence Building	LMCW03140206	2	6	Work	{**직업**에 대한} 간단한 문장을 구성할 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0315	2	정해진 표현을 사용하여 간단한 문장을 쓸 수 있다.	LV1-2	문장	Controlled Sentence Writing	LMCW03150206	2	6	Work	정해진 표현을 사용하여 {**직업**에 대한} 간단한 문장을 쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0316	3	간단한 문장을 자유롭게 쓸 수 있다.	LV1-2	문장	Free Sentence Writing	LMCW03160206	2	6	Work	{**직업**에 대한} 간단한 문장을 자유롭게 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0417	4	가이드 문구의 도움을 받아 간단한 언어로된 문단을 쓸 수 있다.	LV1-2	문단	Guided Paragraph Writing	LMCW04170206	2	6	Work	가이드 문구의 도움을 받아 간단한 언어로된 {**직업**에 관한} 문단을 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0418	5	간단한 언어로된 문단을 자유롭게 쓸 수 있다.	LV1-2	문단	Free Paragraph Writing	LMCW04180206	2	6	Work	{**직업**에 관해} 간단한 언어로된 문단을 자유롭게 쓸 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0119	1	소리를 듣고 간단한 단어/구를 구성할 수 있다.	LV1-2	단어/구	Word-level Sound Recognition	LMCL01190206	2	6	Work	소리를 듣고 {**직업**과 관련된} 간단한 단어/구를 구성할 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0120	2	소리를 듣고 간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence-level Sound Recognition	LMCL01200206	2	6	Work	소리를 듣고 {**직업**과 관련된} 간단한 문장을 구성할 수 있다.
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0221	1	그림의 도움을 받아 간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Supported Word Comprehension	LMCL02210206	2	6	Work	그림의 도움을 받아 {**직업**과 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0222	2	간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Independent Word Comprehension	LMCL02220206	2	6	Work	{**직업**과 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0323	3	천천히 명확하게 말해질 때, 그림의 도움을 받아 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Supported Sentence Comprehension	LMCL03230206	2	6	Work	천천히 명확하게 말해질 때, 그림의 도움을 받아 {**직업**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0324	4	천천히 명확하게 말해질 때, 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Independent Sentence Comprehension	LMCL03240206	2	6	Work	천천히 명확하게 말해질 때, {**직업**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0325	5	천천히 명확하게 말해질 때, 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.	LV1-2	문장	Inferential Sentence Comprehension	LMCL03250206	2	6	Work	천천히 명확하게 말해질 때, {**직업**에 대한} 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.
+LMCL	Listening	LMCL05	1	Contextual Listening	LMCL0526	6	천천히 명확하게 말해질 때, 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.	LV1-2	짧은 대화/담화	Dialogue Response Selection	LMCL05260206	2	6	Work	천천히 명확하게 말해질 때, {**직업**에 대한} 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0427	7	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Guided Listening Comprehension	LMCL04270206	2	6	Work	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 {**직업**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0428	8	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Independent Listening Comprehension	LMCL04280206	2	6	Work	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 {**직업**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0229	1	그림의 도움을 받아 간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Supported Word Comprehension	LMCR02290206	2	6	Work	그림의 도움을 받아 {**직업**과 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0230	2	간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Independent Word Comprehension	LMCR02300206	2	6	Work	{**직업**과 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0331	3	그림의 도움을 받아 간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Supported Sentence Comprehension	LMCR03310206	2	6	Work	그림의 도움을 받아 {**직업**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0332	4	간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Independent Sentence Comprehension	LMCR03320206	2	6	Work	{**직업**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0433	5	간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다	LV1-2	문장	Contextual Vocabulary Selection	LMCR04330206	2	6	Work	{**직업**에 대한} 간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0434	6	간단한 여러 문장 간의 선후관계를 파악할 수 있다.	LV1-2	문단	Logical Sequencing	LMCR04340206	2	6	Work	{**직업**에 관한} 간단한 여러 문장 간의 선후관계를 파악할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0435	7	간단한 여러 문장을 종합하여 의미를 파악할 수 있다.	LV1-2	문단	Contextual Integration	LMCR04350206	2	6	Work	{**직업**에 관한} 간단한 여러 문장을 종합하여 의미를 파악할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0536	8	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Guided Reading Comprehension	LMCR05360206	2	6	Work	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 {**직업**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0537	9	사실 정보에 기반하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Independent Reading Comprehension	LMCR05370206	2	6	Work	사실 정보에 기반하여 간단한 언어로된 {**직업**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0538	10	드러나지 않는 내용을 추론하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Inferential Reading Comprehension	LMCR05380206	2	6	Work	드러나지 않는 내용을 추론하여 간단한 언어로된 {**직업**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR07	2	Grammar	LMCR0739	1	간단한 문장을 읽고 올바른 형태를 찾을 수 있다.	LV1-2	문장	Grammatical Form Identification	LMCR07390206	2	6	Work	{**직업**에 대한} 간단한 문장을 읽고 올바른 형태를 찾을 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0101	1	천천히 명확하게 말해질 때, 간단한 단어/구를 따라 말할 수 있다.	LV1-2	단어/구	Word Imitation	LMCS01010207	2	7	Weather and Seasons	천천히 명확하게 말해질 때, {**날씨와 계절**과 관련된} 간단한 단어/구를 따라 말할 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0102	2	간단한 단어/구를 말할 수 있다.	LV1-2	단어/구	Word Retrieval	LMCS01020207	2	7	Weather and Seasons	{**날씨와 계절**과 관련된} 간단한 단어/구를 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0203	1	천천히 명확하게 말해질 때, 간단한 문장을 따라 말할 수 있다.	LV1-2	문장	Sentence Imitation	LMCS02030207	2	7	Weather and Seasons	천천히 명확하게 말해질 때, {**날씨와 계절**과 관련된} 간단한 문장을 따라 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0204	2	정해진 표현을 사용하여 간단한 문장을 말할 수 있다.	LV1-2	문장	Controlled Sentence Production	LMCS02040207	2	7	Weather and Seasons	정해진 표현을 사용하여 {**날씨와 계절**에 대해} 간단한 문장을 말할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0305	3	정해진 표현을 사용하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Controlled Dialogue	LMCS03050207	2	7	Weather and Seasons	정해진 표현을 사용하여 {**날씨와 계절**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0306	4	자유롭게 대화에 참여하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Free Interaction	LMCS03060207	2	7	Weather and Seasons	자유롭게 대화에 참여하여 {**날씨와 계절**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0407	1	간단한 단어/구를 소리내어 읽을 수 있다.	LV1-2	단어/구	Word-level Reading Aloud	LMCS04070207	2	7	Weather and Seasons	{**날씨와 계절**과 관련된} 간단한 단어/구를 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0408	2	간단한 문장을 소리내어 읽을 수 있다.	LV1-2	문장	Sentence-level Reading Aloud	LMCS04080207	2	7	Weather and Seasons	{**날씨와 계절**과 관련된} 간단한 문장을 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0409	3	간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.	LV1-2	짧은 글	Text-level Reading Aloud	LMCS04090207	2	7	Weather and Seasons	{**날씨와 계절**과 관련된} 간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0110	1	도움을 받아 간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Guided Spelling	LMCW01100207	2	7	Weather and Seasons	도움을 받아 {**날씨와 계절**과 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0111	2	간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Independent Spelling	LMCW01110207	2	7	Weather and Seasons	{**날씨와 계절**과 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0212	1	간단한 단어/구를 듣고 받아쓸 수 있다.	LV1-2	단어/구	Word Dictation	LMCW02120207	2	7	Weather and Seasons	{**날씨와 계절**과 관련된} 간단한 단어/구를 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0213	2	간단한 문장을 듣고 받아쓸 수 있다.	LV1-2	문장	Sentence Dictation	LMCW02130207	2	7	Weather and Seasons	{**날씨와 계절**에 대한} 간단한 문장을 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0314	1	간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence Building	LMCW03140207	2	7	Weather and Seasons	{**날씨와 계절**에 대한} 간단한 문장을 구성할 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0315	2	정해진 표현을 사용하여 간단한 문장을 쓸 수 있다.	LV1-2	문장	Controlled Sentence Writing	LMCW03150207	2	7	Weather and Seasons	정해진 표현을 사용하여 {**날씨와 계절**에 대한} 간단한 문장을 쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0316	3	간단한 문장을 자유롭게 쓸 수 있다.	LV1-2	문장	Free Sentence Writing	LMCW03160207	2	7	Weather and Seasons	{**날씨와 계절**에 대한} 간단한 문장을 자유롭게 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0417	4	가이드 문구의 도움을 받아 간단한 언어로된 문단을 쓸 수 있다.	LV1-2	문단	Guided Paragraph Writing	LMCW04170207	2	7	Weather and Seasons	가이드 문구의 도움을 받아 간단한 언어로된 {**날씨와 계절**에 관한} 문단을 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0418	5	간단한 언어로된 문단을 자유롭게 쓸 수 있다.	LV1-2	문단	Free Paragraph Writing	LMCW04180207	2	7	Weather and Seasons	{**날씨와 계절**에 관해} 간단한 언어로된 문단을 자유롭게 쓸 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0119	1	소리를 듣고 간단한 단어/구를 구성할 수 있다.	LV1-2	단어/구	Word-level Sound Recognition	LMCL01190207	2	7	Weather and Seasons	소리를 듣고 {**날씨와 계절**과 관련된} 간단한 단어/구를 구성할 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0120	2	소리를 듣고 간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence-level Sound Recognition	LMCL01200207	2	7	Weather and Seasons	소리를 듣고 {**날씨와 계절**과 관련된} 간단한 문장을 구성할 수 있다.
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0221	1	그림의 도움을 받아 간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Supported Word Comprehension	LMCL02210207	2	7	Weather and Seasons	그림의 도움을 받아 {**날씨와 계절**과 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0222	2	간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Independent Word Comprehension	LMCL02220207	2	7	Weather and Seasons	{**날씨와 계절**과 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0323	3	천천히 명확하게 말해질 때, 그림의 도움을 받아 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Supported Sentence Comprehension	LMCL03230207	2	7	Weather and Seasons	천천히 명확하게 말해질 때, 그림의 도움을 받아 {**날씨와 계절**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0324	4	천천히 명확하게 말해질 때, 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Independent Sentence Comprehension	LMCL03240207	2	7	Weather and Seasons	천천히 명확하게 말해질 때, {**날씨와 계절**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0325	5	천천히 명확하게 말해질 때, 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.	LV1-2	문장	Inferential Sentence Comprehension	LMCL03250207	2	7	Weather and Seasons	천천히 명확하게 말해질 때, {**날씨와 계절**에 대한} 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.
+LMCL	Listening	LMCL05	1	Contextual Listening	LMCL0526	6	천천히 명확하게 말해질 때, 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.	LV1-2	짧은 대화/담화	Dialogue Response Selection	LMCL05260207	2	7	Weather and Seasons	천천히 명확하게 말해질 때, {**날씨와 계절**에 대한} 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0427	7	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Guided Listening Comprehension	LMCL04270207	2	7	Weather and Seasons	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 {**날씨와 계절**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0428	8	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Independent Listening Comprehension	LMCL04280207	2	7	Weather and Seasons	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 {**날씨와 계절**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0229	1	그림의 도움을 받아 간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Supported Word Comprehension	LMCR02290207	2	7	Weather and Seasons	그림의 도움을 받아 {**날씨와 계절**과 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0230	2	간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Independent Word Comprehension	LMCR02300207	2	7	Weather and Seasons	{**날씨와 계절**과 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0331	3	그림의 도움을 받아 간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Supported Sentence Comprehension	LMCR03310207	2	7	Weather and Seasons	그림의 도움을 받아 {**날씨와 계절**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0332	4	간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Independent Sentence Comprehension	LMCR03320207	2	7	Weather and Seasons	{**날씨와 계절**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0433	5	간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다	LV1-2	문장	Contextual Vocabulary Selection	LMCR04330207	2	7	Weather and Seasons	{**날씨와 계절**에 대한} 간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0434	6	간단한 여러 문장 간의 선후관계를 파악할 수 있다.	LV1-2	문단	Logical Sequencing	LMCR04340207	2	7	Weather and Seasons	{**날씨와 계절**에 관한} 간단한 여러 문장 간의 선후관계를 파악할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0435	7	간단한 여러 문장을 종합하여 의미를 파악할 수 있다.	LV1-2	문단	Contextual Integration	LMCR04350207	2	7	Weather and Seasons	{**날씨와 계절**에 관한} 간단한 여러 문장을 종합하여 의미를 파악할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0536	8	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Guided Reading Comprehension	LMCR05360207	2	7	Weather and Seasons	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 {**날씨와 계절**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0537	9	사실 정보에 기반하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Independent Reading Comprehension	LMCR05370207	2	7	Weather and Seasons	사실 정보에 기반하여 간단한 언어로된 {**날씨와 계절**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0538	10	드러나지 않는 내용을 추론하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Inferential Reading Comprehension	LMCR05380207	2	7	Weather and Seasons	드러나지 않는 내용을 추론하여 간단한 언어로된 {**날씨와 계절**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR07	2	Grammar	LMCR0739	1	간단한 문장을 읽고 올바른 형태를 찾을 수 있다.	LV1-2	문장	Grammatical Form Identification	LMCR07390207	2	7	Weather and Seasons	{**날씨와 계절**에 대한} 간단한 문장을 읽고 올바른 형태를 찾을 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0101	1	천천히 명확하게 말해질 때, 간단한 단어/구를 따라 말할 수 있다.	LV1-2	단어/구	Word Imitation	LMCS01010208	2	8	Health	천천히 명확하게 말해질 때, {**건강**과 관련된} 간단한 단어/구를 따라 말할 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0102	2	간단한 단어/구를 말할 수 있다.	LV1-2	단어/구	Word Retrieval	LMCS01020208	2	8	Health	{**건강**과 관련된} 간단한 단어/구를 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0203	1	천천히 명확하게 말해질 때, 간단한 문장을 따라 말할 수 있다.	LV1-2	문장	Sentence Imitation	LMCS02030208	2	8	Health	천천히 명확하게 말해질 때, {**건강**과 관련된} 간단한 문장을 따라 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0204	2	정해진 표현을 사용하여 간단한 문장을 말할 수 있다.	LV1-2	문장	Controlled Sentence Production	LMCS02040208	2	8	Health	정해진 표현을 사용하여 {**건강**에 대해} 간단한 문장을 말할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0305	3	정해진 표현을 사용하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Controlled Dialogue	LMCS03050208	2	8	Health	정해진 표현을 사용하여 {**건강**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0306	4	자유롭게 대화에 참여하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Free Interaction	LMCS03060208	2	8	Health	자유롭게 대화에 참여하여 {**건강**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0407	1	간단한 단어/구를 소리내어 읽을 수 있다.	LV1-2	단어/구	Word-level Reading Aloud	LMCS04070208	2	8	Health	{**건강**과 관련된} 간단한 단어/구를 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0408	2	간단한 문장을 소리내어 읽을 수 있다.	LV1-2	문장	Sentence-level Reading Aloud	LMCS04080208	2	8	Health	{**건강**과 관련된} 간단한 문장을 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0409	3	간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.	LV1-2	짧은 글	Text-level Reading Aloud	LMCS04090208	2	8	Health	{**건강**과 관련된} 간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0110	1	도움을 받아 간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Guided Spelling	LMCW01100208	2	8	Health	도움을 받아 {**건강**과 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0111	2	간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Independent Spelling	LMCW01110208	2	8	Health	{**건강**과 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0212	1	간단한 단어/구를 듣고 받아쓸 수 있다.	LV1-2	단어/구	Word Dictation	LMCW02120208	2	8	Health	{**건강**과 관련된} 간단한 단어/구를 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0213	2	간단한 문장을 듣고 받아쓸 수 있다.	LV1-2	문장	Sentence Dictation	LMCW02130208	2	8	Health	{**건강**에 대한} 간단한 문장을 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0314	1	간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence Building	LMCW03140208	2	8	Health	{**건강**에 대한} 간단한 문장을 구성할 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0315	2	정해진 표현을 사용하여 간단한 문장을 쓸 수 있다.	LV1-2	문장	Controlled Sentence Writing	LMCW03150208	2	8	Health	정해진 표현을 사용하여 {**건강**에 대한} 간단한 문장을 쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0316	3	간단한 문장을 자유롭게 쓸 수 있다.	LV1-2	문장	Free Sentence Writing	LMCW03160208	2	8	Health	{**건강**에 대한} 간단한 문장을 자유롭게 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0417	4	가이드 문구의 도움을 받아 간단한 언어로된 문단을 쓸 수 있다.	LV1-2	문단	Guided Paragraph Writing	LMCW04170208	2	8	Health	가이드 문구의 도움을 받아 간단한 언어로된 {**건강**에 관한} 문단을 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0418	5	간단한 언어로된 문단을 자유롭게 쓸 수 있다.	LV1-2	문단	Free Paragraph Writing	LMCW04180208	2	8	Health	{**건강**에 관해} 간단한 언어로된 문단을 자유롭게 쓸 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0119	1	소리를 듣고 간단한 단어/구를 구성할 수 있다.	LV1-2	단어/구	Word-level Sound Recognition	LMCL01190208	2	8	Health	소리를 듣고 {**건강**과 관련된} 간단한 단어/구를 구성할 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0120	2	소리를 듣고 간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence-level Sound Recognition	LMCL01200208	2	8	Health	소리를 듣고 {**건강**과 관련된} 간단한 문장을 구성할 수 있다.
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0221	1	그림의 도움을 받아 간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Supported Word Comprehension	LMCL02210208	2	8	Health	그림의 도움을 받아 {**건강**과 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0222	2	간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Independent Word Comprehension	LMCL02220208	2	8	Health	{**건강**과 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0323	3	천천히 명확하게 말해질 때, 그림의 도움을 받아 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Supported Sentence Comprehension	LMCL03230208	2	8	Health	천천히 명확하게 말해질 때, 그림의 도움을 받아 {**건강**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0324	4	천천히 명확하게 말해질 때, 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Independent Sentence Comprehension	LMCL03240208	2	8	Health	천천히 명확하게 말해질 때, {**건강**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0325	5	천천히 명확하게 말해질 때, 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.	LV1-2	문장	Inferential Sentence Comprehension	LMCL03250208	2	8	Health	천천히 명확하게 말해질 때, {**건강**에 대한} 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.
+LMCL	Listening	LMCL05	1	Contextual Listening	LMCL0526	6	천천히 명확하게 말해질 때, 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.	LV1-2	짧은 대화/담화	Dialogue Response Selection	LMCL05260208	2	8	Health	천천히 명확하게 말해질 때, {**건강**에 대한} 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0427	7	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Guided Listening Comprehension	LMCL04270208	2	8	Health	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 {**건강**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0428	8	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Independent Listening Comprehension	LMCL04280208	2	8	Health	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 {**건강**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0229	1	그림의 도움을 받아 간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Supported Word Comprehension	LMCR02290208	2	8	Health	그림의 도움을 받아 {**건강**과 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0230	2	간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Independent Word Comprehension	LMCR02300208	2	8	Health	{**건강**과 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0331	3	그림의 도움을 받아 간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Supported Sentence Comprehension	LMCR03310208	2	8	Health	그림의 도움을 받아 {**건강**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0332	4	간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Independent Sentence Comprehension	LMCR03320208	2	8	Health	{**건강**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0433	5	간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다	LV1-2	문장	Contextual Vocabulary Selection	LMCR04330208	2	8	Health	{**건강**에 대한} 간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0434	6	간단한 여러 문장 간의 선후관계를 파악할 수 있다.	LV1-2	문단	Logical Sequencing	LMCR04340208	2	8	Health	{**건강**에 관한} 간단한 여러 문장 간의 선후관계를 파악할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0435	7	간단한 여러 문장을 종합하여 의미를 파악할 수 있다.	LV1-2	문단	Contextual Integration	LMCR04350208	2	8	Health	{**건강**에 관한} 간단한 여러 문장을 종합하여 의미를 파악할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0536	8	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Guided Reading Comprehension	LMCR05360208	2	8	Health	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 {**건강**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0537	9	사실 정보에 기반하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Independent Reading Comprehension	LMCR05370208	2	8	Health	사실 정보에 기반하여 간단한 언어로된 {**건강**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0538	10	드러나지 않는 내용을 추론하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Inferential Reading Comprehension	LMCR05380208	2	8	Health	드러나지 않는 내용을 추론하여 간단한 언어로된 {**건강**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR07	2	Grammar	LMCR0739	1	간단한 문장을 읽고 올바른 형태를 찾을 수 있다.	LV1-2	문장	Grammatical Form Identification	LMCR07390208	2	8	Health	{**건강**에 대한} 간단한 문장을 읽고 올바른 형태를 찾을 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0101	1	천천히 명확하게 말해질 때, 간단한 단어/구를 따라 말할 수 있다.	LV1-2	단어/구	Word Imitation	LMCS01010209	2	9	Cooking	천천히 명확하게 말해질 때, {**요리**와 관련된} 간단한 단어/구를 따라 말할 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0102	2	간단한 단어/구를 말할 수 있다.	LV1-2	단어/구	Word Retrieval	LMCS01020209	2	9	Cooking	{**요리**와 관련된} 간단한 단어/구를 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0203	1	천천히 명확하게 말해질 때, 간단한 문장을 따라 말할 수 있다.	LV1-2	문장	Sentence Imitation	LMCS02030209	2	9	Cooking	천천히 명확하게 말해질 때, {**요리**와 관련된} 간단한 문장을 따라 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0204	2	정해진 표현을 사용하여 간단한 문장을 말할 수 있다.	LV1-2	문장	Controlled Sentence Production	LMCS02040209	2	9	Cooking	정해진 표현을 사용하여 {**요리**에 대해} 간단한 문장을 말할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0305	3	정해진 표현을 사용하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Controlled Dialogue	LMCS03050209	2	9	Cooking	정해진 표현을 사용하여 {**요리**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0306	4	자유롭게 대화에 참여하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Free Interaction	LMCS03060209	2	9	Cooking	자유롭게 대화에 참여하여 {**요리**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0407	1	간단한 단어/구를 소리내어 읽을 수 있다.	LV1-2	단어/구	Word-level Reading Aloud	LMCS04070209	2	9	Cooking	{**요리**와 관련된} 간단한 단어/구를 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0408	2	간단한 문장을 소리내어 읽을 수 있다.	LV1-2	문장	Sentence-level Reading Aloud	LMCS04080209	2	9	Cooking	{**요리**와 관련된} 간단한 문장을 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0409	3	간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.	LV1-2	짧은 글	Text-level Reading Aloud	LMCS04090209	2	9	Cooking	{**요리**와 관련된} 간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0110	1	도움을 받아 간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Guided Spelling	LMCW01100209	2	9	Cooking	도움을 받아 {**요리**와 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0111	2	간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Independent Spelling	LMCW01110209	2	9	Cooking	{**요리**와 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0212	1	간단한 단어/구를 듣고 받아쓸 수 있다.	LV1-2	단어/구	Word Dictation	LMCW02120209	2	9	Cooking	{**요리**와 관련된} 간단한 단어/구를 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0213	2	간단한 문장을 듣고 받아쓸 수 있다.	LV1-2	문장	Sentence Dictation	LMCW02130209	2	9	Cooking	{**요리**에 대한} 간단한 문장을 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0314	1	간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence Building	LMCW03140209	2	9	Cooking	{**요리**에 대한} 간단한 문장을 구성할 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0315	2	정해진 표현을 사용하여 간단한 문장을 쓸 수 있다.	LV1-2	문장	Controlled Sentence Writing	LMCW03150209	2	9	Cooking	정해진 표현을 사용하여 {**요리**에 대한} 간단한 문장을 쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0316	3	간단한 문장을 자유롭게 쓸 수 있다.	LV1-2	문장	Free Sentence Writing	LMCW03160209	2	9	Cooking	{**요리**에 대한} 간단한 문장을 자유롭게 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0417	4	가이드 문구의 도움을 받아 간단한 언어로된 문단을 쓸 수 있다.	LV1-2	문단	Guided Paragraph Writing	LMCW04170209	2	9	Cooking	가이드 문구의 도움을 받아 간단한 언어로된 {**요리**에 관한} 문단을 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0418	5	간단한 언어로된 문단을 자유롭게 쓸 수 있다.	LV1-2	문단	Free Paragraph Writing	LMCW04180209	2	9	Cooking	{**요리**에 관해} 간단한 언어로된 문단을 자유롭게 쓸 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0119	1	소리를 듣고 간단한 단어/구를 구성할 수 있다.	LV1-2	단어/구	Word-level Sound Recognition	LMCL01190209	2	9	Cooking	소리를 듣고 {**요리**와 관련된} 간단한 단어/구를 구성할 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0120	2	소리를 듣고 간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence-level Sound Recognition	LMCL01200209	2	9	Cooking	소리를 듣고 {**요리**와 관련된} 간단한 문장을 구성할 수 있다.
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0221	1	그림의 도움을 받아 간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Supported Word Comprehension	LMCL02210209	2	9	Cooking	그림의 도움을 받아 {**요리**와 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0222	2	간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Independent Word Comprehension	LMCL02220209	2	9	Cooking	{**요리**와 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0323	3	천천히 명확하게 말해질 때, 그림의 도움을 받아 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Supported Sentence Comprehension	LMCL03230209	2	9	Cooking	천천히 명확하게 말해질 때, 그림의 도움을 받아 {**요리**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0324	4	천천히 명확하게 말해질 때, 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Independent Sentence Comprehension	LMCL03240209	2	9	Cooking	천천히 명확하게 말해질 때, {**요리**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0325	5	천천히 명확하게 말해질 때, 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.	LV1-2	문장	Inferential Sentence Comprehension	LMCL03250209	2	9	Cooking	천천히 명확하게 말해질 때, {**요리**에 대한} 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.
+LMCL	Listening	LMCL05	1	Contextual Listening	LMCL0526	6	천천히 명확하게 말해질 때, 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.	LV1-2	짧은 대화/담화	Dialogue Response Selection	LMCL05260209	2	9	Cooking	천천히 명확하게 말해질 때, {**요리**에 대한} 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0427	7	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Guided Listening Comprehension	LMCL04270209	2	9	Cooking	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 {**요리**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0428	8	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Independent Listening Comprehension	LMCL04280209	2	9	Cooking	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 {**요리**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0229	1	그림의 도움을 받아 간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Supported Word Comprehension	LMCR02290209	2	9	Cooking	그림의 도움을 받아 {**요리**와 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0230	2	간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Independent Word Comprehension	LMCR02300209	2	9	Cooking	{**요리**와 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0331	3	그림의 도움을 받아 간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Supported Sentence Comprehension	LMCR03310209	2	9	Cooking	그림의 도움을 받아 {**요리**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0332	4	간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Independent Sentence Comprehension	LMCR03320209	2	9	Cooking	{**요리**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0433	5	간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다	LV1-2	문장	Contextual Vocabulary Selection	LMCR04330209	2	9	Cooking	{**요리**에 대한} 간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0434	6	간단한 여러 문장 간의 선후관계를 파악할 수 있다.	LV1-2	문단	Logical Sequencing	LMCR04340209	2	9	Cooking	{**요리**에 관한} 간단한 여러 문장 간의 선후관계를 파악할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0435	7	간단한 여러 문장을 종합하여 의미를 파악할 수 있다.	LV1-2	문단	Contextual Integration	LMCR04350209	2	9	Cooking	{**요리**에 관한} 간단한 여러 문장을 종합하여 의미를 파악할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0536	8	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Guided Reading Comprehension	LMCR05360209	2	9	Cooking	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 {**요리**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0537	9	사실 정보에 기반하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Independent Reading Comprehension	LMCR05370209	2	9	Cooking	사실 정보에 기반하여 간단한 언어로된 {**요리**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0538	10	드러나지 않는 내용을 추론하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Inferential Reading Comprehension	LMCR05380209	2	9	Cooking	드러나지 않는 내용을 추론하여 간단한 언어로된 {**요리**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR07	2	Grammar	LMCR0739	1	간단한 문장을 읽고 올바른 형태를 찾을 수 있다.	LV1-2	문장	Grammatical Form Identification	LMCR07390209	2	9	Cooking	{**요리**에 대한} 간단한 문장을 읽고 올바른 형태를 찾을 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0101	1	천천히 명확하게 말해질 때, 간단한 단어/구를 따라 말할 수 있다.	LV1-2	단어/구	Word Imitation	LMCS01010210	2	10	Social Media	천천히 명확하게 말해질 때, {**소셜 미디어**와 관련된} 간단한 단어/구를 따라 말할 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0102	2	간단한 단어/구를 말할 수 있다.	LV1-2	단어/구	Word Retrieval	LMCS01020210	2	10	Social Media	{**소셜 미디어**와 관련된} 간단한 단어/구를 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0203	1	천천히 명확하게 말해질 때, 간단한 문장을 따라 말할 수 있다.	LV1-2	문장	Sentence Imitation	LMCS02030210	2	10	Social Media	천천히 명확하게 말해질 때, {**소셜 미디어**와 관련된} 간단한 문장을 따라 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0204	2	정해진 표현을 사용하여 간단한 문장을 말할 수 있다.	LV1-2	문장	Controlled Sentence Production	LMCS02040210	2	10	Social Media	정해진 표현을 사용하여 {**소셜 미디어**에 대해} 간단한 문장을 말할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0305	3	정해진 표현을 사용하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Controlled Dialogue	LMCS03050210	2	10	Social Media	정해진 표현을 사용하여 {**소셜 미디어**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0306	4	자유롭게 대화에 참여하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Free Interaction	LMCS03060210	2	10	Social Media	자유롭게 대화에 참여하여 {**소셜 미디어**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0407	1	간단한 단어/구를 소리내어 읽을 수 있다.	LV1-2	단어/구	Word-level Reading Aloud	LMCS04070210	2	10	Social Media	{**소셜 미디어**와 관련된} 간단한 단어/구를 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0408	2	간단한 문장을 소리내어 읽을 수 있다.	LV1-2	문장	Sentence-level Reading Aloud	LMCS04080210	2	10	Social Media	{**소셜 미디어**와 관련된} 간단한 문장을 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0409	3	간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.	LV1-2	짧은 글	Text-level Reading Aloud	LMCS04090210	2	10	Social Media	{**소셜 미디어**와 관련된} 간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0110	1	도움을 받아 간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Guided Spelling	LMCW01100210	2	10	Social Media	도움을 받아 {**소셜 미디어**와 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0111	2	간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Independent Spelling	LMCW01110210	2	10	Social Media	{**소셜 미디어**와 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0212	1	간단한 단어/구를 듣고 받아쓸 수 있다.	LV1-2	단어/구	Word Dictation	LMCW02120210	2	10	Social Media	{**소셜 미디어**와 관련된} 간단한 단어/구를 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0213	2	간단한 문장을 듣고 받아쓸 수 있다.	LV1-2	문장	Sentence Dictation	LMCW02130210	2	10	Social Media	{**소셜 미디어**에 대한} 간단한 문장을 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0314	1	간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence Building	LMCW03140210	2	10	Social Media	{**소셜 미디어**에 대한} 간단한 문장을 구성할 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0315	2	정해진 표현을 사용하여 간단한 문장을 쓸 수 있다.	LV1-2	문장	Controlled Sentence Writing	LMCW03150210	2	10	Social Media	정해진 표현을 사용하여 {**소셜 미디어**에 대한} 간단한 문장을 쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0316	3	간단한 문장을 자유롭게 쓸 수 있다.	LV1-2	문장	Free Sentence Writing	LMCW03160210	2	10	Social Media	{**소셜 미디어**에 대한} 간단한 문장을 자유롭게 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0417	4	가이드 문구의 도움을 받아 간단한 언어로된 문단을 쓸 수 있다.	LV1-2	문단	Guided Paragraph Writing	LMCW04170210	2	10	Social Media	가이드 문구의 도움을 받아 간단한 언어로된 {**소셜 미디어**에 관한} 문단을 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0418	5	간단한 언어로된 문단을 자유롭게 쓸 수 있다.	LV1-2	문단	Free Paragraph Writing	LMCW04180210	2	10	Social Media	{**소셜 미디어**에 관해} 간단한 언어로된 문단을 자유롭게 쓸 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0119	1	소리를 듣고 간단한 단어/구를 구성할 수 있다.	LV1-2	단어/구	Word-level Sound Recognition	LMCL01190210	2	10	Social Media	소리를 듣고 {**소셜 미디어**와 관련된} 간단한 단어/구를 구성할 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0120	2	소리를 듣고 간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence-level Sound Recognition	LMCL01200210	2	10	Social Media	소리를 듣고 {**소셜 미디어**와 관련된} 간단한 문장을 구성할 수 있다.
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0221	1	그림의 도움을 받아 간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Supported Word Comprehension	LMCL02210210	2	10	Social Media	그림의 도움을 받아 {**소셜 미디어**와 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0222	2	간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Independent Word Comprehension	LMCL02220210	2	10	Social Media	{**소셜 미디어**와 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0323	3	천천히 명확하게 말해질 때, 그림의 도움을 받아 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Supported Sentence Comprehension	LMCL03230210	2	10	Social Media	천천히 명확하게 말해질 때, 그림의 도움을 받아 {**소셜 미디어**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0324	4	천천히 명확하게 말해질 때, 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Independent Sentence Comprehension	LMCL03240210	2	10	Social Media	천천히 명확하게 말해질 때, {**소셜 미디어**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0325	5	천천히 명확하게 말해질 때, 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.	LV1-2	문장	Inferential Sentence Comprehension	LMCL03250210	2	10	Social Media	천천히 명확하게 말해질 때, {**소셜 미디어**에 대한} 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.
+LMCL	Listening	LMCL05	1	Contextual Listening	LMCL0526	6	천천히 명확하게 말해질 때, 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.	LV1-2	짧은 대화/담화	Dialogue Response Selection	LMCL05260210	2	10	Social Media	천천히 명확하게 말해질 때, {**소셜 미디어**에 대한} 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0427	7	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Guided Listening Comprehension	LMCL04270210	2	10	Social Media	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 {**소셜 미디어**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0428	8	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Independent Listening Comprehension	LMCL04280210	2	10	Social Media	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 {**소셜 미디어**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0229	1	그림의 도움을 받아 간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Supported Word Comprehension	LMCR02290210	2	10	Social Media	그림의 도움을 받아 {**소셜 미디어**와 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0230	2	간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Independent Word Comprehension	LMCR02300210	2	10	Social Media	{**소셜 미디어**와 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0331	3	그림의 도움을 받아 간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Supported Sentence Comprehension	LMCR03310210	2	10	Social Media	그림의 도움을 받아 {**소셜 미디어**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0332	4	간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Independent Sentence Comprehension	LMCR03320210	2	10	Social Media	{**소셜 미디어**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0433	5	간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다	LV1-2	문장	Contextual Vocabulary Selection	LMCR04330210	2	10	Social Media	{**소셜 미디어**에 대한} 간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0434	6	간단한 여러 문장 간의 선후관계를 파악할 수 있다.	LV1-2	문단	Logical Sequencing	LMCR04340210	2	10	Social Media	{**소셜 미디어**에 관한} 간단한 여러 문장 간의 선후관계를 파악할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0435	7	간단한 여러 문장을 종합하여 의미를 파악할 수 있다.	LV1-2	문단	Contextual Integration	LMCR04350210	2	10	Social Media	{**소셜 미디어**에 관한} 간단한 여러 문장을 종합하여 의미를 파악할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0536	8	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Guided Reading Comprehension	LMCR05360210	2	10	Social Media	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 {**소셜 미디어**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0537	9	사실 정보에 기반하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Independent Reading Comprehension	LMCR05370210	2	10	Social Media	사실 정보에 기반하여 간단한 언어로된 {**소셜 미디어**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0538	10	드러나지 않는 내용을 추론하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Inferential Reading Comprehension	LMCR05380210	2	10	Social Media	드러나지 않는 내용을 추론하여 간단한 언어로된 {**소셜 미디어**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR07	2	Grammar	LMCR0739	1	간단한 문장을 읽고 올바른 형태를 찾을 수 있다.	LV1-2	문장	Grammatical Form Identification	LMCR07390210	2	10	Social Media	{**소셜 미디어**에 대한} 간단한 문장을 읽고 올바른 형태를 찾을 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0101	1	천천히 명확하게 말해질 때, 간단한 단어/구를 따라 말할 수 있다.	LV1-2	단어/구	Word Imitation	LMCS01010211	2	11	Time Travel	천천히 명확하게 말해질 때, {**시간 여행**과 관련된} 간단한 단어/구를 따라 말할 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0102	2	간단한 단어/구를 말할 수 있다.	LV1-2	단어/구	Word Retrieval	LMCS01020211	2	11	Time Travel	{**시간 여행**과 관련된} 간단한 단어/구를 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0203	1	천천히 명확하게 말해질 때, 간단한 문장을 따라 말할 수 있다.	LV1-2	문장	Sentence Imitation	LMCS02030211	2	11	Time Travel	천천히 명확하게 말해질 때, {**시간 여행**과 관련된} 간단한 문장을 따라 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0204	2	정해진 표현을 사용하여 간단한 문장을 말할 수 있다.	LV1-2	문장	Controlled Sentence Production	LMCS02040211	2	11	Time Travel	정해진 표현을 사용하여 {**시간 여행**에 대해} 간단한 문장을 말할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0305	3	정해진 표현을 사용하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Controlled Dialogue	LMCS03050211	2	11	Time Travel	정해진 표현을 사용하여 {**시간 여행**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0306	4	자유롭게 대화에 참여하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Free Interaction	LMCS03060211	2	11	Time Travel	자유롭게 대화에 참여하여 {**시간 여행**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0407	1	간단한 단어/구를 소리내어 읽을 수 있다.	LV1-2	단어/구	Word-level Reading Aloud	LMCS04070211	2	11	Time Travel	{**시간 여행**과 관련된} 간단한 단어/구를 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0408	2	간단한 문장을 소리내어 읽을 수 있다.	LV1-2	문장	Sentence-level Reading Aloud	LMCS04080211	2	11	Time Travel	{**시간 여행**과 관련된} 간단한 문장을 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0409	3	간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.	LV1-2	짧은 글	Text-level Reading Aloud	LMCS04090211	2	11	Time Travel	{**시간 여행**과 관련된} 간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0110	1	도움을 받아 간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Guided Spelling	LMCW01100211	2	11	Time Travel	도움을 받아 {**시간 여행**과 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0111	2	간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Independent Spelling	LMCW01110211	2	11	Time Travel	{**시간 여행**과 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0212	1	간단한 단어/구를 듣고 받아쓸 수 있다.	LV1-2	단어/구	Word Dictation	LMCW02120211	2	11	Time Travel	{**시간 여행**과 관련된} 간단한 단어/구를 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0213	2	간단한 문장을 듣고 받아쓸 수 있다.	LV1-2	문장	Sentence Dictation	LMCW02130211	2	11	Time Travel	{**시간 여행**에 대한} 간단한 문장을 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0314	1	간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence Building	LMCW03140211	2	11	Time Travel	{**시간 여행**에 대한} 간단한 문장을 구성할 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0315	2	정해진 표현을 사용하여 간단한 문장을 쓸 수 있다.	LV1-2	문장	Controlled Sentence Writing	LMCW03150211	2	11	Time Travel	정해진 표현을 사용하여 {**시간 여행**에 대한} 간단한 문장을 쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0316	3	간단한 문장을 자유롭게 쓸 수 있다.	LV1-2	문장	Free Sentence Writing	LMCW03160211	2	11	Time Travel	{**시간 여행**에 대한} 간단한 문장을 자유롭게 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0417	4	가이드 문구의 도움을 받아 간단한 언어로된 문단을 쓸 수 있다.	LV1-2	문단	Guided Paragraph Writing	LMCW04170211	2	11	Time Travel	가이드 문구의 도움을 받아 간단한 언어로된 {**시간 여행**에 관한} 문단을 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0418	5	간단한 언어로된 문단을 자유롭게 쓸 수 있다.	LV1-2	문단	Free Paragraph Writing	LMCW04180211	2	11	Time Travel	{**시간 여행**에 관해} 간단한 언어로된 문단을 자유롭게 쓸 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0119	1	소리를 듣고 간단한 단어/구를 구성할 수 있다.	LV1-2	단어/구	Word-level Sound Recognition	LMCL01190211	2	11	Time Travel	소리를 듣고 {**시간 여행**과 관련된} 간단한 단어/구를 구성할 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0120	2	소리를 듣고 간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence-level Sound Recognition	LMCL01200211	2	11	Time Travel	소리를 듣고 {**시간 여행**과 관련된} 간단한 문장을 구성할 수 있다.
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0221	1	그림의 도움을 받아 간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Supported Word Comprehension	LMCL02210211	2	11	Time Travel	그림의 도움을 받아 {**시간 여행**과 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0222	2	간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Independent Word Comprehension	LMCL02220211	2	11	Time Travel	{**시간 여행**과 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0323	3	천천히 명확하게 말해질 때, 그림의 도움을 받아 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Supported Sentence Comprehension	LMCL03230211	2	11	Time Travel	천천히 명확하게 말해질 때, 그림의 도움을 받아 {**시간 여행**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0324	4	천천히 명확하게 말해질 때, 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Independent Sentence Comprehension	LMCL03240211	2	11	Time Travel	천천히 명확하게 말해질 때, {**시간 여행**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0325	5	천천히 명확하게 말해질 때, 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.	LV1-2	문장	Inferential Sentence Comprehension	LMCL03250211	2	11	Time Travel	천천히 명확하게 말해질 때, {**시간 여행**에 대한} 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.
+LMCL	Listening	LMCL05	1	Contextual Listening	LMCL0526	6	천천히 명확하게 말해질 때, 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.	LV1-2	짧은 대화/담화	Dialogue Response Selection	LMCL05260211	2	11	Time Travel	천천히 명확하게 말해질 때, {**시간 여행**에 대한} 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0427	7	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Guided Listening Comprehension	LMCL04270211	2	11	Time Travel	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 {**시간 여행**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0428	8	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Independent Listening Comprehension	LMCL04280211	2	11	Time Travel	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 {**시간 여행**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0229	1	그림의 도움을 받아 간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Supported Word Comprehension	LMCR02290211	2	11	Time Travel	그림의 도움을 받아 {**시간 여행**과 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0230	2	간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Independent Word Comprehension	LMCR02300211	2	11	Time Travel	{**시간 여행**과 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0331	3	그림의 도움을 받아 간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Supported Sentence Comprehension	LMCR03310211	2	11	Time Travel	그림의 도움을 받아 {**시간 여행**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0332	4	간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Independent Sentence Comprehension	LMCR03320211	2	11	Time Travel	{**시간 여행**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0433	5	간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다	LV1-2	문장	Contextual Vocabulary Selection	LMCR04330211	2	11	Time Travel	{**시간 여행**에 대한} 간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0434	6	간단한 여러 문장 간의 선후관계를 파악할 수 있다.	LV1-2	문단	Logical Sequencing	LMCR04340211	2	11	Time Travel	{**시간 여행**에 관한} 간단한 여러 문장 간의 선후관계를 파악할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0435	7	간단한 여러 문장을 종합하여 의미를 파악할 수 있다.	LV1-2	문단	Contextual Integration	LMCR04350211	2	11	Time Travel	{**시간 여행**에 관한} 간단한 여러 문장을 종합하여 의미를 파악할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0536	8	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Guided Reading Comprehension	LMCR05360211	2	11	Time Travel	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 {**시간 여행**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0537	9	사실 정보에 기반하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Independent Reading Comprehension	LMCR05370211	2	11	Time Travel	사실 정보에 기반하여 간단한 언어로된 {**시간 여행**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0538	10	드러나지 않는 내용을 추론하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Inferential Reading Comprehension	LMCR05380211	2	11	Time Travel	드러나지 않는 내용을 추론하여 간단한 언어로된 {**시간 여행**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR07	2	Grammar	LMCR0739	1	간단한 문장을 읽고 올바른 형태를 찾을 수 있다.	LV1-2	문장	Grammatical Form Identification	LMCR07390211	2	11	Time Travel	{**시간 여행**에 대한} 간단한 문장을 읽고 올바른 형태를 찾을 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0101	1	천천히 명확하게 말해질 때, 간단한 단어/구를 따라 말할 수 있다.	LV1-2	단어/구	Word Imitation	LMCS01010212	2	12	Vacations	천천히 명확하게 말해질 때, {**방학**과 관련된} 간단한 단어/구를 따라 말할 수 있다.
+LMCS	Speaking	LMCS01	3	Word-level Speaking	LMCS0102	2	간단한 단어/구를 말할 수 있다.	LV1-2	단어/구	Word Retrieval	LMCS01020212	2	12	Vacations	{**방학**과 관련된} 간단한 단어/구를 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0203	1	천천히 명확하게 말해질 때, 간단한 문장을 따라 말할 수 있다.	LV1-2	문장	Sentence Imitation	LMCS02030212	2	12	Vacations	천천히 명확하게 말해질 때, {**방학**과 관련된} 간단한 문장을 따라 말할 수 있다.
+LMCS	Speaking	LMCS02	1	Sentence-level Speaking	LMCS0204	2	정해진 표현을 사용하여 간단한 문장을 말할 수 있다.	LV1-2	문장	Controlled Sentence Production	LMCS02040212	2	12	Vacations	정해진 표현을 사용하여 {**방학**에 대해} 간단한 문장을 말할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0305	3	정해진 표현을 사용하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Controlled Dialogue	LMCS03050212	2	12	Vacations	정해진 표현을 사용하여 {**방학**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS03	1	Discourse-level Speaking	LMCS0306	4	자유롭게 대화에 참여하여 간단한 언어로 대화할 수 있다.	LV1-2	짧은 대화/담화	Free Interaction	LMCS03060212	2	12	Vacations	자유롭게 대화에 참여하여 {**방학**에 대해} 간단한 언어로 대화할 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0407	1	간단한 단어/구를 소리내어 읽을 수 있다.	LV1-2	단어/구	Word-level Reading Aloud	LMCS04070212	2	12	Vacations	{**방학**과 관련된} 간단한 단어/구를 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0408	2	간단한 문장을 소리내어 읽을 수 있다.	LV1-2	문장	Sentence-level Reading Aloud	LMCS04080212	2	12	Vacations	{**방학**과 관련된} 간단한 문장을 소리내어 읽을 수 있다.
+LMCS	Speaking	LMCS04	2	Reading Aloud	LMCS0409	3	간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.	LV1-2	짧은 글	Text-level Reading Aloud	LMCS04090212	2	12	Vacations	{**방학**과 관련된} 간단한 언어로된 짧은 글을 소리내어 읽을 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0110	1	도움을 받아 간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Guided Spelling	LMCW01100212	2	12	Vacations	도움을 받아 {**방학**과 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW01	2	Spelling	LMCW0111	2	간단한 단어/구를 철자에 맞게 쓸 수 있다.	LV1-2	단어/구	Independent Spelling	LMCW01110212	2	12	Vacations	{**방학**과 관련된} 간단한 단어/구를 철자에 맞게 쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0212	1	간단한 단어/구를 듣고 받아쓸 수 있다.	LV1-2	단어/구	Word Dictation	LMCW02120212	2	12	Vacations	{**방학**과 관련된} 간단한 단어/구를 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW02	3	Dictation	LMCW0213	2	간단한 문장을 듣고 받아쓸 수 있다.	LV1-2	문장	Sentence Dictation	LMCW02130212	2	12	Vacations	{**방학**에 대한} 간단한 문장을 듣고 받아쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0314	1	간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence Building	LMCW03140212	2	12	Vacations	{**방학**에 대한} 간단한 문장을 구성할 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0315	2	정해진 표현을 사용하여 간단한 문장을 쓸 수 있다.	LV1-2	문장	Controlled Sentence Writing	LMCW03150212	2	12	Vacations	정해진 표현을 사용하여 {**방학**에 대한} 간단한 문장을 쓸 수 있다.
+LMCW	Writing	LMCW03	1	Sentence-level Writing	LMCW0316	3	간단한 문장을 자유롭게 쓸 수 있다.	LV1-2	문장	Free Sentence Writing	LMCW03160212	2	12	Vacations	{**방학**에 대한} 간단한 문장을 자유롭게 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0417	4	가이드 문구의 도움을 받아 간단한 언어로된 문단을 쓸 수 있다.	LV1-2	문단	Guided Paragraph Writing	LMCW04170212	2	12	Vacations	가이드 문구의 도움을 받아 간단한 언어로된 {**방학**에 관한} 문단을 쓸 수 있다.
+LMCW	Writing	LMCW04	1	Paragraph-level Writing	LMCW0418	5	간단한 언어로된 문단을 자유롭게 쓸 수 있다.	LV1-2	문단	Free Paragraph Writing	LMCW04180212	2	12	Vacations	{**방학**에 관해} 간단한 언어로된 문단을 자유롭게 쓸 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0119	1	소리를 듣고 간단한 단어/구를 구성할 수 있다.	LV1-2	단어/구	Word-level Sound Recognition	LMCL01190212	2	12	Vacations	소리를 듣고 {**방학**과 관련된} 간단한 단어/구를 구성할 수 있다.
+LMCL	Listening	LMCL01	2	Sound Recognition	LMCL0120	2	소리를 듣고 간단한 문장을 구성할 수 있다.	LV1-2	문장	Sentence-level Sound Recognition	LMCL01200212	2	12	Vacations	소리를 듣고 {**방학**과 관련된} 간단한 문장을 구성할 수 있다.
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0221	1	그림의 도움을 받아 간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Supported Word Comprehension	LMCL02210212	2	12	Vacations	그림의 도움을 받아 {**방학**과 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL02	1	Word-level Listening	LMCL0222	2	간단한 단어/구를 듣고 의미를 이해할 수 있다	LV1-2	단어/구	Independent Word Comprehension	LMCL02220212	2	12	Vacations	{**방학**과 관련된} 간단한 단어/구를 듣고 의미를 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0323	3	천천히 명확하게 말해질 때, 그림의 도움을 받아 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Supported Sentence Comprehension	LMCL03230212	2	12	Vacations	천천히 명확하게 말해질 때, 그림의 도움을 받아 {**방학**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0324	4	천천히 명확하게 말해질 때, 간단한 문장을 듣고 이해할 수 있다	LV1-2	문장	Independent Sentence Comprehension	LMCL03240212	2	12	Vacations	천천히 명확하게 말해질 때, {**방학**에 대한} 간단한 문장을 듣고 이해할 수 있다
+LMCL	Listening	LMCL03	1	Sentence-level Listening	LMCL0325	5	천천히 명확하게 말해질 때, 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.	LV1-2	문장	Inferential Sentence Comprehension	LMCL03250212	2	12	Vacations	천천히 명확하게 말해질 때, {**방학**에 대한} 간단한 문장을 듣고 드러나지 않는 내용을 이해할 수 있다.
+LMCL	Listening	LMCL05	1	Contextual Listening	LMCL0526	6	천천히 명확하게 말해질 때, 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.	LV1-2	짧은 대화/담화	Dialogue Response Selection	LMCL05260212	2	12	Vacations	천천히 명확하게 말해질 때, {**방학**에 대한} 간단한 질문이나 응답을 듣고 올바른 응답이나 질문을 찾을 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0427	7	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Guided Listening Comprehension	LMCL04270212	2	12	Vacations	천천히 명확하게 말해질 때, 도움을 받아 사실 정보에 기반하여 간단한 언어로된 {**방학**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCL	Listening	LMCL04	1	Discourse-level Listening	LMCL0428	8	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 짧은 담화의 내용을 이해할 수 있다.	LV1-2	짧은 대화/담화	Independent Listening Comprehension	LMCL04280212	2	12	Vacations	천천히 명확하게 말해질 때, 사실 정보에 기반하여 간단한 언어로된 {**방학**에 관한} 짧은 담화의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0229	1	그림의 도움을 받아 간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Supported Word Comprehension	LMCR02290212	2	12	Vacations	그림의 도움을 받아 {**방학**과 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR02	1	Word-level Reading	LMCR0230	2	간단한 단어/구의 의미를 이해할 수 있다.	LV1-2	단어/구	Independent Word Comprehension	LMCR02300212	2	12	Vacations	{**방학**과 관련된} 간단한 단어/구의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0331	3	그림의 도움을 받아 간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Supported Sentence Comprehension	LMCR03310212	2	12	Vacations	그림의 도움을 받아 {**방학**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR03	1	Sentence-level Reading	LMCR0332	4	간단한 문장의 의미를 이해할 수 있다.	LV1-2	문장	Independent Sentence Comprehension	LMCR03320212	2	12	Vacations	{**방학**에 대한} 간단한 문장의 의미를 이해할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0433	5	간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다	LV1-2	문장	Contextual Vocabulary Selection	LMCR04330212	2	12	Vacations	{**방학**에 대한} 간단한 문장을 읽고 문맥에 맞는 단어나 구를 찾을 수 있다
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0434	6	간단한 여러 문장 간의 선후관계를 파악할 수 있다.	LV1-2	문단	Logical Sequencing	LMCR04340212	2	12	Vacations	{**방학**에 관한} 간단한 여러 문장 간의 선후관계를 파악할 수 있다.
+LMCR	Reading	LMCR04	1	Contextual Reading	LMCR0435	7	간단한 여러 문장을 종합하여 의미를 파악할 수 있다.	LV1-2	문단	Contextual Integration	LMCR04350212	2	12	Vacations	{**방학**에 관한} 간단한 여러 문장을 종합하여 의미를 파악할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0536	8	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Guided Reading Comprehension	LMCR05360212	2	12	Vacations	도움을 받아 사실 정보에 기반하여 간단한 언어로 된 {**방학**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0537	9	사실 정보에 기반하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Independent Reading Comprehension	LMCR05370212	2	12	Vacations	사실 정보에 기반하여 간단한 언어로된 {**방학**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR05	1	Reading Comprehension	LMCR0538	10	드러나지 않는 내용을 추론하여 간단한 언어로된 짧은 글의 내용을 이해할 수 있다.	LV1-2	짧은 글	Inferential Reading Comprehension	LMCR05380212	2	12	Vacations	드러나지 않는 내용을 추론하여 간단한 언어로된 {**방학**에 관한} 짧은 글의 내용을 이해할 수 있다.
+LMCR	Reading	LMCR07	2	Grammar	LMCR0739	1	간단한 문장을 읽고 올바른 형태를 찾을 수 있다.	LV1-2	문장	Grammatical Form Identification	LMCR07390212	2	12	Vacations	{**방학**에 대한} 간단한 문장을 읽고 올바른 형태를 찾을 수 있다.
+												3	1	Nature	
